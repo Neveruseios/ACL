@@ -1205,6 +1205,14 @@
 (^|\.)xn--i2ru8q2qg\.com$
 (^|\.)twimg\.org$
 (^|\.)dmm\.com$
+(^|\.).jp$
+(^|\.)\w*cygames\w*\.\w*$
+(^|\.)\w*appsflyer\w*\.\w*$
+(^|\.)\w*shadowverse\w*\.\w*$
+(^|\.)\w*app-adforce\w*\.\w*$
+(^|\.)\w*klabgames\w*\.\w*$
+(^|\.)\w*akamaized\w*\.\w*$
+(^|\.)\w*colopl\w*\.\w*$
 (^|\.)eu-west-1\.compute\.amazonaws\.com$
 
 #GFWList IP start
