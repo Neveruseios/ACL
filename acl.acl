@@ -23,7 +23,10 @@
 #**********************************************************************
 [outbound_block_list]
 # 禁止访问列表
-
+#MY
+(^|\.)\w*tapone\w*\.\w*$
+(^|\.)\w*umeng\w*\.\w*$
+(^|\.)\w*jpush\w*\.\w*$
 # 广告关键词
 (^|\.)\w*admarvel\w*\..*$
 (^|\.)\w*admaster\w*\..*$
@@ -1272,7 +1275,6 @@
 (^|\.)\w*facebook\w*\.\w*$
 (^|\.)\w*fbcdn\w*\.\w*$
 (^|\.)\w*gmail\w*\.\w*$
-(^|\.)\w*google\w*\.\w*$
 (^|\.)\w*instagram\w*\.\w*$
 (^|\.)\w*spotify\w*\.\w*$
 (^|\.)\w*telegram\w*\.\w*$
