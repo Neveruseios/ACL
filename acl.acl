@@ -1213,6 +1213,8 @@
 (^|\.)\w*klabgames\w*\.\w*$
 (^|\.)\w*akamaized\w*\.\w*$
 (^|\.)\w*colopl\w*\.\w*$
+(^|\.)\w*appspot\w*\.\w*$
+(^|\.)\w*nintendo\w*\.\w*$
 (^|\.)eu-west-1\.compute\.amazonaws\.com$
 
 #GFWList IP start
