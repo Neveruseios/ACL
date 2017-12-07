@@ -1221,6 +1221,8 @@
 (^|\.)\w*steam\w*\.\w*$
 (^|\.)\w*xiami\w*\.\w*$
 (^|\.)\w*xiaomi\w*\.\w*$
+(^|\.)\w*taobao\w*\.\w*$
+(^|\.)\w*alibaba\w*\.\w*$
 
 # TaoBao
 (^|\.)taobao\.com$
