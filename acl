@@ -39,6 +39,7 @@
 (^|\.)\w*apkpure\w*\.\w*$
 (^|\.)\w*pixiv\w*\.\w*$
 (^|\.)\w*github\w*\.\w*$
+(^|\.)\w*dmm\w*\.\w*$
 
 #GFWList IP start
 85.17.73.31
