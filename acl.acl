@@ -1222,6 +1222,7 @@
 (^|\.)\w*apkmirror\w*\.\w*$
 (^|\.)\w*apkpure\w*\.\w*$
 (^|\.)\w*pixiv\w*\.\w*$
+(^|\.)\w*github\w*\.\w*$
 (^|\.)eu-west-1\.compute\.amazonaws\.com$
 
 #GFWList IP start
