@@ -5474,6 +5474,7 @@
 (^|\.)\w*umeng\w*\.\w*$
 (^|\.)\w*jpush\w*\.\w*$
 (^|\.)\w*umengcloud\w*\.\w*$
+(^|\.)rd\.ane\.yahoo\.co\.jp$
 # 广告关键词
 (^|\.)\w*admarvel\w*\..*$
 (^|\.)\w*admaster\w*\..*$
