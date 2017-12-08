@@ -40,6 +40,8 @@
 (^|\.)\w*pixiv\w*\.\w*$
 (^|\.)\w*github\w*\.\w*$
 (^|\.)\w*dmm\w*\.\w*$
+(^|\.)\w*youtubei\w*\.\w*$
+(^|\.)\w*googlevideo\w*\.\w*$
 
 #GFWList IP start
 85.17.73.31
