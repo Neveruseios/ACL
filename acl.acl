@@ -1218,6 +1218,7 @@
 (^|\.)\w*colopl\w*\.\w*$
 (^|\.)\w*appspot\w*\.\w*$
 (^|\.)\w*nintendo\w*\.\w*$
+(^|\.)\w*humblebundle\w*\.\w*$
 (^|\.)eu-west-1\.compute\.amazonaws\.com$
 
 #GFWList IP start
