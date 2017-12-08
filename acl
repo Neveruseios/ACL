@@ -42,6 +42,7 @@
 (^|\.)\w*dmm\w*\.\w*$
 (^|\.)\w*youtubei\w*\.\w*$
 (^|\.)\w*googlevideo\w*\.\w*$
+(^|\.)\w*githubusercontent\w*\.\w*$
 
 #GFWList IP start
 85.17.73.31
@@ -5472,6 +5473,7 @@
 (^|\.)\w*tapone\w*\.\w*$
 (^|\.)\w*umeng\w*\.\w*$
 (^|\.)\w*jpush\w*\.\w*$
+(^|\.)\w*umengcloud\w*\.\w*$
 # 广告关键词
 (^|\.)\w*admarvel\w*\..*$
 (^|\.)\w*admaster\w*\..*$
