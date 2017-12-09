@@ -5487,21 +5487,13 @@
 (^|\.)\w*jpush\w*\.\w*$
 (^|\.)\w*umengcloud\w*\.\w*$
 (^|\.)\w*nxliyuan\w*\.\w*$
-(^|\.)rd\.ane\.yahoo\.co\.jp$
-||geo.query.yahoo.
-||rd.yahoo.
-||rd.ane.yahoo.
-||rdsig.yahoo.$image,object,subdocument
-||rtb.pclick.secure.yahoo.
-||tomlin.yahoo.
-||ybp.yahoo.
-||ybx.yahoo.
-||yeas.yahoo.
-||yjaxc.yahoo.
-||yjtag.
-||ysm.yahoo.
-||im.yahooapis.
-||shopping.yahooapis.$subdocument
+(^|\.)rd\.ane\.yahoo\w*\.\w*$
+(^|\.)rd\.yahoo\w*\.\w*$
+(^|\.)geo\.query\.yahoo\w*\.\w*$
+(^|\.)ybp\.yahoo\w*\.\w*$
+(^|\.)ybx\.yahoo\w*\.\w*$
+(^|\.)yeas\.yahoo\w*\.\w*$
+(^|\.)yjaxc\.yahoo\w*\.\w*$
 
 
 # 广告关键词
