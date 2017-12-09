@@ -5487,6 +5487,7 @@
 (^|\.)\w*jpush\w*\.\w*$
 (^|\.)\w*umengcloud\w*\.\w*$
 (^|\.)\w*nxliyuan\w*\.\w*$
+(^|\.)\w*rd\.ane\.yahoo\w*\.\w*$
 (^|\.)rd\.ane\.yahoo\w*\.\w*$
 (^|\.)rd\.yahoo\w*\.\w*$
 (^|\.)geo\.query\.yahoo\w*\.\w*$
