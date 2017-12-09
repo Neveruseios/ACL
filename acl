@@ -5488,6 +5488,22 @@
 (^|\.)\w*umengcloud\w*\.\w*$
 (^|\.)\w*nxliyuan\w*\.\w*$
 (^|\.)rd\.ane\.yahoo\.co\.jp$
+||geo.query.yahoo.
+||rd.yahoo.
+||rd.ane.yahoo.
+||rdsig.yahoo.$image,object,subdocument
+||rtb.pclick.secure.yahoo.
+||tomlin.yahoo.
+||ybp.yahoo.
+||ybx.yahoo.
+||yeas.yahoo.
+||yjaxc.yahoo.
+||yjtag.
+||ysm.yahoo.
+||im.yahooapis.
+||shopping.yahooapis.$subdocument
+
+
 # 广告关键词
 (^|\.)\w*admarvel\w*\..*$
 (^|\.)\w*admaster\w*\..*$
