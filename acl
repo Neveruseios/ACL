@@ -5495,7 +5495,8 @@
 (^|\.)ybx\.yahoo\w*\.\w*$
 (^|\.)yeas\.yahoo\w*\.\w*$
 (^|\.)yjaxc\.yahoo\w*\.\w*$
-
+(^|\.)\w*yads\w*\..*$
+(^|\.)\w*adservice\w*\..*$
 
 # 广告关键词
 (^|\.)\w*admarvel\w*\..*$
