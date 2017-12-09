@@ -32,8 +32,8 @@
 (^|\.)twimg\.org$
 (^|\.)eu-west-1\.compute\.amazonaws\.com$
 (^|\.)dmm\.com$
-(^|\.).jp$
-(^|\.)\w*jp\w*\.\w*$
+#(^|\.).jp$
+#(^|\.)\w*jp\w*\.\w*$
 (^|\.)\w*nicovideo\w*\.\w*$
 (^|\.)\w*cygames\w*\.\w*$
 (^|\.)\w*appsflyer\w*\.\w*$
