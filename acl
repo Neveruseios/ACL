@@ -1,5 +1,7 @@
-[bypass_all]
 
+
+
+[bypass_all]
 ### 默认直连 自己可以自定义
 # [proxy_all] ,默认代理
 # [remote_dns] 远程 DNS 解析 -不加使用本地 DNS
@@ -7,6 +9,14 @@
 ### [bypass_list] 直连列表 
 ### [proxy_list] 代理列表 
 #**********************************************************************
+[bypass_all]
+
+[bypass_list]
+(^|\.)\w*taobao\w*\.\w*$
+(^|\.)\w*alibaba\w*\.\w*$
+(^|\.)\w*jd\w*\.\w*$
+(^|\.)\w*weibo\w*\.\w*$
+
 [proxy_list]
 
 # MyList
@@ -43,6 +53,8 @@
 (^|\.)\w*youtubei\w*\.\w*$
 (^|\.)\w*googlevideo\w*\.\w*$
 (^|\.)\w*githubusercontent\w*\.\w*$
+(^|\.)\w*ehentai\w*\.\w*$
+(^|\.)\w*e-hentai\w*\.\w*$
 
 #GFWList IP start
 85.17.73.31
@@ -5825,7 +5837,7 @@
 
 # Ads in Video apps********************下面都是
 
-# 6间房
+# 6间���
 (^|\.)(shrek|simba|union)\.6\.cn$
 
 # Baofeng 暴风影音
