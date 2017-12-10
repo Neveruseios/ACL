@@ -5498,6 +5498,7 @@
 (^|\.)\w*adservice\w*\..*$
 (^|\.)\w*ads\w*\..*$
 (^|\.)pdgt\.gtimg\.cn\/get\/0\..*$
+(^|\.)googleads\.g\.doubleclick\.net\..*$
 
 # 广告关键词
 (^|\.)\w*admarvel\w*\..*$
