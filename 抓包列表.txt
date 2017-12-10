@@ -1,4 +1,5 @@
-﻿http://omotenashi.cygames.jp:443
+﻿代理:
+http://omotenashi.cygames.jp:443
 http://omotenashi.cygames.jp:443
 http://graph.facebook.com:443
 http://t.appsflyer.com:443
