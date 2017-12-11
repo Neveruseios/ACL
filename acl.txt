@@ -5607,9 +5607,9 @@
 (^|\.)yiliao\.hupan\.com$
 
 # Baidu
-#(^|\.)(a|adm|als|as|c|cb|cbjs|cbjslog|cjhq|cpro|cpro2|cpu-admin|crs|drmcmm|e|eclick|eiv|entry)\.baidu\.com$
-#(^|\.)(hc|hmma|hpd|imageplus|ma|mobads-logs|mobads|mtj|nsclick)\.baidu\.com$
-#(^|\.)(pos|pups|rj|rp|spcode|tk|tongji|tuisong|ucstat|ufosdk|union|utility|utk|videopush|wangmeng|wm|znsv)\.baidu\.com$
+(^|\.)(a|adm|als|as|c|cb|cbjs|cbjslog|cjhq|cpro|cpro2|cpu-admin|crs|drmcmm|e|eclick|eiv|entry)\.baidu\.com$
+(^|\.)(hc|hm|hmma|hpd|imageplus|ma|mobads-logs|mobads|mtj|nsclick)\.baidu\.com$
+(^|\.)(pos|pups|rj|rp|spcode|tk|tongji|tuisong|ucstat|ufosdk|union|utility|utk|videopush|wangmeng|wm|znsv)\.baidu\.com$
 (^|\.)ashifen\.com$
 (^|\.)baidu9635\.com$
 (^|\.)baikebcs\.bdimg\.com$
@@ -6223,8 +6223,8 @@
 (^|\.)cloudmobi\.net$
 (^|\.)cmcore\.com$
 (^|\.)cnxad\.com$
-#(^|\.)cnzz\.com$
-#(^|\.)cnzzlink\.com$
+(^|\.)cnzz\.com$
+(^|\.)cnzzlink\.com$
 (^|\.)cocounion\.com$
 (^|\.)coolguang\.com$
 (^|\.)coremetrics\.com$
