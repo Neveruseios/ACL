@@ -6224,7 +6224,7 @@
 (^|\.)cmcore\.com$
 (^|\.)cnxad\.com$
 #(^|\.)cnzz\.com$
-(^|\.)cnzzlink\.com$
+#(^|\.)cnzzlink\.com$
 (^|\.)cocounion\.com$
 (^|\.)coolguang\.com$
 (^|\.)coremetrics\.com$
