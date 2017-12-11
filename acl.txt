@@ -11,6 +11,30 @@
 #**********************************************************************
 [bypass_all]
 
+[outbound_block_list]
+#MY
+(^|\.)\w*tapone\w*\.\w*$
+(^|\.)\w*umeng\w*\.\w*$
+(^|\.)\w*jpush\w*\.\w*$
+(^|\.)\w*umengcloud\w*\.\w*$
+(^|\.)\w*nxliyuan\w*\.\w*$
+(^|\.)\w*rd\.ane\.yahoo\w*\.\w*$
+(^|\.)rd\.ane\.yahoo\w*\.\w*$
+(^|\.)rd\.yahoo\w*\.\w*$
+(^|\.)geo\.query\.yahoo\w*\.\w*$
+(^|\.)ybp\.yahoo\w*\.\w*$
+(^|\.)ybx\.yahoo\w*\.\w*$
+(^|\.)yeas\.yahoo\w*\.\w*$
+(^|\.)yjaxc\.yahoo\w*\.\w*$
+(^|\.)\w*yads\w*\..*$
+(^|\.)\w*adservice\w*\..*$
+(^|\.)\w*ads\w*\..*$
+(^|\.)\w*adyun\w*\..*$
+(^|\.)pdgt\.gtimg\.cn\/get\/0\..*$
+(^|\.)11h5\.com$
+(^|\.)googleads\.g\.doubleclick\.net\..*$
+
+
 [bypass_list]
 (^|\.)\w*taobao\w*\.\w*$
 (^|\.)\w*alibaba\w*\.\w*$
@@ -5454,54 +5478,10 @@
 (^|\.)icntv\.xyz$
 (^|\.)flzbcdn\.xyz$
 
-#*********************************************************************************************************
-(^|\.)\w*google\w*\.\w*$
-(^|\.)\w*github\w*\.\w*$
-(^|\.)ytimg\.com$
-(^|\.)cdninstagram\.com$
-(^|\.)gmail\.com$
-(^|\.)youtube\.com$
-(^|\.)youtube-nocookie\.com$
-(^|\.)twitpic\.com$
-(^|\.)twitter\.com$
-(^|\.)appspot\.com$
-(^|\.)twimg\.com$
-(^|\.)facebook\.com$
-(^|\.)fb\.com$
-(^|\.)fb\.me$
-(^|\.)fbcdn\.net$
-(^|\.)scdn\.co$
-#(^|\.)dilidili\.wang$
-(^|\.)instagram\.com$
-(^|\.)t\.co$
-(^|\.)fbcdn\.net$
-(^|\.)fbcdn\.net$
 
 #*******************************************************************************************************
 [outbound_block_list]
 # 禁止访问列表
-
-#MY
-(^|\.)\w*tapone\w*\.\w*$
-(^|\.)\w*umeng\w*\.\w*$
-(^|\.)\w*jpush\w*\.\w*$
-(^|\.)\w*umengcloud\w*\.\w*$
-(^|\.)\w*nxliyuan\w*\.\w*$
-(^|\.)\w*rd\.ane\.yahoo\w*\.\w*$
-(^|\.)rd\.ane\.yahoo\w*\.\w*$
-(^|\.)rd\.yahoo\w*\.\w*$
-(^|\.)geo\.query\.yahoo\w*\.\w*$
-(^|\.)ybp\.yahoo\w*\.\w*$
-(^|\.)ybx\.yahoo\w*\.\w*$
-(^|\.)yeas\.yahoo\w*\.\w*$
-(^|\.)yjaxc\.yahoo\w*\.\w*$
-(^|\.)\w*yads\w*\..*$
-(^|\.)\w*adservice\w*\..*$
-(^|\.)\w*ads\w*\..*$
-(^|\.)\w*adyun\w*\..*$
-(^|\.)pdgt\.gtimg\.cn\/get\/0\..*$
-(^|\.)11h5\.com$
-(^|\.)googleads\.g\.doubleclick\.net\..*$
 
 # 广告关键词
 (^|\.)\w*admarvel\w*\..*$
