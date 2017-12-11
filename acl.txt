@@ -16,6 +16,7 @@
 (^|\.)\w*alibaba\w*\.\w*$
 (^|\.)\w*jd\w*\.\w*$
 (^|\.)\w*weibo\w*\.\w*$
+(^|\.)\w*dilidili\w*\.\w*$
 
 [proxy_list]
 
