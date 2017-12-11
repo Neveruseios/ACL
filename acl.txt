@@ -6223,7 +6223,7 @@
 (^|\.)cloudmobi\.net$
 (^|\.)cmcore\.com$
 (^|\.)cnxad\.com$
-(^|\.)cnzz\.com$
+#(^|\.)cnzz\.com$
 (^|\.)cnzzlink\.com$
 (^|\.)cocounion\.com$
 (^|\.)coolguang\.com$
