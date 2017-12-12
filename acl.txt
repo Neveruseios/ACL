@@ -40,6 +40,8 @@
 (^|\.)\w*alibaba\w*\.\w*$
 (^|\.)\w*jd\w*\.\w*$
 (^|\.)\w*weibo\w*\.\w*$
+(^|\.)\w*qq\w*\.\w*$
+(^|\.)\w*huya\w*\.\w*$
 
 [proxy_list]
 
@@ -56,7 +58,7 @@
 (^|\.)twimg\.org$
 (^|\.)eu-west-1\.compute\.amazonaws\.com$
 (^|\.)dmm\.com$
-(^|\.)dilidili\.wang$
+#(^|\.)dilidili\.wang$
 (^|\.)\w*jp\w*\.\w*$
 (^|\.)\w*nicovideo\w*\.\w*$
 (^|\.)\w*cygames\w*\.\w*$
