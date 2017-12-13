@@ -33,10 +33,10 @@
 (^|\.)pdgt\.gtimg\.cn\/get\/0\..*$
 (^|\.)11h5\.com$
 (^|\.)googleads\.g\.doubleclick\.net\..*$
-(^|\.)\w*zybang\.com\/napi\/stat\/checkappupdate\w*\..*$
+(^|\.)\w*zybang\.com\/napi\/stat\/checkappupdate\..*$
 (^|\.)\w*zybang\.com\/napi\/stat\/checkappinfo\w*\..*$
-(^|\.)\w*zybang\.com\/course\/student\/pullmessage\w*\..*$
-(^|\.)\w*uregister\.zybang\.com\/uregister\/api\/pulloffmsg\w*\..*$
+(^|\.)\w*zybang\.com\/course\/student\/pullmessage\..*$
+(^|\.)\w*uregister\.zybang\.com\/uregister\/api\/pulloffmsg\..*$
 (^|\.)\w*checkappupdate\w*\..*$
 (^|\.)\w*checkappinfo\w*\..*$
 (^|\.)\w*pullmessage\w*\..*$
