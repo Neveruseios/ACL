@@ -33,10 +33,10 @@
 (^|\.)pdgt\.gtimg\.cn\/get\/0\..*$
 (^|\.)11h5\.com$
 (^|\.)googleads\.g\.doubleclick\.net\..*$
-(^|\.)zybang\.com\/napi\/stat\/checkappupdate$
-(^|\.)zybang\.com\/napi\/stat\/checkappinfo$
-(^|\.)zybang\.com\/course\/student\/pullmessage$
-(^|\.)uregister\.zybang\.com\/uregister\/api\/pulloffmsg$
+(^|\.)\w*zybang\.com\/napi\/stat\/checkappupdate\w*\..*$
+(^|\.)\w*zybang\.com\/napi\/stat\/checkappinfo\w*\..*$
+(^|\.)\w*zybang\.com\/course\/student\/pullmessage\w*\..*$
+(^|\.)\w*uregister\.zybang\.com\/uregister\/api\/pulloffmsg\w*\..*$
 
 [bypass_list]
 (^|\.)\w*taobao\w*\.\w*$
