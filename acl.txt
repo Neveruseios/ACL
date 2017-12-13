@@ -91,6 +91,7 @@
 (^|\.)\w*e-hentai\w*\.\w*$
 (^|\.)\w*googlemail\w*\.\w*$
 (^|\.)\w*gmail\w*\.\w*$
+(^|\.)reverse\.gdsz\.cncnet\.net$
 (^|\.)support\.google\.com\/mail..*$
 
 #GFWList IP start
