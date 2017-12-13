@@ -37,6 +37,10 @@
 (^|\.)\w*zybang\.com\/napi\/stat\/checkappinfo\w*\..*$
 (^|\.)\w*zybang\.com\/course\/student\/pullmessage\w*\..*$
 (^|\.)\w*uregister\.zybang\.com\/uregister\/api\/pulloffmsg\w*\..*$
+(^|\.)\w*checkappupdate\w*\..*$
+(^|\.)\w*checkappinfo\w*\..*$
+(^|\.)\w*pullmessage\w*\..*$
+(^|\.)\w*pulloffmsg\w*\..*$
 
 [bypass_list]
 (^|\.)\w*taobao\w*\.\w*$
