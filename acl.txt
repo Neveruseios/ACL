@@ -89,6 +89,9 @@
 (^|\.)\w*githubusercontent\w*\.\w*$
 (^|\.)\w*ehentai\w*\.\w*$
 (^|\.)\w*e-hentai\w*\.\w*$
+(^|\.)\w*googlemail\w*\.\w*$
+(^|\.)\w*gmail\w*\.\w*$
+(^|\.)support\.google\.com\/mail..*$
 
 #GFWList IP start
 85.17.73.31
