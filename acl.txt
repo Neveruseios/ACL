@@ -43,16 +43,8 @@
 (^|\.)\w*pullmessage\w*\..*$
 (^|\.)\w*pulloffmsg\w*\..*$
 
-[bypass_list]
-(^|\.)\w*taobao\w*\.\w*$
-(^|\.)\w*alibaba\w*\.\w*$
-(^|\.)\w*jd\w*\.\w*$
-(^|\.)\w*weibo\w*\.\w*$
-(^|\.)\w*qq\w*\.\w*$
-(^|\.)\w*huya\w*\.\w*$
 
 [proxy_list]
-
 # MyList
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
@@ -65,7 +57,6 @@
 (^|\.)xn--i2ru8q2qg\.com$
 (^|\.)twimg\.org$
 (^|\.)eu-west-1\.compute\.amazonaws\.com$
-(^|\.)dmm\.com$
 (^|\.)dilidili\.wang$
 (^|\.)\w*jp\w*\.\w*$
 (^|\.)\w*nicovideo\w*\.\w*$
