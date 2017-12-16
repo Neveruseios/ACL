@@ -57,7 +57,7 @@
 (^|\.)xn--i2ru8q2qg\.com$
 (^|\.)twimg\.org$
 (^|\.)eu-west-1\.compute\.amazonaws\.com$
-(^|\.)dilidili\.wang$
+##(^|\.)dilidili\.wang$
 (^|\.)\w*jp\w*\.\w*$
 (^|\.)\w*nicovideo\w*\.\w*$
 (^|\.)\w*cygames\w*\.\w*$
