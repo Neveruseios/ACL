@@ -42,7 +42,7 @@
 (^|\.)\w*checkappinfo\w*\..*$
 (^|\.)\w*pullmessage\w*\..*$
 (^|\.)\w*pulloffmsg\w*\..*$
-
+(^|\.)\w*h5\.m\.taobao\.com\/applink\..*$
 
 [proxy_list]
 # MyList
