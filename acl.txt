@@ -43,6 +43,7 @@
 (^|\.)\w*pullmessage\w*\..*$
 (^|\.)\w*pulloffmsg\w*\..*$
 (^|\.)\w*h5\.m\.taobao\.com\/applink\..*$
+(^|\.)\w*h5api\.m\.taobao\.com\..*$
 
 [proxy_list]
 # MyList
