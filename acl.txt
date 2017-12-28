@@ -32,17 +32,21 @@
 (^|\.)\w*adyun\w*\..*$
 (^|\.)pdgt\.gtimg\.cn\/get\/0\..*$
 (^|\.)11h5\.com$
+(^|\.)googleads\.g\.doubleclick\..*$
 (^|\.)googleads\.g\.doubleclick\.net\..*$
-
-
-[bypass_list]
-(^|\.)\w*taobao\w*\.\w*$
-(^|\.)\w*alibaba\w*\.\w*$
-(^|\.)\w*jd\w*\.\w*$
-(^|\.)\w*weibo\w*\.\w*$
+(^|\.)\w*zybang\.com\/napi\/stat\/checkappupdate\..*$
+(^|\.)\w*zybang\.com\/napi\/stat\/checkappinfo\w*\..*$
+(^|\.)\w*zybang\.com\/course\/student\/pullmessage\..*$
+(^|\.)\w*uregister\.zybang\.com\/uregister\/api\/pulloffmsg\..*$
+(^|\.)\w*checkappupdate\w*\..*$
+(^|\.)\w*checkappinfo\w*\..*$
+(^|\.)\w*pullmessage\w*\..*$
+(^|\.)\w*pulloffmsg\w*\..*$
+(^|\.)\w*h5\.m\.taobao\.com\/applink\..*$
+(^|\.)\w*h5api\.m\.taobao\.com\..*$
+(^|\.)\w*wgo\.mmstat\.com\..*$
 
 [proxy_list]
-
 # MyList
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
@@ -55,8 +59,7 @@
 (^|\.)xn--i2ru8q2qg\.com$
 (^|\.)twimg\.org$
 (^|\.)eu-west-1\.compute\.amazonaws\.com$
-(^|\.)dmm\.com$
-(^|\.)dilidili\.wang$
+##(^|\.)dilidili\.wang$
 (^|\.)\w*jp\w*\.\w*$
 (^|\.)\w*nicovideo\w*\.\w*$
 (^|\.)\w*cygames\w*\.\w*$
@@ -79,6 +82,13 @@
 (^|\.)\w*githubusercontent\w*\.\w*$
 (^|\.)\w*ehentai\w*\.\w*$
 (^|\.)\w*e-hentai\w*\.\w*$
+(^|\.)\w*googlemail\w*\.\w*$
+(^|\.)\w*gmail\w*\.\w*$
+(^|\.)\w*openshift\w*\.\w*$
+(^|\.)\w*redhat\w*\.\w*$
+(^|\.)\w*humblebundle\w*\.\w*$
+(^|\.)reverse\.gdsz\.cncnet\.net$
+(^|\.)support\.google\.com\/mail..*$
 
 #GFWList IP start
 85.17.73.31

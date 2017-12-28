@@ -33,5 +33,9 @@ yads.c.yimg.jp
 s.yimg.jp
 yads.yjtag.yahoo.co.jp
 http://pgdt.gtimg.cn/gdt/0/*.jpg/0?ck=*
-https://googleads.g.doubleclick.net/
+
+https://googleads.g.doubleclick.net/
 http://t.adyun.com/sspclick?dsp=
+https://h5.m.taobao.com/applink/smbConfig.html?_t=1513573618768
+https://h5api.m.taobao.com/
+http://wgo.mmstat.com:443
