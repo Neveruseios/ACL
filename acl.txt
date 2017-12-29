@@ -4137,7 +4137,7 @@
 (^|\.)staticflickr\.com$
 (^|\.)statueofdemocracy\.org$
 (^|\.)stc\.com\.sa$
-(^|\.)steamcommunity\.com$
+#(^|\.)steamcommunity\.com$
 (^|\.)steel-storm\.com$
 (^|\.)steganos\.com$
 (^|\.)steganos\.net$
