@@ -11,6 +11,7 @@ var domains = {
   "archeage.jp": 1,
   "blogspot.jp": 1,
   "bbc.com": 1,
+  "ec2-52-16-174-105.eu-west-1.compute.amazonaws.com" : 1,
   "ero-video.net": 1,
   "onedrive.live.com": 1,
   "blogsmithmedia.com": 1,
