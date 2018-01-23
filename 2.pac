@@ -1,5 +1,5 @@
 var proxy = "PROXY 192.168.1.7:8084;";
-var rules = [
+var domains = {
 "||2dbook.com",
 	"||4tern.com",
 	"|http://85.17.73.31/",
@@ -6736,8 +6736,6 @@ var rules = [
 	"@@||youdao.com",
 	"@@||zhongsou.com",
 	"@@|http://ime.baidu.jp"
-];
-var domains = {
   "ip.cn": 1,
   "0to255.com": 1, 
   "10musume.com": 1, 
