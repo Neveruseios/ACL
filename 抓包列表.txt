@@ -1,4 +1,11 @@
 ﻿代理:
+abema tv:
+*.d2wy8f7a9ursnm.cloudfront.net
+*.abema.tv
+*.hayabusa.io
+license.theoplayer.com
+*.akamaized.net
+----------------------------------------------
 http://omotenashi.cygames.jp:443
 http://omotenashi.cygames.jp:443
 http://graph.facebook.com:443
