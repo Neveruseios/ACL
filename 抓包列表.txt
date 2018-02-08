@@ -6,6 +6,16 @@ abema tv:
 license.theoplayer.com
 *.akamaized.net
 ----------------------------------------------
+巴哈姆特动漫疯:
+licensing.viblast.com
+goo.gl
+www.chromestatus.com
+gamer-cds.cdn.hinet.net
+*.viblast.com
+*.gamer.com.tw
+*.bahamut.com.tw
+-----------------------------------------------
+
 http://omotenashi.cygames.jp:443
 http://omotenashi.cygames.jp:443
 http://graph.facebook.com:443
