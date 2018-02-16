@@ -3,7 +3,7 @@
 [outbound_block_list]
 
 (^|\.)img\.wsf-gz\.cn$
-
+(^|\.)js\.zyrfanli\.com$
 
 #MY
 (^|\.)\w*tapone\w*\.\w*$
