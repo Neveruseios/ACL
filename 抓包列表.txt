@@ -39,3 +39,15 @@ https://www.zybang.com/course/student/pullmessage
 ||a.msstatic.com/huya/mobile/widget/zdqs/img/pic_zdqs_991f746.jpg
 ||huyaimg.msstatic.com/cdnimage/waplivebanner/php3u5Rmt1504670291.jpg
 ||a.msstatic.com/huya/mobile/img/download_banner_86842e2.jpg
+---------------------------------------------------------------------
+风车动漫&&dilidili:
+(^|\.)img\.wsf-gz\.cn$
+(^|\.)js\.zyrfanli\.com$
+(^|\.)bp\.xkhejx\.cn$
+(^|\.)m3y111\.cfzbt\.com$
+(^|\.)wen\.joysroom\.com$
+(^|\.)ds\.missyougame\.cn$
+(^|\.)ch615\.wx\.11h5\.com$
+(^|\.)m\.dilidili\.wang\/images\/shouye\/h5game_a.js$
+(^|\.)m\.dilidili\.wang\/tempBackup\/js\/index_ad.js$
+---------------------------------------------------------
