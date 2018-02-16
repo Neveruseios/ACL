@@ -3,7 +3,7 @@ china_ip来自http://www.ipdeny.com/ipblocks/
 
 
 wget http://www.ipdeny.com/ipblocks/data/countries/cn.zone -O cn.acl
-cat ad.acl lan.acl cn.zone >my.acl
+cat ad.acl lan.acl cn.acl >my.acl
 cp my.acl ACL/my.acl
 cp ad.acl ACL/ad.acl
 cp lan.acl ACL/lan.acl
