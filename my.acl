@@ -12,6 +12,11 @@
 (^|\.)m\.fx7k\.com$
 (^|\.)bllo\.hsq3z\.com$
 (^|\.)km\.jianduankm\.com$
+(^|\.)amazon-adsystem\.com$
+(^|\.)\w*index_ad\w*\.\w*$
+(^|\.)*\w*index_ad\w*\.\w*$
+(^|\.)\w*h5game_a\w*\.\w*$
+(^|\.)*\w*h5game_a\w*\.\w*$
 (^|\.)m\.dilidili\.wang\/images\/shouye\/h5game_a.js$
 (^|\.)m\.dilidili\.wang\/tempBackup\/js\/index_ad.js$
 
