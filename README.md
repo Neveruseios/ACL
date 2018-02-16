@@ -1,19 +1,20 @@
 自用ACl,注意有一部是copy来的<br></br>
 china_ip来自http://www.ipdeny.com/ipblocks/
-
-
-wget http://www.ipdeny.com/ipblocks/data/countries/cn.zone -O cn.acl
-cat ad.acl lan.acl cn.acl >my.acl
-cp my.acl ACL/my.acl
-cp ad.acl ACL/ad.acl
-cp lan.acl ACL/lan.acl
-cp cn.acl ACL/cn.acl
-cp 抓包列表.txt ACL/抓包列表.txt
-cp README.md ACL/README.md
-cd ACL
-git add .
-git commit -m "update"
-git push -u origin master
-cd ..
-
-
+<br></br>
+<br></br>
+wget http://www.ipdeny.com/ipblocks/data/countries/cn.zone -O cn.acl<br></br>
+cat ad.acl lan.acl cn.acl >my.acl<br></br>
+cp my.acl ACL/my.acl<br></br>
+cp ad.acl ACL/ad.acl<br></br>
+cp lan.acl ACL/lan.acl<br></br>
+cp cn.acl ACL/cn.acl<br></br>
+cp gitpush.sh ACL/gitpush.sh<br></br>
+cp 抓包列表.txt ACL/抓包列表.txt<br></br>
+cp README.md ACL/README.md<br></br>
+cd ACL<br></br>
+git add .<br></br>
+git commit -m "update"<br></br>
+git push -u origin master<br></br>
+cd ..<br></br>
+<br></br>
+<br></br>
