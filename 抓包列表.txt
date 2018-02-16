@@ -58,4 +58,8 @@ https://www.zybang.com/course/student/pullmessage
 (^|\.)\w*h5game_a\w*\.\w*$
 (^|\.)*\w*h5game_a\w*\.\w*$
 ---------------------------------------------------------
+pixiv:
+https://yads.c.yimg.jp/js/yads.js
+https://yads.yjtag.yahoo.co.jp/tag?s=81943_101927&t=j&ssl=1&fr_id=yads_2533022-0&xd_support=1&fr_support=1&enc=UTF-8&pv_ts=1518788496899-1073549&page=1&u=https%3A%2F%2Fwww.pixiv.net%2F&canu=https%3A%2F%2Fwww.pixiv.net%2Findex.php
+---------------------------------------
 (^|\.)amazon-adsystem\.com$
