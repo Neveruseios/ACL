@@ -1,5 +1,5 @@
-自用ACl,注意有一部是copy来的<br></br>
-china_ip来自http://www.ipdeny.com/ipblocks/
+自用ACl,注意广告过滤有一部分是copy来的<br></br>
+cn.acl=china_ip来自http://www.ipdeny.com/ipblocks/
 <br></br>
 <br></br>
 wget http://www.ipdeny.com/ipblocks/data/countries/cn.zone -O cn.acl<br></br>
