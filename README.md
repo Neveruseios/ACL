@@ -1,7 +1,7 @@
 自用ACl,注意广告过滤有一部分是copy来的<br></br>
-cn.acl=china_ip来自http://www.ipdeny.com/ipblocks/
-https://raw.githubusercontent.com/Asutorufa/ACL/master/my.acl<br></br>
-https://raw.githubusercontent.com/Asutorufa/ACL/master/bypass.acl<br></br>
+cn.acl=china_ip来自http://www.ipdeny.com/ipblocks/<br></br>
+[proxy_all]https://raw.githubusercontent.com/Asutorufa/ACL/master/my.acl<br></br>
+[bypass_all]https://raw.githubusercontent.com/Asutorufa/ACL/master/bypass.acl<br></br>
 <br></br>
 <br></br>
 wget http://www.ipdeny.com/ipblocks/data/countries/cn.zone -O cn.acl<br></br>
