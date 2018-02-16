@@ -1,9 +1,11 @@
-自用ACl,随缘更新,注意:广告过滤有一部分是copy来的<br></br>
+自用ACl,随缘更新<br></br>
+**注意:广告过滤有一部分是copy来的**<br></br>
 cn.acl=china_ip来自http://www.ipdeny.com/ipblocks/<br></br>
-[proxy_all]https://raw.githubusercontent.com/Asutorufa/ACL/master/my.acl<br></br>
-[bypass_all]https://raw.githubusercontent.com/Asutorufa/ACL/master/bypass.acl<br></br>
+**[proxy_all]** https://raw.githubusercontent.com/Asutorufa/ACL/master/my.acl<br></br>
+**[bypass_all]** https://raw.githubusercontent.com/Asutorufa/ACL/master/bypass.acl<br></br>
 <br></br>
 <br></br>
+```
 wget http://www.ipdeny.com/ipblocks/data/countries/cn.zone -O cn.acl<br></br>
 cat ad.acl lan.acl cn.acl >my.acl<br></br>
 cp my.acl ACL/my.acl<br></br>
@@ -20,3 +22,4 @@ git push -u origin master<br></br>
 cd ..<br></br>
 <br></br>
 <br></br>
+```
