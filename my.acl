@@ -1,6 +1,7 @@
 [proxy_all]
 
 [outbound_block_list]
+(^|\.)uncn\.jp$
 (^|\.)m\.one\.impact-ad\.jp$
 (^|\.)a248\.e\.akamai\.net$
 (^|\.)y\.one\.impact-ad\.jp$
