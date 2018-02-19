@@ -1,0 +1,7 @@
+^(.*)\.cn$
+(^|\.)huya\.com$
+(^|\.)duowan\.com$
+(^|\.)yy\.com$
+(^|\.)hiddo\.com$
+(^|\.)msstatic\.com$
+

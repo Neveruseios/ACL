@@ -19,7 +19,12 @@ http://redirector.googlevideo.com:443
 http://avatars3.githubusercontent.com:443
 
 
-
+#直连
+https://aldirect.flv.huya.com/
+duowan.com
+yy.com
+hiddo.com
+msstatic.com
 
 
 #禁止
