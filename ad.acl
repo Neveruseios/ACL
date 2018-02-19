@@ -1,7 +1,9 @@
 [proxy_all]
 
 [outbound_block_list]
-
+(^|\.)cf\.uncn\.jp$
+(^|\.)uncn\.jp$
+(^|\.)googletagmanager\.com\/gtm.js$
 (^|\.)adingo\.jp$
 (^|\.)adroute\.focas\.jp$
 (^|\.)i-mobile\.co\.jp$
