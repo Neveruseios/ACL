@@ -1,9 +1,14 @@
 [proxy_all]
 
 [outbound_block_list]
-(^|\.)m\.one\.impact-ad\.jp$
+
+(^|\.)moatads\.com$
+(^|\.)adnxs\.com$
+(^|\.)akamai\.com$
+(^|\.)im\.c\.yimg\.jp$
+(^|\.)impact-ad\.jp$
 (^|\.)a248\.e\.akamai\.net$
-(^|\.)y\.one\.impact-ad\.jp$
+(^|\.)impact-ad\.jp$
 (^|\.)yads\.c\.yimg\.jp$
 (^|\.)img\.wsf-gz\.cn$
 (^|\.)js\.zyrfanli\.com$
