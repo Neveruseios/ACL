@@ -70,5 +70,6 @@ https://a248.e.akamai.net/f/248/45380/60m/dac1.download.akamai.com/45379/poi/m1/
 https://im.c.yimg.jp/res/ydnstorage-media/1001641212/3607291/9951b95c86b60d34cc82aef8ea7db85b.jpg
 (^|\.)uncn\.jp$
 https://img.ak.impact-ad.jp/ic/pone/commonjs/xtyone.js?act=DI&c1=s&c2=y1&c7=3234&c8=6867&c9=26928
+apvdr.com
 ---------------------------------------
 (^|\.)amazon-adsystem\.com$
