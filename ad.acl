@@ -2,6 +2,9 @@
 
 [outbound_block_list]
 
+(^|\.)adingo\.jp$
+(^|\.)adroute\.focas\.jp$
+(^|\.)i-mobile\.co\.jp$
 (^|\.)moatads\.com$
 (^|\.)adnxs\.com$
 (^|\.)akamai\.com$

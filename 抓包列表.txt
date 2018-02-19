@@ -71,5 +71,8 @@ https://im.c.yimg.jp/res/ydnstorage-media/1001641212/3607291/9951b95c86b60d34cc8
 (^|\.)uncn\.jp$
 https://img.ak.impact-ad.jp/ic/pone/commonjs/xtyone.js?act=DI&c1=s&c2=y1&c7=3234&c8=6867&c9=26928
 apvdr.com
+https://spad.i-mobile.co.jp/script/adssp.js?20110215
+https://static.adroute.focas.jp/js/adroute_ads.js
+https://sh.adingo.jp/?G=1000064543&href=https%3A%2F%2Fwww.pixiv.net%2F&serial=92055302235036&guid=ON
 ---------------------------------------
 (^|\.)amazon-adsystem\.com$
