@@ -1,4 +1,5 @@
 ^(.*)\.cn$
+(^|\.)cn$
 (^|\.)huya\.com$
 (^|\.)duowan\.com$
 (^|\.)yy\.com$
