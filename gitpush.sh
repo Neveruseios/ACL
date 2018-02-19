@@ -1,3 +1,6 @@
+cd ..
+cd ..
+cd mnt/d/code/ACL
 wget http://www.ipdeny.com/ipblocks/data/countries/cn.zone -O cn.acl
 cat ad.acl lan.acl zl.acl cn.acl >my.acl
 cp my.acl ACL/my.acl
