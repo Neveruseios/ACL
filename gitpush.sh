@@ -1,3 +1,10 @@
+cd /mnt/d/code/ACL/ACL
+git remote -v
+git fetch origin master:temp
+git diff temp
+git merge temp
+git branch -d temp
+cd ..
 wget http://www.ipdeny.com/ipblocks/data/countries/cn.zone -O cn.acl
 cat ad.acl lan.acl zl.acl cn.acl >my.acl
 cp my.acl ACL/my.acl
