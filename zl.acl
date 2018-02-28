@@ -1,10 +1,16 @@
 ^(.*)\.cn$
-(^|\.)cn$
+(^|\.)cn$
+(^|\.)qq\.com$
 (^|\.)huya\.com$
+(^|\.)\w*huya\w*\.\w*$
 (^|\.)duowan\.com$
+(^|\.)\w*duowan\w*\.\w*$
 (^|\.)yy\.com$
+(^|\.)\w*yy\w*\.\w*$
 (^|\.)hiddo\.com$
+(^|\.)\w*hiddo\w*\.\w*$
 (^|\.)msstatic\.com$
+(^|\.)\w*msstatic\w*\.\w*$
 (^|\.)hujiang\.com$
 (^|\.)hjfile\.com$
 (^|\.)weibo\.com$
