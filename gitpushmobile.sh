@@ -4,8 +4,8 @@ git fetch origin master:temp
 git diff temp
 git merge temp
 git branch -d temp
-cp zl.acl /storage/emulated/0/download/acl/zltemp.acl
-cp myad.acl /storage/emulated/0/download/acl/myadtemp.acl
+cp zl.acl /storage/emulated/0/download/linux/acl/zltemp.acl
+cp myad.acl /storage/emulated/0/download/linux/acl/myadtemp.acl
 cd ..
 cat zl.acl zltemp.acl | sort | uniq > zl.acl
 cat myad.acl myadtemp.acl | sort | uniq > myad.acl
