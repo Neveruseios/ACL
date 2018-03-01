@@ -7,8 +7,8 @@ git branch -d temp
 cp zl.acl /mnt/d/code/ACL/zltemp.acl
 cp myad.acl /mnt/d/code/ACL/myadtemp.acl
 cd ..
-cat zl.acl zltemp.acl | sort | uniq > zll.txt
-cat myad.acl myadtemp.acl | sort | uniq > adl.txt
+cat zl.acl zltemp.acl | sort | uniq > zl.acl
+cat myad.acl myadtemp.acl | sort | uniq > myad.acl
 rm -rf zltemp.acl myadtemp.acl
 wget http://www.ipdeny.com/ipblocks/data/countries/cn.zone -O cn.acl
 cat adstart.acl myad.acl ad.acl zlstart.acl lan.acl zl.acl cn.acl >my.acl
