@@ -9,6 +9,7 @@ cp myad.acl /mnt/d/code/ACL/myadtemp.acl
 cd ..
 cat zl.acl zltemp.acl | sort | uniq > zll.txt
 cat myad.acl myadtemp.acl | sort | uniq > adl.txt
+rm -rf zltemp.acl myadtemp.acl
 wget http://www.ipdeny.com/ipblocks/data/countries/cn.zone -O cn.acl
 cat adstart.acl myad.acl ad.acl zlstart.acl lan.acl zl.acl cn.acl >my.acl
 cp my.acl ACL/my.acl
