@@ -1,17 +1,11 @@
-自用ACl,随缘更新<br></br>
-**注意:ad.acl的广告过滤是copy来的**<br></br>
-cn.acl=china_ip来自http://www.ipdeny.com/ipblocks/<br></br>
-**[proxy_all]** https://raw.githubusercontent.com/Asutorufa/ACL/master/my.acl<br></br>
-**[bypass_all]** https://raw.githubusercontent.com/Asutorufa/ACL/master/bypass.acl<br></br>
-```
-cd /mnt/d/code/ACL/ACL
+cd /storage/emulated/0/download/acl/ACL
 git remote -v
 git fetch origin master:temp
 git diff temp
 git merge temp
 git branch -d temp
-cp zl.acl /mnt/d/code/ACL/zltemp.acl
-cp myad.acl /mnt/d/code/ACL/myadtemp.acl
+cp zl.acl /storage/emulated/0/download/acl/zltemp.acl
+cp myad.acl /storage/emulated/0/download/acl/myadtemp.acl
 cd ..
 cat zl.acl zltemp.acl | sort | uniq > zl.acl
 cat myad.acl myadtemp.acl | sort | uniq > myad.acl
@@ -27,6 +21,7 @@ cp zlstart.acl ACL/zlstart.acl
 cp myad.acl ACL/myad.acl
 cp adstart.acl ACL/adstart.acl
 cp gitpush.sh ACL/gitpush.sh
+cp gitpushmobile.sh ACL/gitpushmobile.sh
 cp 抓包列表.txt ACL/抓包列表.txt
 cp README.md ACL/README.md
 cd ACL
@@ -34,5 +29,3 @@ git add .
 git commit -m "update"
 git push -u origin master
 cd ..
-
-```

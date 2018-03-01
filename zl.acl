@@ -2,7 +2,6 @@
 (^|\.)alipay\.com$
 (^|\.)alipayobjects\.com$
 (^|\.)bilibili\.com$
-^(.*)\.cn$
 (^|\.)cn$
 (^|\.)duowan\.com$
 (^|\.)hdslb\.com$
@@ -18,3 +17,4 @@
 (^|\.)tmall\.com$
 (^|\.)weibo\.com$
 (^|\.)yy\.com$
+^(.*)\.cn$
