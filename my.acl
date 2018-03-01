@@ -34,7 +34,6 @@
 (^|\.)m\.dilidili\.wang\/images\/shouye\/h5game_a.js$
 (^|\.)m\.dilidili\.wang\/tempBackup\/js\/index_ad.js$
 
-#MY
 (^|\.)\w*tapone\w*\.\w*$
 (^|\.)\w*umeng\w*\.\w*$
 (^|\.)\w*jpush\w*\.\w*$
@@ -1242,9 +1241,8 @@
 221.228.17.152/32
 221.228.214.101/32
 
+
 [bypass_list]
-
-
 0.0.0.0/8
 10.0.0.0/8
 100.64.0.0/10
