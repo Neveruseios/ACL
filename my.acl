@@ -90,6 +90,10 @@
 (^|\.)\w*zybang\.com\/course\/student\/pullmessage\..*$
 (^|\.)\w*zybang\.com\/napi\/stat\/checkappinfo\w*\..*$
 (^|\.)\w*zybang\.com\/napi\/stat\/checkappupdate\..*$
+(^|\.)\w*d\.pixiv\.org\/click\?ad\_group\_id\w*\..*$
+(^|\.)\w*pixiv\.org\/click\?ad\_group\_id\w*\..*$
+(^|\.)\w*d\.pixiv\.org\/click\?ad\_group\_id*$
+(^|\.)\w*d\.pixiv\.org\/click\?ad\_group\_id$
 (^|\.)yads\.c\.yimg\.jp$
 (^|\.)ybp\.yahoo\w*\.\w*$
 (^|\.)ybx\.yahoo\w*\.\w*$
