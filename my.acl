@@ -1,5 +1,7 @@
 [proxy_all]
 
+
+
 [outbound_block_list]
 
 (^|\.)11h5\.com$
@@ -1246,6 +1248,7 @@
 
 
 [bypass_list]
+
 0.0.0.0/8
 10.0.0.0/8
 100.64.0.0/10
