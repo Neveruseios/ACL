@@ -24,7 +24,9 @@ cat start.acl zlstart.acl lan.acl zl.acl cn.acl >my-none.acl
 sed -i '/^#/d'  my.acl
 sed -i '/^#/d'  my-none.acl
 sed -i '/^ *$/d' my.acl
+sed -i '//d' my.acl
 sed -i '/^ *$/d' my-none.acl
+sed -i '//d' my-none.acl
 cp start.acl ACL/start.acl
 cp my-none.acl ACL/my-none.acl
 cp zlstart.acl ACL/zlstart.acl
