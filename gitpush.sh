@@ -24,8 +24,9 @@ cp my-none.acl ACL/my-none.acl
 cp zlstart.acl ACL/zlstart.acl
 cp myad.acl ACL/myad.acl
 cp adstart.acl ACL/adstart.acl
+cp neohosts.acl ACL/neohosts.acl
 cp my.acl ACL/my.acl
-cp ad.acl ACL/ad.acl
+cp stevenhosts.acl ACL/stevenhosts.acl
 cp lan.acl ACL/lan.acl
 cp cn.acl ACL/cn.acl
 cp zl.acl ACL/zl.acl
