@@ -7,7 +7,7 @@ git branch -d temp
 cd ..
 wget http://www.ipdeny.com/ipblocks/data/countries/cn.zone -O cn.acl
 wget https://neko-dev.github.io/neohosts/full/hosts -O neohosts.acl
-wget https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts -O stevenhosts.acl
+wget https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts -O stevenhosts.acl
 sed -i 's/\./\\\./g' neohosts.acl
 sed -i 's/$/\$/g' neohosts.acl
 sed -i 's/0\\.0\\.0\\.0 /(^|\\.)/' neohosts.acl
