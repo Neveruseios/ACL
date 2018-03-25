@@ -21,8 +21,8 @@ sed -i 's/0\\.0\\.0\\.0 /(^|\\.)/' stevenhosts.acl
 sed -i '1,31d' stevenhosts.acl
 cat start.acl adstart.acl neohosts.acl stevenhosts.acl myad.acl ad.acl zlstart.acl lan.acl zl.acl cn.acl >my.acl
 cat start.acl zlstart.acl lan.acl zl.acl cn.acl >my-none.acl
-sed -r '/^#/d'  my.acl
-sed -r '/^#/d'  my-none.acl
+sed -i '/^#/d'  my.acl
+sed -i '/^#/d'  my-none.acl
 sed -i '/^ *$/d' my.acl
 sed -i '/^ *$/d' my-none.acl
 cp start.acl ACL/start.acl
