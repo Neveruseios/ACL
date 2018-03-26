@@ -11,7 +11,7 @@ wget https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts -O stevenh
 wget https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext -O pglyoyo.acl
 
 sed -i '/^ *$/d' neohosts.acl
-sed -i '//d' neohosts.acl
+sed -i '/^$/d' neohosts.acl
 sed -i 's/\./\\\./g' neohosts.acl
 sed -i 's/$/\$/g' neohosts.acl
 sed -i 's/0\\.0\\.0\\.0 /(^|\\.)/' neohosts.acl
@@ -35,9 +35,9 @@ cat start.acl zlstart.acl lan.acl zl.acl cn.acl >my-none.acl
 sed -i -r '/^#/d'  my.acl
 sed -i -r '/^#/d'  my-none.acl
 sed -i -r '/^ *$/d' my.acl
-sed -i -r '//d' my.acl
+sed -i -r '/^$/d' my.acl
 sed -i -r '/^ *$/d' my-none.acl
-sed -i -r '//d' my-none.acl
+sed -i -r '/^$/d' my-none.acl
 
 cp start.acl ACL/start.acl
 cp my-none.acl ACL/my-none.acl
