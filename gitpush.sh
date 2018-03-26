@@ -32,12 +32,12 @@ sed -i '1,13d' pglyoyo.acl
 cat start.acl adstart.acl myad.acl pglyoyo.acl neohosts.acl stevenhosts.acl zlstart.acl lan.acl zl.acl cn.acl >my.acl
 cat start.acl zlstart.acl lan.acl zl.acl cn.acl >my-none.acl
 
-sed -i '/^#/d'  my.acl
-sed -i '/^#/d'  my-none.acl
-sed -i '/^ *$/d' my.acl
-sed -i '//d' my.acl
-sed -i '/^ *$/d' my-none.acl
-sed -i '//d' my-none.acl
+sed -i -r '/^#/d'  my.acl
+sed -i -r '/^#/d'  my-none.acl
+sed -i -r '/^ *$/d' my.acl
+sed -i -r '//d' my.acl
+sed -i -r '/^ *$/d' my-none.acl
+sed -i -r '//d' my-none.acl
 
 cp start.acl ACL/start.acl
 cp my-none.acl ACL/my-none.acl
