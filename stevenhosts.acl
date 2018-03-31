@@ -407,7 +407,7 @@
 #=====================================$
 #               MalwareDomainList\.com Hosts List           #$
 #   http://www\.malwaredomainlist\.com/hostslist/hosts\.txt   #$
-#         Last updated: Thu, 29 Mar 18 17:35:13 +0000      #$
+#         Last updated: Fri, 30 Mar 18 12:00:07 +0000      #$
 (^|\.)0koryu0\.easter\.ne\.jp$
 (^|\.)109-204-26-16\.netconnexion\.managedbroadband\.co\.uk$
 (^|\.)1866809\.securefastserver\.com$
@@ -1182,7 +1182,6 @@
 (^|\.)timothycopus\.aimoo\.com$
 (^|\.)titon\.info$
 (^|\.)tk-gregoric\.si$
-(^|\.)toddscarwash\.com$
 (^|\.)tomalinoalambres\.com\.ar$
 (^|\.)tophostbg\.net$
 (^|\.)traff1\.com$
@@ -1546,9 +1545,6 @@
 (^|\.)zous\.szm\.sk$
 (^|\.)zt\.tim-taxi\.com$
 (^|\.)zyrdu\.cruisingsmallship\.com$
-### Extra rules for @StevenBlack 's hosts project $
-### https://github\.com/FadeMind/hosts\.extras$
-### Dead sites based on http://www\.hostsfile\.org/hosts\.html content\.$
 (^|\.)analytic-google\.com$
 (^|\.)blacksnake\.com$
 (^|\.)europcareer\.com$
@@ -1570,11 +1566,6 @@
 (^|\.)www\.jmp2click\.com$
 (^|\.)www\.microsoft-update\.name$
 (^|\.)wwwfacebook\.com$
-### Extra rules for @StevenBlack 's hosts project $
-### https://github\.com/FadeMind/hosts\.extras$
-### SPAM sites based on http://www\.hostsfile\.org/hosts\.html content\.$
-# File generated with https://github\.com/funilrys/PyFunceble$
-# Date of generation: Mon 12 Feb 14:02:56 UTC 2018 $
 (^|\.)100\.1qingdao\.com$
 (^|\.)7minuteworkout\.com$
 (^|\.)addshoppers\.com$
@@ -27877,7 +27868,7 @@
 # other formats:  https://pgl\.yoyo\.org/adservers/formats\.php$
 # policy:         https://pgl\.yoyo\.org/adservers/policy\.php$
 #$
-# start date:    Fri, 03 Apr 1998 00:00:00$
+# start date:    Sat, 04 Apr 1998 00:00:00$
 (^|\.)101com\.com$
 (^|\.)101order\.com$
 (^|\.)123found\.com$
@@ -27996,7 +27987,6 @@
 (^|\.)adbuyer\.com$
 (^|\.)adbuyer3\.lycos\.com$
 (^|\.)adcell\.de$
-(^|\.)adcenter\.mdf\.se$
 (^|\.)adcenter\.net$
 (^|\.)adcept\.net$
 (^|\.)adclick\.com$
@@ -55254,9 +55244,6 @@
 (^|\.)www\.go\.microsoft\.akadns\.net$
 (^|\.)www\.msedge\.net$
 (^|\.)www\.msftncsi\.com$
-### https://github\.com/FadeMind/hosts\.extras$
-### UncheckyAds$
-(^|\.)cdn\.appround\.biz$
 (^|\.)cdn\.download\.sweetpacks\.com$
 (^|\.)cdn\.insta\.playbryte\.com$
 (^|\.)cdn\.msdwnld\.com$
@@ -55266,11 +55253,6 @@
 (^|\.)installer\.betterinstaller\.com$
 (^|\.)installer\.filebulldog\.com$
 (^|\.)nsis\.bisrv\.com$
-### Extra rules for @StevenBlack 's hosts project $
-### https://github\.com/FadeMind/hosts\.extras$
-### 2o7Net tracking sites based on http://www\.hostsfile\.org/hosts\.html content\.$
-### http://www\.makeuseof\.com/tag/that-mysterious-2o7-net-tracking-cookie-all-you-need-to-know/$
-### https://en\.wikipedia\.org/wiki/Omniture$
 (^|\.)aarp\.122\.2o7\.net$
 (^|\.)aclu\.tt\.omtrdc\.net$
 (^|\.)affargenus\.112\.2o7\.net$
@@ -56635,7 +56617,6 @@
 (^|\.)d3rt1990lpmkn\.cloudfront\.net$
 (^|\.)desktop\.spotify\.com$
 (^|\.)gew1\.ap\.spotify\.com$
-(^|\.)googleadapis\.l\.google\.com$
 (^|\.)googletagmanager\.com$
 (^|\.)gtssl2-ocsp\.geotrust\.com$
 (^|\.)log\.spotify\.com$
@@ -57056,11 +57037,6 @@
 (^|\.)trackersimulator\.org$
 (^|\.)eviltracker\.net$
 (^|\.)do-not-tracker\.org$
-### Extra rules for @StevenBlack 's hosts project $
-### https://github\.com/FadeMind/hosts\.extras$
-### Risk: malware, adware and tracking sites based on http://www\.hostsfile\.org/hosts\.html content\.$
-# File generated with https://github\.com/funilrys/PyFunceble$
-# Date of generation: Mon 12 Feb 15:02:09 UTC 2018 $
 (^|\.)050003\.voodoo\.com$
 (^|\.)050005\.voodoo\.com$
 (^|\.)1\.hidemyass\.com$
@@ -57243,6 +57219,7 @@
 (^|\.)cbtopsites\.com$
 (^|\.)ccbilleu\.com$
 (^|\.)cdiabetes\.com$
+(^|\.)cdn\.onesignal\.com$
 (^|\.)centerfind\.com$
 (^|\.)centertrk\.com$
 (^|\.)certified-toolbar\.com$
@@ -57748,6 +57725,7 @@
 (^|\.)portalangels-1\.pop3\.ru$
 (^|\.)portalangels\.pop3\.ru$
 (^|\.)power\.info\.com$
+(^|\.)pp\.lp4\.io$
 (^|\.)praceline\.com$
 (^|\.)premiumpedia\.com$
 (^|\.)priiceline\.com$
@@ -58861,6 +58839,7 @@
 (^|\.)wwwwal-mart\.com$
 (^|\.)x-park\.net$
 (^|\.)x-pronet\.com$
+(^|\.)x\.onaudience\.com$
 (^|\.)x\.zeroredirect\.com$
 (^|\.)xml\.revenuehits\.com$
 (^|\.)xporontube\.tripod\.com$
