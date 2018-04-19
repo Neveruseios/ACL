@@ -1,3 +1,8 @@
+(^|\.)30-day-change\.com$
+(^|\.)2468\.go2cloud\.org$
+(^|\.)adsmws\.cloudapp\.net$
+(^|\.)androidads23\.adcolony\.com$
+(^|\.)annualconsumersurvey\.com$
 (^|\.)apps\.id\.net$
 (^|\.)breaksurvey\.com$
 (^|\.)data\.cnn\.com$
@@ -93,6 +98,7 @@
 (^|\.)www\.security-check-551\.com$
 (^|\.)www\.www\.cpm20\.com$
 (^|\.)www\.btds\.artplay\.info$
+(^|\.)videoplayer\.vice\.technology$
 # Analytics$
 (^|\.)analysis\.polarisoffice\.com$
 (^|\.)analytics-digit-in\.cdn\.ampproject\.org$
@@ -414,7 +420,6 @@
 (^|\.)cdn\.segment\.com$
 (^|\.)cdn\.mxpnl\.com$
 (^|\.)js-agent\.newrelic\.com$
-(^|\.)sentry\.io$
 (^|\.)sb\.scorecardresearch\.com$
 (^|\.)in-star\.videoplaza\.tv$
 (^|\.)hotstar\.worldgravity\.com$
@@ -1775,7 +1780,7 @@
 # See below for acknowledgements\.$
 # Please forward any additions, corrections or comments by email to$
 # hosts@someonewhocares\.org$
-# Last updated: Thu, 12 Apr 2018 at 02:54:00 GMT$
+# Last updated: Mon, 16 Apr 2018 at 02:03:36 GMT$
 # Use this file to prevent your computer from connecting to selected$
 # internet hosts\. This is an easy and effective way to protect you from $
 # many types of spyware, reduces bandwidth use, blocks certain pop-up $
@@ -4185,6 +4190,7 @@
 (^|\.)nextbestgame\.org$
 (^|\.)no1\.unternehemen\.com$
 (^|\.)no3\.unternehmen\.org$
+(^|\.)noteupgrade\.themainplacesetnowforcontentsgo\.win$
 (^|\.)novemberrainx\.com$
 (^|\.)nowgetsoft\.pushingnewforcontentsafeload\.download$
 (^|\.)nowinstallupgrade\.goodcentralupdatesall\.bid$
@@ -10951,6 +10957,7 @@
 (^|\.)p3p\.alibaba\.com$
 (^|\.)p3p\.mmstat\.com$
 (^|\.)p4psearch\.china\.alibaba\.com$
+(^|\.)pacificnet\.host$
 (^|\.)paclitor\.com$
 (^|\.)p\.admob\.com$
 (^|\.)p\.adpdx\.com$
@@ -13684,6 +13691,7 @@
 (^|\.)zlothonline\.info$
 (^|\.)z\.moatads\.com$
 (^|\.)z-na\.amazon-adsystem\.com$
+(^|\.)zrh\.bewilderinglyalbumin\.com$
 (^|\.)zu1\.november-lax\.com$
 (^|\.)zuzzer5\.com$
 (^|\.)zytpirwai\.net$
@@ -15431,7 +15439,7 @@
 # This *must* be the first line: 127\.0\.0\.1     localhost   #$
 #                                                          #$
 #**********************************************************#$
-# --------------- Updated: March-04-2018 ----------------- #$
+# --------------- Updated: April-15-2018 ----------------- #$
 #**********************************************************#$
 #                                                          #$
 # Disclaimer: this file is free to use for personal use    #$
@@ -15468,7 +15476,6 @@
 (^|\.)content\.ad20\.net$
 (^|\.)core\.ad20\.net$
 (^|\.)banner\.ad\.nu$
-(^|\.)www\.adbanner\.ro$
 (^|\.)wad\.adbasket\.net$
 (^|\.)adbox\.hu$
 (^|\.)b\.adbox\.lv$
@@ -15499,7 +15506,6 @@
 (^|\.)s\.adframesrc\.com$
 (^|\.)media\.adfrontiers\.com$
 (^|\.)www\.adgitize\.com$
-(^|\.)code\.ad-gbn\.com$
 (^|\.)findadvertise\.engine\.adglare\.net$
 (^|\.)www\.ad-groups\.com$
 (^|\.)adhall\.com$
@@ -15557,14 +15563,12 @@
 (^|\.)cdn\.oas-c17\.adnxs\.com$
 (^|\.)tt11\.adobe\.com$
 (^|\.)ace\.adoftheyear\.com$
-(^|\.)ad02\.adonspot\.com$
 (^|\.)adperium\.com$
 (^|\.)www\.adperium\.com$
 (^|\.)img\.adplan-ds\.com$
 (^|\.)res\.adplus\.co\.id$
 (^|\.)e\.adpower\.bg$
 (^|\.)ab\.adpro\.com\.ua$
-(^|\.)pop\.adrent\.net$
 (^|\.)n\.ads1-adnow\.com$
 (^|\.)n\.ads2-adnow\.com$
 (^|\.)n\.ads3-adnow\.com$
@@ -15631,7 +15635,6 @@
 (^|\.)mfad1\.advantage\.as$
 (^|\.)adve\.net$
 (^|\.)ad\.adver\.com\.tw$
-(^|\.)apps\.advertlets\.com$
 (^|\.)ads\.advertise\.net$
 (^|\.)img\.adverticum\.net$
 (^|\.)imgs\.adverticum\.net$
@@ -15976,7 +15979,6 @@
 (^|\.)www\.direct-stats\.com$
 (^|\.)glitter\.services\.disqus\.com$
 (^|\.)www\.divx\.it$
-(^|\.)dltags\.com$
 (^|\.)analyticsv2\.dol\.gr$
 (^|\.)banners\.dol\.gr$
 (^|\.)return\.domainnamesales\.com$
@@ -16014,7 +16016,6 @@
 (^|\.)www\.ebannertraffic\.com$
 (^|\.)ox\.e-card\.bg$
 (^|\.)ox-s\.e-card\.bg$
-(^|\.)prom\.ecato\.net$
 (^|\.)ads\.eccentrix\.com$
 (^|\.)c\.ecliks\.com$
 (^|\.)webstats\.eco\.de$
@@ -16154,7 +16155,6 @@
 (^|\.)www\.fusestats\.com$
 (^|\.)fwbntw\.com$
 (^|\.)fxyc0dwa\.com$
-(^|\.)fxlayer\.net$
 (^|\.)adserving\.fyi-marketing\.com$
 # [G]$
 (^|\.)errdoc\.gabia\.net$
@@ -16165,6 +16165,7 @@
 (^|\.)ads\.gateway\.bg$
 (^|\.)analytics\.gazeta\.pl$
 (^|\.)top\.gde\.ru$
+(^|\.)geoip-db\.com$
 (^|\.)www\.geoplugin\.net$
 (^|\.)adv\.gepime\.com$
 (^|\.)cloud\.getpopunder\.com$
@@ -16208,6 +16209,7 @@
 (^|\.)ads\.gumgum\.com$
 (^|\.)c\.gumgum\.com$
 (^|\.)cdn\.gumgum\.com$
+# (^|\.)www\.sdad\.guru #[affects msn\.com]$
 (^|\.)guruads\.de$
 (^|\.)beacon\.gutefrage\.net$
 (^|\.)adhese\.gva\.be$
@@ -16267,6 +16269,7 @@
 (^|\.)www\.hxtrack\.com$
 (^|\.)www\.hypertracker\.com$
 # [I]$
+(^|\.)metric-agent\.i10c\.net$
 (^|\.)ev\.ib-ibi\.com$
 (^|\.)r\.ibg\.bg$
 (^|\.)bbcdn-bbnaut\.ibillboard\.com$
@@ -16563,7 +16566,6 @@
 (^|\.)stat\.mystat\.hu$
 (^|\.)www\.mystats\.nl$
 (^|\.)www2\.mystats\.nl$
-(^|\.)www\.mytoplist\.gen\.tr$
 # [N]$
 (^|\.)n214adserv\.com$
 (^|\.)ads\.naftemporiki\.gr$
@@ -16677,7 +16679,6 @@
 (^|\.)invitation\.opinionbar\.com$
 (^|\.)ad\.orbitel\.bg$
 (^|\.)www\.oreware\.com$
-(^|\.)servedby\.orn-adserver\.nl$
 (^|\.)otclick-adv\.ru$
 (^|\.)otracking\.com$
 (^|\.)odb\.outbrain\.com$
@@ -16753,7 +16754,6 @@
 (^|\.)cdn\.popwin\.net$
 (^|\.)ht\.pornhub\.com$
 (^|\.)porntraff\.com$
-(^|\.)www2\.portdetective\.com$
 (^|\.)inapi\.posst\.co$
 (^|\.)prstats\.postrelease\.com$
 (^|\.)www\.ppctracking\.net$
@@ -16842,14 +16842,12 @@
 (^|\.)sr\.rlcdn\.com$
 (^|\.)ads\.rnmd\.net$
 (^|\.)ro2\.biz$
-(^|\.)www\.rockingclicks\.com$
 (^|\.)tex-sync\.rockyou\.net$
 (^|\.)ads\.rohea\.com$
 (^|\.)ads\.rol\.ro$
 (^|\.)adcode\.rontar\.com$
 (^|\.)laurel\.rovicorp\.com$
 (^|\.)gbjfc\.rsvpgenius\.com$
-(^|\.)analytics\.rtbf\.be$
 (^|\.)count\.rtl\.de$
 (^|\.)ad\.rtl\.hr$
 (^|\.)rtrgt2\.com$
@@ -16977,7 +16975,6 @@
 (^|\.)analytics\.strangeloopnetworks\.com$
 (^|\.)straightresults\.com$
 (^|\.)go\.straightresults\.com$
-(^|\.)gsorder\.berlin\.strato\.de$
 (^|\.)adv\.stznews\.bg$
 (^|\.)webservices\.sub2tech\.com$
 (^|\.)ads\.sun\.com$
@@ -17038,7 +17035,6 @@
 (^|\.)webstats\.thesoul-publishing\.com$
 (^|\.)www\.thesocialsexnetwork\.com$
 (^|\.)www\.thickcash\.com$
-(^|\.)ad\.thinkmedia\.cn$
 (^|\.)oas\.tidningsnatet\.se$
 (^|\.)www\.tinbuadserv\.com$
 (^|\.)www\.tinka\.ru$
@@ -17054,7 +17050,6 @@
 (^|\.)www\.top100\.lt$
 (^|\.)www\.topblogging\.com$
 (^|\.)hit\.topc\.org$
-(^|\.)banners\.topcities\.com$
 (^|\.)topeuro\.biz$
 (^|\.)www\.toplist\.sk$
 (^|\.)counter\.topphoto\.ru$
@@ -17152,7 +17147,6 @@
 (^|\.)www\.undertonenetworks\.com$
 (^|\.)adserving\.unibet\.com$
 (^|\.)www\.unicast\.com$
-(^|\.)advertisment\.unimatrix\.si$
 (^|\.)ads\.univision\.com$
 (^|\.)web\.unltd\.info$
 (^|\.)adrequisitor-af\.lp\.uol\.com\.br$
@@ -17291,6 +17285,7 @@
 (^|\.)506\.xg4ken\.com$
 (^|\.)531\.xg4ken\.com$
 (^|\.)www\.xl-rank\.com$
+(^|\.)adserver\.xpanama\.net$
 (^|\.)xwell\.ru$
 (^|\.)ads\.xpg\.com\.br$
 (^|\.)ssl\.xplosion\.de$
@@ -17664,7 +17659,6 @@
 (^|\.)kc\.mv\.bidsystem\.com$
 (^|\.)icon\.cubics\.com$
 # [Adknowledge][216\.21\.208\.0 - 216\.21\.223\.255]$
-(^|\.)bidsystem\.adknowledge\.com$
 (^|\.)bsclick\.adknowledge\.com$
 (^|\.)web\.adknowledge\.com$
 (^|\.)updates\.desktop\.ak-networks\.com$
@@ -17679,7 +17673,6 @@
 (^|\.)metrics\.impactengine\.com$
 # [AdOcean]$
 (^|\.)ad\.adocean\.pl$
-(^|\.)afilv\.adocean\.pl$
 (^|\.)aripaee\.adocean\.pl$
 (^|\.)b92rs\.adocean\.pl$
 (^|\.)bg\.adocean\.pl$
@@ -17689,7 +17682,6 @@
 (^|\.)by\.adocean\.pl$
 (^|\.)cz\.adocean\.pl$
 (^|\.)delfiee\.adocean\.pl$
-(^|\.)delfilt\.adocean\.pl$
 (^|\.)delfilv\.adocean\.pl$
 (^|\.)digital4ro\.adocean\.pl$
 (^|\.)edipresse\.adocean\.pl$
@@ -17710,7 +17702,6 @@
 (^|\.)my\.adocean\.pl$
 (^|\.)pracuj\.adocean\.pl$
 (^|\.)protvmd\.adocean\.pl$
-(^|\.)realitatero\.adocean\.pl$
 (^|\.)ringierro\.adocean\.pl$
 (^|\.)ringierrs\.adocean\.pl$
 (^|\.)ro\.adocean\.pl$
@@ -17720,7 +17711,6 @@
 (^|\.)rsgde\.adocean\.pl$
 (^|\.)s1\.sk\.adocean\.pl$
 (^|\.)s1\.czgde\.adocean\.pl$
-(^|\.)s1\.delfilt\.adocean\.pl$
 (^|\.)s1\.edipresse\.adocean\.pl$
 (^|\.)s1\.my\.adocean\.pl$
 (^|\.)s1\.myao\.adocean\.pl$
@@ -17958,12 +17948,10 @@
 (^|\.)img\.en25\.com$
 (^|\.)tiads\.essence\.com$
 (^|\.)tiads\.ew\.com$
-(^|\.)s\.fl-ads\.com$
 (^|\.)promo\.freshdirect\.com$
 # (^|\.)cdns\.gigya\.com #[affects IHeartRadio]$
 (^|\.)www30a6\.glam\.com$
 (^|\.)tiads\.health\.com$
-(^|\.)ads-a-darwin\.hulu\.com$
 (^|\.)cdn\.innity\.net$
 (^|\.)cdn\.media\.innity\.net$
 (^|\.)s-static\.innovid\.com$
@@ -17981,8 +17969,10 @@
 (^|\.)adcache\.nymag\.com$
 (^|\.)cdn\.optimizely\.com$
 (^|\.)cdn3\.optimizely\.com$
+(^|\.)amplify\.outbrain\.com$
 (^|\.)images\.outbrain\.com$
 (^|\.)storage\.outbrain\.com$
+(^|\.)tr\.outbrain\.com$
 (^|\.)vra\.outbrain\.com$
 (^|\.)cdn\.polmontventures\.com$
 (^|\.)a\.postrelease\.com$
@@ -18150,7 +18140,6 @@
 (^|\.)ads\.ehealthcaresolutions\.com$
 (^|\.)www\.euroconcept\.ro$
 (^|\.)track\.eyeviewads\.com$
-(^|\.)engine\.fl-ads\.com$
 (^|\.)click\.gospect\.com$
 (^|\.)a\.idio\.co$
 (^|\.)dts\.innovid\.com$
@@ -18181,7 +18170,6 @@
 (^|\.)s\.shopify\.com$
 (^|\.)pix\.silverpush\.co$
 (^|\.)ads\.skinected\.com$
-(^|\.)l\.springmetrics\.com$
 (^|\.)ads\.supplyframe\.com$
 # (^|\.)analytics\.supplyframe\.com #[affects findchips\.com]$
 (^|\.)images\.ads\.supplyframe\.com$
@@ -18203,7 +18191,6 @@
 (^|\.)server1\.beaconpush\.com$
 (^|\.)socpixel\.bidsystem\.com$
 (^|\.)static\.brsrvr\.com$
-(^|\.)www\.caphyon-analytics\.com$
 (^|\.)adunit\.chango\.ca$
 (^|\.)ads\.chango\.com$
 (^|\.)adunit\.chango\.com$
@@ -18359,6 +18346,7 @@
 (^|\.)a1\.vdna-assets\.com$
 # [Amazon\.com][AS16509][13\.32\.0\.0 - 13\.35\.255\.255]$
 (^|\.)connatix\.com$
+(^|\.)ads-d\.viber\.com$
 # [Amazon\.com][AS14618][23\.20\.0\.0 - 23\.23\.255\.255]$
 (^|\.)static\.adk2\.com$
 (^|\.)ad\.adip\.ly$
@@ -18396,23 +18384,25 @@
 (^|\.)stage\.traffiliate\.com$
 (^|\.)ads\.tunein\.com$
 (^|\.)services\.webspectator\.com$
-(^|\.)ads\.yashi\.com$
 (^|\.)cdn\.vdopia\.com$
 # [Amazon\.com][AS14618][34\.192\.0\.0 - 34\.255\.255\.255]$
 (^|\.)mcafee-home\.7eer\.net$
 (^|\.)blobar\.org$
 (^|\.)api\.circularhub\.com$
 (^|\.)schwab\.demdex\.net$
+(^|\.)geo\.qualaroo\.com$
 (^|\.)collect\.tealiumiq\.com$
 (^|\.)collect-us-east-1\.tealiumiq\.com$
 (^|\.)tracking\.revimedia\.com$
 (^|\.)n\.targetctracker\.com$
 (^|\.)trackcmp\.net$
+(^|\.)log\.quora\.com$
+(^|\.)ads\.viber\.com$
+(^|\.)ads\.aws\.viber\.com$
 (^|\.)www\.whizstats\.com$
 # [Amazon\.com][AS39111][35\.152\.0\.0 - 35\.183\.255\.255]$
 (^|\.)www\.currentupdateconcepts\.com$
 (^|\.)api\.segment\.io$
-(^|\.)www\.tagclearbits\.com$
 (^|\.)ssp\.videostat\.com$
 # [Amazon\.com][AS39111][46\.137\.0\.0 - 46\.137\.127\.255]$
 (^|\.)s248\.meetrics\.net$
@@ -18553,7 +18543,6 @@
 (^|\.)s\.tagsrvcs\.com$
 (^|\.)d\.t\.tailtarget\.com$
 (^|\.)www\.trackingclick\.net$
-(^|\.)g8qxp\.ads\.tremorhub\.com$
 (^|\.)m6dqx-ad3hl\.ads\.tremorhub\.com$
 (^|\.)trueclickads\.net$
 (^|\.)track\.ultragaming\.biz$
@@ -18582,7 +18571,6 @@
 (^|\.)infinityid\.condenastdigital\.com$
 (^|\.)c\.f5mtrack\.com$
 (^|\.)fastnclick\.com$
-(^|\.)www\.guardappsfarm\.com$
 (^|\.)track\.leadin\.com$
 (^|\.)mantodea\.mantisadnetwork\.com$
 (^|\.)sync\.monarchads\.com$
@@ -18613,10 +18601,12 @@
 (^|\.)d2tgfbvjf3q6hn\.cloudfront\.net$
 (^|\.)dz2fz0bgyq9tn\.cloudfront\.net$
 (^|\.)cdn\.cquotient\.com$
+(^|\.)rscdn\.cxense\.com$
 (^|\.)www\.hotdogsandads\.com$
 (^|\.)htl\.bid$
 (^|\.)contentz\.mkt61\.net$
 (^|\.)cdn\.my-pc-cleaner\.org$
+(^|\.)tracker\.nbcuas\.com$
 (^|\.)cdn\.permutive\.com$
 (^|\.)dove\.saymedia\.com$
 (^|\.)go\.searchlock\.com$
@@ -18628,11 +18618,9 @@
 (^|\.)rq\.trackingadirect\.com$
 # [Amazon\.com][AS14618][54\.144\.0\.0 - 54\.159\.255\.255]$
 (^|\.)t\.adk2\.com$
-(^|\.)www\.applicationsflashbinaries\.com$
 (^|\.)www\.bitsfarmclean\.com$
 (^|\.)www\.bitspresentdownload\.com$
 (^|\.)www\.bundlerepositorycontent\.com$
-(^|\.)www\.guardcyclequick\.com$
 (^|\.)www\.megagiftcity\.com$
 (^|\.)cdn\.opensubcontent\.com$
 (^|\.)advrts-1\.revenue-tracker\.com$
@@ -18702,13 +18690,12 @@
 (^|\.)seccdn-gl\.imrworldwide\.com$
 (^|\.)resources\.kiosked\.com$
 (^|\.)cdn\.listrakbi\.com$
-(^|\.)www\.livefyre\.com$
+# (^|\.)www\.livefyre\.com #[affects startribune\.com]$
 (^|\.)cdn\.matheranalytics\.com$
 (^|\.)t\.mdn2015x2\.com$
 (^|\.)stag\.mdotlabs\.com$
 (^|\.)ads\.mic\.com$
 (^|\.)dbg52463\.moatads\.com$
-(^|\.)t\.mtagmonetizationa\.com$
 (^|\.)files\.native\.ad$
 (^|\.)ps\.ns-cdn\.com$
 (^|\.)ap\.octopuspop\.com$
@@ -18733,7 +18720,6 @@
 (^|\.)arena\.altitude-arena\.com$
 (^|\.)ca\.altitude-arena\.com$
 (^|\.)pstats\.blogworks\.com$
-(^|\.)clicksimpact\.cashtrk\.com$
 (^|\.)a\.centrum\.cz$
 (^|\.)click\.clktraker\.com$
 (^|\.)stats\.cloudwp\.io$
@@ -18754,8 +18740,6 @@
 (^|\.)banners\.moreniche\.com$
 (^|\.)analytics\.cnd-motionmedia\.de$
 (^|\.)www\.onadstracker\.com$
-(^|\.)odds\.optimizely\.com$
-(^|\.)api\.revcontent\.com$
 (^|\.)bomcl\.richmetrics\.com$
 (^|\.)seb\.scorecardresearch\.com$
 (^|\.)d\.tailtarget\.com$
@@ -18796,11 +18780,6 @@
 (^|\.)t\.beanstalkdata\.com$
 (^|\.)ad\.broadstreetads\.com$
 (^|\.)cdn\.broadstreetads\.com$
-(^|\.)pageurl\.btrll\.com$
-(^|\.)pageurl-brx\.btrll\.com$
-(^|\.)pix\.btrll\.com$
-(^|\.)shim\.btrll\.com$
-(^|\.)vw\.btrll\.com$
 (^|\.)cdn\.bttrack\.com$
 (^|\.)adg\.bzgint\.com$
 (^|\.)dynamic\.cannedbanners\.com$
@@ -18840,7 +18819,6 @@
 (^|\.)intbrands\.t\.domdex\.com$
 (^|\.)td\.demdex\.net$
 (^|\.)tags-cdn\.deployads\.com$
-(^|\.)xch\.directrev\.com$
 (^|\.)tiscali\.js\.ad\.dotandad\.com$
 (^|\.)cdn\.elasticad\.net$
 (^|\.)col\.eum-appdynamics\.com$
@@ -18883,13 +18861,10 @@
 (^|\.)content\.mkt932\.com$
 (^|\.)contentz\.mkt932\.com$
 (^|\.)contentz\.mkt941\.com$
-(^|\.)w\.mlv-cdn\.com$
 (^|\.)track\.moreniche\.com$
-(^|\.)t\.mtagmonetizationc\.com$
 (^|\.)c\.mtro\.co$
 (^|\.)zdbb\.netshelter\.net$
 (^|\.)mix-test\.uts\.ngdata\.com$
-(^|\.)eu\.npario-inc\.net$
 (^|\.)ninja\.onap\.io$
 (^|\.)cdn\.onscroll\.com$
 (^|\.)vast\.optimatic\.com$
@@ -18897,7 +18872,6 @@
 (^|\.)c\.pebblemedia\.be$
 (^|\.)analytics\.dev\.popdust\.com$
 (^|\.)static\.proximic\.com$
-(^|\.)i\.pxlad\.io$
 (^|\.)static\.pxlad\.io$
 (^|\.)embed-stats\.rbl\.ms$
 (^|\.)frontpage-stats\.rbl\.ms$
@@ -19314,7 +19288,6 @@
 (^|\.)x\.clickcertain\.com$
 (^|\.)ads\.clovenetwork\.com$
 (^|\.)ads\.cpxinteractive\.com$
-(^|\.)ads\.deliads\.com$
 (^|\.)ads\.digitalthrottle\.com$
 (^|\.)ads\.exactdrive\.com$
 (^|\.)ads\.fidelity-media\.com$
@@ -19383,18 +19356,14 @@
 (^|\.)www\.meetic-partners\.com$
 (^|\.)ad\.prismamediadigital\.com$
 (^|\.)ads\.publicidad\.net$
-# [Autonomous][AS43489][193\.232\.159\.0 - 193\.232\.159\.255]$
 # [Awknet Communications][AS17048][69\.42\.208\.0 - 69\.42\.223\.255]$
 (^|\.)adtegrity\.com$
 (^|\.)www\.adtegrity\.com$
 # [Axill][72\.3\.140\.224 - 72\.3\.140\.231]$
 (^|\.)www\.axill\.com$
-# [Axill Europe][84\.45\.70\.0 - 84\.45\.70\.255]$
+# [Axill Europe][AS41813][84\.45\.63\.0 - 84\.45\.70\.255]$
 (^|\.)www\.globe7\.com$
-# [Axill Europe][AS41813][84\.45\.63\.0 - 84\.45\.63\.255]$
 # [Aznet][AS44976][194\.150\.236\.0 - 194\.150\.237\.255]$
-(^|\.)www\.cashtrafic\.com$
-# [Bahnhof][AS21503][AS8473][5\.150\.195\.160 - 5\.150\.195\.191]$
 # [Bay Area / Visistat][AS7151][209\.128\.64\.0 - 209\.128\.127\.255]$
 (^|\.)stats\.sa-as\.com$
 (^|\.)stats\.visistat\.com$
@@ -19409,7 +19378,6 @@
 (^|\.)static\.ard\.xxxblackbook\.com$
 # [Beanfield][AS21949][76\.9\.192\.0 - 76\.9\.223\.255]$
 (^|\.)ard\.sweetdiscreet\.com$
-# [Bell Canada][AS6539][209\.139\.192\.0 - 209\.139\.255\.255]$
 # [Bell Canada][AS6539][216\.18\.0\.0 - 216\.18\.127\.255]$
 (^|\.)api\.nrelate\.com$
 # [Bell Globemedia Interactive][AS10808][199\.246\.60\.0 - 199\.246\.71\.255]$
@@ -19435,7 +19403,6 @@
 (^|\.)ua5\.hit\.stat24\.com$
 (^|\.)uk4\.hit\.stat24\.com$
 (^|\.)www\.stat24\.com$
-# [Beyond The Network][AS3491][205\.177\.0\.0 - 205\.177\.255\.255]$
 # [Beyond The Network][AS3491][205\.252\.0\.0 - 205\.252\.255\.255]$
 (^|\.)clicktrace\.info$
 (^|\.)mirageads\.net$
@@ -19533,21 +19500,6 @@
 (^|\.)pub49\.bravenet\.com$
 (^|\.)pub50\.bravenet\.com$
 (^|\.)xml\.bravenet\.com$
-# [BrightRoll][AS39995][162\.208\.20\.0 - 162\.208\.23\.255]$
-(^|\.)geo-um\.btrll\.com$
-(^|\.)segs\.btrll\.com$
-(^|\.)vast\.bp3855098\.btrll\.com$
-(^|\.)vast\.bp3855099\.btrll\.com$
-(^|\.)vast\.bp3854536\.btrll\.com$
-(^|\.)vast\.bp3855984\.btrll\.com$
-(^|\.)vast\.bp3855987\.btrll\.com$
-(^|\.)vast\.bp3855989\.btrll\.com$
-(^|\.)vast\.bp3855991\.btrll\.com$
-(^|\.)vast\.bp3855992\.btrll\.com$
-(^|\.)yrtas\.btrll\.com$
-# [BrightRoll][AS39995][165\.254\.0\.0 - 165\.254\.255\.255]$
-(^|\.)brxserv-21\.btrll\.com$
-(^|\.)geo-errserv\.btrll\.com$
 # [Broadband Enterprises][AS3561][64\.15\.238\.64 - 64\.15\.238\.127]$
 (^|\.)addirector\.vindicosuite\.com$
 (^|\.)web\.vindicosuite\.com$
@@ -19598,7 +19550,6 @@
 (^|\.)statto\.plus8\.net$
 # [C4L / Globalcharge-net][AS25577][84\.45\.71\.0 - 84\.45\.71\.255]$
 (^|\.)www\.globalcharge\.com$
-# [California Regional][AS10439][209\.126\.128\.0 - 209\.126\.255\.255]$
 # [California Regional / i-Serve][AS10439][71\.6\.128\.0 - 71\.6\.255\.255]$
 (^|\.)pluto\.adcycle\.com$
 (^|\.)www\.adcycle\.com$
@@ -19804,8 +19755,6 @@
 # [ClaraNET][AS8426][62\.80\.0\.0 - 62\.80\.63\.255]$
 (^|\.)www\.free-choices\.com$
 (^|\.)piwik\.n24\.de$
-(^|\.)ads\.planet49\.com$
-# [ClaraNET][AS8426][78\.40\.37\.128 - 78\.40\.37\.135]$
 # [ClaraNET][AS8426][95\.0\.0\.0 - 95\.255\.255\.255]$
 (^|\.)ads\.adnet-media\.net$
 (^|\.)3amcouk\.skimlinks\.com$
@@ -19850,7 +19799,6 @@
 (^|\.)cdnmedia\.xyz$
 (^|\.)wp1\.cor-natty\.com$
 (^|\.)count\.im$
-(^|\.)datattro\.xyz$
 (^|\.)cdn\.districtm\.ca$
 (^|\.)prebid\.districtm\.ca$
 (^|\.)extra\.eboundservices\.com$
@@ -19880,7 +19828,6 @@
 (^|\.)www1\.pip-pip-pop\.com$
 (^|\.)code\.poptm\.com$
 (^|\.)ads\.proboards\.com$
-(^|\.)promable\.com$
 (^|\.)proudclick\.com$
 (^|\.)www\.ps7894\.com$
 (^|\.)cdn\.pubexchange\.com$
@@ -19918,7 +19865,6 @@
 (^|\.)ozertesa\.com$
 (^|\.)pinion\.gg$
 (^|\.)bin\.pinion\.gg$
-(^|\.)cdn\.pinion\.gg$
 (^|\.)www\.pstats\.com$
 (^|\.)theads\.me$
 (^|\.)www\.xyfex\.com$
@@ -20123,8 +20069,6 @@
 (^|\.)ua-content\.adriver\.ru$
 # [Colocall][AS15497][62\.149\.28\.0 - 62\.149\.28\.255]$
 (^|\.)e2\.molbuk\.ua$
-# [Colocation Clients][85\.14\.38\.16 - 85\.14\.38\.255]$
-(^|\.)ads\.premiership\.bg$
 # [Colocation Clients][AS8262][85\.14\.6\.0 - 85\.14\.6\.255]$
 (^|\.)eadsrv\.com$
 (^|\.)bms\.xenium\.bg$
@@ -20464,6 +20408,7 @@
 (^|\.)www\.livewebstats\.dk$
 # [E-Commerce][AS26505][200\.124\.128/20]$
 # [EdgeCast][AS15133][117\.18\.232\.0 - 117\.18\.239\.255]$
+# [EdgeCast][AS15133][152\.176\.0\.0 - 152\.199\.255\.255]$
 # [EdgeCast Networks][AS15133][192\.229\.128\.0 - 192\.229\.255\.255]$
 (^|\.)vlibs\.advertising\.com$
 (^|\.)cdata\.carambo\.la$
@@ -20555,6 +20500,7 @@
 (^|\.)now\.eloqua\.com$
 (^|\.)s323\.t\.eloqua\.com$
 (^|\.)s1184\.t\.eloqua\.com$
+(^|\.)s1325\.t\.eloqua\.com$
 (^|\.)s1471\.t\.eloqua\.com$
 (^|\.)s1481\.t\.eloqua\.com$
 (^|\.)s2150\.t\.eloqua\.com$
@@ -20657,6 +20603,8 @@
 (^|\.)bh\.contextweb\.com$
 (^|\.)cdslog\.contextweb\.com$
 (^|\.)tag-st\.contextweb\.com$
+(^|\.)sync-tm\.everesttech\.net$
+(^|\.)beacon\.wikia-services\.com$
 # [Fdcservers\.net][AS30058][208\.53\.128\.0 - 208\.53\.191\.255]$
 (^|\.)banners\.virtuagirlhd\.com$
 # [Fdcservers\.net / Acceas Partners][66\.90\.64\.0 - 66\.90\.127\.255]$
@@ -21208,7 +21156,6 @@
 # [Google / DoubleClick][AS15169][74\.125\.0\.0 - 74\.125\.255\.255]$
 (^|\.)ip-geo\.appspot\.com$
 (^|\.)nojsstats\.appspot\.com$
-(^|\.)gae\.caspion\.com$
 (^|\.)ad-ace\.doubleclick\.net$
 (^|\.)ad\.bg\.doubleclick\.net$
 (^|\.)bid\.g\.doubleclick\.net$
@@ -21716,7 +21663,6 @@
 (^|\.)utm\.trk\.zwinky\.com$
 (^|\.)help\.mysearch\.com$
 (^|\.)www\.mysearch\.com$
-(^|\.)bar\.mytotalsearch\.com$
 (^|\.)www\.mytotalsearch\.com$
 (^|\.)mywebsearch\.com$
 (^|\.)edits\.mywebsearch\.com$
@@ -21874,7 +21820,6 @@
 # [Internet Billboard][AS5588][194\.213\.62\.32 - 194\.213\.62\.47]$
 # [Internet Billboard][AS2819][62\.168\.44\.112 - 62\.168\.44\.127]$
 (^|\.)bbcdn\.go\.adlv\.bbelements\.com$
-(^|\.)bbcdn\.go\.idmnet\.bbelements\.com$
 (^|\.)go\.gba\.bbelements\.com$
 (^|\.)video-adserver\.ibillboard\.com$
 # [Internet Billboard][AS2819][62\.209\.227\.208 - 62\.209\.227\.223]$
@@ -21971,7 +21916,6 @@
 (^|\.)www\.singlesadnetwork\.com$
 (^|\.)vom\.sitescout\.com$
 (^|\.)wam-ads\.sitescout\.com$
-(^|\.)monk\.sitescoutadserver\.com$
 # [Isprime][66\.230\.128\.0 - 66\.230\.191\.255]$
 (^|\.)www\.ads180\.com$
 (^|\.)clicksagent\.com$
@@ -21989,7 +21933,6 @@
 (^|\.)www\.realtextads\.com$
 (^|\.)www\.ruclicks\.com$
 (^|\.)banners\.thiswillshockyou\.com$
-# [ISPrime / Reality Check][64\.111\.206\.0 - 64\.111\.208\.255]$
 # [ISPrime / Reality Check][64\.111\.216\.0 - 64\.111\.217\.255]$
 (^|\.)banners\.amfibi\.com$
 # [ISPrime / Reality Check][AS23393][66\.230\.161\.0 - 66\.230\.161\.255]$
@@ -22013,7 +21956,6 @@
 (^|\.)244657-12903\.link\.iwanttodeliver\.com$
 (^|\.)38707-223419\.link\.iwanttodeliver\.com$
 (^|\.)4902-145639\.link\.iwanttodeliver\.com$
-(^|\.)www\.loading-delivery1\.com$
 (^|\.)www\.loading-delivery2\.com$
 (^|\.)banners\.meccahoo\.com$
 (^|\.)www\.targetingnow\.com$
@@ -22183,7 +22125,6 @@
 # [Leaseweb][AS16265][46\.243\.0\.0 - 46\.243\.7\.255]$
 (^|\.)vktr073\.net$
 # [Leaseweb][AS16265][5\.61\.32\.0 - 5\.61\.47\.255]$
-(^|\.)assculo\.com$
 # [Leaseweb][AS16265][5\.79\.64\.0 - 5\.79\.127\.255]$
 (^|\.)adservone\.com$
 # [Leaseweb][AS16265][62\.212\.66\.0 - 62\.212\.84\.255]$
@@ -22268,7 +22209,6 @@
 (^|\.)ads\.itmcash\.com$
 (^|\.)s6\.lebenna\.com$
 (^|\.)linktarget\.com$
-(^|\.)wwa\.pacific-yield\.com$
 (^|\.)adv\.rockstar\.bg$
 (^|\.)webmasters\.videarn\.com$
 (^|\.)ad\.wingads\.com$
@@ -22299,7 +22239,6 @@
 # [Level3][AS3356][207\.120\.0\.0 - 207\.123\.255\.255]$
 # [Level3 / InsightExpress][AS3356][209\.244\.0\.0 - 209\.247\.255\.255]$
 (^|\.)ad\.insightexpress\.com$
-(^|\.)invite\.insightexpress\.com$
 (^|\.)www\.insightexpress\.com$
 (^|\.)icompass\.insightexpressai\.com$
 (^|\.)rb\.insightexpressai\.com$
@@ -23045,7 +22984,6 @@
 (^|\.)clips\.coolerads\.com$
 (^|\.)www\.dolanadserver\.com$
 (^|\.)advertising\.embarcaderopublishing\.com$
-(^|\.)iklan\.emedia\.com\.my$
 (^|\.)www\.gcmadvertising\.com$
 (^|\.)mouads\.com$
 (^|\.)up\.nytimes\.com$
@@ -23129,7 +23067,7 @@
 # [Ntt America][168\.143\.0\.0 - 168\.143\.255\.255]$
 (^|\.)scripts\.chitika\.net$
 (^|\.)rtbcdn\.doubleverify\.com$
-(^|\.)s\.marketwatch\.com$
+# (^|\.)s\.marketwatch\.com #[affects marketwatch]$
 # [Ntt America][198\.104\.0\.0 - 198\.104\.255\.255]$
 (^|\.)www\.secure-processingcenter\.com$
 (^|\.)www\.spywarebegone\.com$
@@ -24665,7 +24603,6 @@
 (^|\.)green\.erne\.co$
 (^|\.)geoloc4\.geovisite\.com$
 (^|\.)adyoulike\.omnitagjs\.com$
-(^|\.)prosearchs\.in$
 (^|\.)whoads\.net$
 # [Ovh Sas][AS16276][178\.32\.18\.128 - 178\.33\.18\.191]$
 (^|\.)stat\.clickfrog\.ru$
@@ -24699,6 +24636,7 @@
 (^|\.)a20\.x-traceur\.com$
 (^|\.)logos\.x-traceur\.com$
 (^|\.)services\.x-traceur\.com$
+# [Ovh Sas][217\.182\.0\.0 - 217\.182\.255\.255]$
 # [Ovh Sas][AS16276][37\.187\.128\.0 - 37\.187\.135\.255]$
 (^|\.)eu1\.heatmap\.it$
 (^|\.)oxybe\.com$
@@ -24797,9 +24735,12 @@
 (^|\.)return\.uk\.domainnamesales\.com$
 # [Peer 1][AS13768][207\.198\.64\.0 - 207\.198\.127\.255]$
 # [Peer 1][AS13768][209\.15\.0\.0 - 209\.15\.255\.255]$
+(^|\.)appie\.com$
 (^|\.)use-tor\.adsrvr\.org$
 (^|\.)btprmnav\.com$
+(^|\.)btnativedirect\.com$
 (^|\.)bttrack\.com$
+(^|\.)pixel-a\.basis\.net$
 (^|\.)pixel\.crosspixel\.net$
 (^|\.)pixel-a\.sitescout\.com$
 # [Peer 1][209\.25\.128\.0 - 209\.25\.255\.255]$
@@ -24886,7 +24827,6 @@
 (^|\.)www\.thepornsurvey\.com$
 # [Peer 1][66\.199\.128\.0 - 66\.199\.191\.255]$
 (^|\.)banner\.titanpoker\.com$
-(^|\.)banner\.vegasred\.com$
 # [Peer 1][AS11388][66\.33\.0\.0 - 66\.33\.127\.255]$
 # [Peer 1][AS11388][66\.40\.0\.0 - 66\.40\.255\.25550]$
 (^|\.)coolinc\.info$
@@ -25381,7 +25321,6 @@
 (^|\.)adserver2\.exgfnetwork\.com$
 (^|\.)analytics\.fuckingawesome\.com$
 (^|\.)ads\.jo-games\.com$
-(^|\.)ads\.myjizztube\.com$
 (^|\.)www\.tubehits\.com$
 (^|\.)ads\.watchmygf\.net$
 (^|\.)openx\.watchmygf\.net$
@@ -25501,7 +25440,6 @@
 (^|\.)www\.pornsponsors\.com$
 (^|\.)in\.riskymail4free\.com$
 (^|\.)www\.riskymail4free\.com$
-(^|\.)img\.xratedbucks\.com$
 (^|\.)bigtits\.xxxallaccesspass\.com$
 # [Secured Servers][AS20454][108\.170\.0\.0 - 108\.170\.63\.255]$
 # [Secured Servers][AS20454][184\.171\.160\.0 - 184\.171\.175\.255]$
@@ -25521,7 +25459,6 @@
 (^|\.)www\.sedotracker\.com$
 (^|\.)www\.sedotracker\.de$
 # [Sedo / Cachenetworks][AS23352][AS30081][205\.234\.175\.0 - 205\.234\.175\.255]$
-(^|\.)js\.dmtry\.com$
 (^|\.)static\.parkingpanel\.com$
 (^|\.)img\.sedoparking\.com$
 # [Sedo][82\.98\.86\.0 - 82\.98\.86\.255]$
@@ -25532,7 +25469,6 @@
 # [ServePath][157\.22\.32\.0 - 157\.22\.47\.255]$
 (^|\.)www\.incentivenetworks2\.com$
 # [ServePath][173\.1\.0\.0 - 173\.1\.127\.255]$
-(^|\.)ggo\.directrev\.com$
 (^|\.)itunesdownloadstore\.com$
 # [ServePath][AS26228][173\.204\.0\.0 - 173\.204\.255\.255]$
 # [ServePath][AS26228][204\.51\.128\.0 - 204\.51\.255\.255]$
@@ -26202,7 +26138,6 @@
 (^|\.)www\.persianstat\.com$
 # [Theplanet\.com][205\.251\.128\.0 - 205\.251\.159\.255]$
 # [Theplanet\.com][207\.44\.128\.0 - 207\.44\.255\.255]$
-(^|\.)mmaadnet\.ad-control-panel\.com$
 (^|\.)as\.gostats\.com$
 (^|\.)ded\.gostats\.com$
 (^|\.)www\.searchmachine\.com$
@@ -26388,7 +26323,6 @@
 (^|\.)privatamateure\.com$
 (^|\.)webmaster\.privatamateure\.com$
 (^|\.)www\.privatamateure\.com$
-# [Turk Telekom][AS9121][212\.174\.200\.96 - 212\.174\.200\.127]$
 # [Turk Telekom][AS9121][85\.96\.0\.0 - 85\.111\.255\.255]$
 # [TutHost / Samotlortelecom][AS44820][91\.203\.4\.0 - 91\.203\.7\.255]$
 # [Tw Telecom][AS4323][174\.46\.0\.0 - 174\.47\.255\.255]$
@@ -26397,7 +26331,6 @@
 (^|\.)pureleads\.com$
 # [Tw Telecom][AS4323][216\.120\.224\.0 - 216\.120\.255\.255]$
 (^|\.)boloz\.com$
-# [Tw Telecom][AS4323][216\.136\.0\.0 - 216\.136\.127\.255]$
 # [Tw Telecom][AS4323][66\.192\.0\.0 - 66\.195\.255\.255]$
 (^|\.)testats\.inuvo\.com$
 (^|\.)tracking\.inuvo\.com$
@@ -26408,8 +26341,6 @@
 (^|\.)ads\.proz\.com$
 (^|\.)theaffiliateprogram\.com$
 (^|\.)www\.theaffiliateprogram\.com$
-# [UK2\.net][AS13213][109\.123\.95\.0 - 109\.123\.95\.255]$
-(^|\.)robtopol\.in$
 # [UK2\.net][AS13213][83\.170\.64\.0 - 83\.170\.127\.255]$
 (^|\.)err\.000webhost\.com$
 (^|\.)error404\.000webhost\.com$
@@ -27324,8 +27255,6 @@
 (^|\.)092706152958\.c\.mystat-in\.net$
 (^|\.)102106151057\.c\.mystat-in\.net$
 (^|\.)112006133326\.c\.mystat-in\.net$
-# [W Net Isp][AS15772][92\.60\.176\.0 - 92\.60\.191\.255]$
-# [Wahome / 2x4\.ru][AS41947][92\.241\.168\.0 - 92\.241\.169\.254]$
 # [WAN Worldcom / Live Technology][AS11486][206\.65\.169\.128 - 206\.65\.169\.191]$
 (^|\.)14713804a\.l2m\.net$
 (^|\.)30280827a\.l2m\.net$
@@ -27339,6 +27268,7 @@
 # [Way Internet][AS13890][216\.133\.243\.0 - 216\.133\.243\.63]$
 (^|\.)click\.zipcodez\.com$
 # [Webair][AS27257][173\.239\.42\.214]$
+(^|\.)dsp\.adkernel\.com$
 (^|\.)sync\.adkernel\.com$
 (^|\.)filter\.adxfactory\.com$
 (^|\.)xml\.adxfactory\.com$
@@ -27683,7 +27613,6 @@
 (^|\.)oascentral\.katv\.com$
 (^|\.)oascentral\.lifetimetv\.com$
 (^|\.)oas\.maktoobblog\.com$
-(^|\.)oascentral\.metrotimes\.com$
 (^|\.)oascentral\.metrowestdailynews\.com$
 (^|\.)oascentral\.miaminewtimes\.com$
 (^|\.)oascentral\.modernhealthcare\.com$
@@ -27695,7 +27624,6 @@
 (^|\.)oascentral\.news-record\.com$
 (^|\.)oascentral\.newstimeslive\.com$
 (^|\.)oas-fr\.video\.on\.nytimes\.com$
-(^|\.)oascentral\.ocweekly\.com$
 (^|\.)oascentral\.onthesnow\.com$
 (^|\.)oascentral\.oprah\.com$
 (^|\.)oascentral\.planetatv\.com$
@@ -27751,12 +27679,9 @@
 # [Wz Communications][AS40824][199\.80\.52\.0 - 199\.80\.55\.255]$
 (^|\.)cpaclickoffer\.com$
 (^|\.)jsn\.mgid\.com$
-# [Wz Communications][199\.101\.132\.0 - 199\.101\.135\.255]$
-(^|\.)www\.adshost1\.com$
 # [Wz Communications][AS40824][204\.155\.144\.0 - 204\.155\.159\.255]$
 (^|\.)track\.ad4mmo\.com$
 (^|\.)n149adserv\.com$
-(^|\.)n44adshostnet\.com$
 (^|\.)cdn\.mgid\.com$
 # [Wz Communications][AS40824][206\.54\.177\.0 - 206\.54\.177\.255]$
 (^|\.)x\.cnt\.my$
@@ -27777,9 +27702,6 @@
 (^|\.)counter\.mgid\.com$
 (^|\.)servicer\.mgid\.com$
 (^|\.)i3\.putags\.com$
-# [Xentronix][AS16265][85\.12\.43\.0 - 85\.12\.43\.255]$
-# [X-host\.ua Network][AS25456][193\.200\.255\.0 - 193\.200\.255\.255]$
-# [XO Communications][AS2828][206\.111\.0\.0 - 206\.111\.255\.255]$
 # [XO Communications][AS40935][208\.36\.0\.0 - 208\.37\.255\.255]$
 (^|\.)smartad\.mercadolibre\.com\.ar$
 (^|\.)smartad\.mercadolivre\.com\.br$
@@ -27795,9 +27717,6 @@
 # [XO Communications][AS2828][65\.104\.0\.0 - 65\.107\.255\.255]$
 # [XO Communications][AS2828][66\.104\.0\.0 - 66\.107\.255\.255]$
 (^|\.)advertising\.finditt\.com$
-# [XO Communications][AS2828][67\.104\.0\.0 - 67\.111\.255\.255]$
-# [X Plus One][AS53563][75\.98\.46\.0 - 75\.98\.46\.255]$
-# [Xs4all Internet][AS3265][213\.222\.29\.96 - 213\.222\.29\.127]$
 # [Xs4all Internet][AS3265][82\.161\.231\.0 - 82\.161\.231\.255]$
 (^|\.)www\.mediahighway\.net$
 (^|\.)www\.netpoll\.nl$
@@ -27818,7 +27737,6 @@
 (^|\.)s01-delivery\.addynamo\.net$
 (^|\.)static\.addynamo\.net$
 (^|\.)static-uk\.addynamo\.net$
-# [YabaMedia][AS49097][91\.212\.135\.0 - 91\.212\.135\.255]$
 # [Yahoo][AS38689][119\.161\.0\.0 - 119\.161\.31\.255]$
 # [Yahoo Taiwan][AS24506][116\.214\.0\.0 - 116\.214\.15\.255]$
 (^|\.)ad\.wretch\.cc$
@@ -27831,12 +27749,7 @@
 # [Yahoo][AS36129][206\.190\.32\.0 - 206\.190\.63\.255]$
 (^|\.)e\.yieldmanager\.net$
 # [Yahoo / Right Media][208\.67\.64\.0 - 208\.67\.71\.255]$
-(^|\.)my\.adtegrity\.net$
 (^|\.)ym\.bannerconnect\.net$
-(^|\.)reporting\.cpxinteractive\.com$
-(^|\.)api\.yieldmanager\.com$
-(^|\.)my\.yieldmanager\.com$
-# [Yahoo][209\.191\.64\.0 - 209\.191\.127\.255]$
 # [Yahoo Europe][AS15635][217\.12\.3\.0 - 217\.12\.4\.255]$
 (^|\.)be\.adserver\.yahoo\.com$
 # [Yahoo Europe][217\.146\.184\.0 - 217\.146\.191\.47]$
@@ -27857,7 +27770,6 @@
 (^|\.)visit\.webhosting\.yahoo\.com$
 # [Yahoo][AS26101][69\.147\.64\.0 - 69\.147\.127\.255]$
 # [Yahoo][AS14778][76\.13\.0\.0 - 76\.13\.255\.255]$
-(^|\.)ad\.creafi\.com$
 (^|\.)ad\.foxnetworks\.com$
 (^|\.)ad\.hi5\.com$
 (^|\.)ae\.adserver\.yahoo\.com$
@@ -27880,7 +27792,6 @@
 (^|\.)beap\.adx\.yahoo\.com$
 (^|\.)sp\.analytics\.yahoo\.com$
 (^|\.)analytics\.query\.yahoo\.com$
-(^|\.)gd\.ads\.vip\.gq1\.yahoo\.com$
 (^|\.)geo\.query\.yahoo\.com$
 (^|\.)ci\.beap\.ad\.yieldmanager\.net$
 (^|\.)ac\.ybinst0\.ec\.yimg\.com$
@@ -27980,15 +27891,15 @@
 #$
 # For more information about this list, see: https://pgl\.yoyo\.org/adservers/$
 # ----$
-# last updated:   Sun, 08 Apr 2018 21:14:29 GMT$
-# entries:        2663$
+# last updated:   Fri, 13 Apr 2018 07:47:55 GMT$
+# entries:        2658$
 # format:         hosts (hosts -- in hosts file format)$
 # credits:        Peter Lowe - pgl@yoyo\.org - https://pgl\.yoyo\.org/ - https://twitter\.com/pgl$
 # this URL:       https://pgl\.yoyo\.org/adservers/serverlist\.php?hostformat=hosts&mimetype=plaintext&useip=0\.0\.0\.0$
 # other formats:  https://pgl\.yoyo\.org/adservers/formats\.php$
 # policy:         https://pgl\.yoyo\.org/adservers/policy\.php$
 #$
-# start date:    Fri, 17 Apr 1998 00:00:00$
+# start date:    Wed, 22 Apr 1998 00:00:00$
 (^|\.)101com\.com$
 (^|\.)101order\.com$
 (^|\.)123found\.com$
@@ -28891,6 +28802,7 @@
 (^|\.)freepay\.com$
 (^|\.)freeskreen\.com$
 (^|\.)freestats\.tv$
+(^|\.)frtyj\.com$
 (^|\.)fullstory\.com$
 (^|\.)functionalclam\.com$
 (^|\.)funklicks\.com$
@@ -28948,7 +28860,6 @@
 (^|\.)hit\.bg$
 (^|\.)hit\.ua$
 (^|\.)hit\.webcentre\.lycos\.co\.uk$
-(^|\.)hitcents\.com$
 (^|\.)hitfarm\.com$
 (^|\.)hitiz\.com$
 (^|\.)hitlist\.ru$
@@ -29031,7 +28942,6 @@
 (^|\.)itsptp\.com$
 (^|\.)ivwbox\.de$
 (^|\.)ivykiosk\.com$
-(^|\.)janrain\.com$
 (^|\.)jcount\.com$
 (^|\.)jinkads\.de$
 (^|\.)joetec\.net$
@@ -29376,7 +29286,6 @@
 (^|\.)radiate\.com$
 (^|\.)rampidads\.com$
 (^|\.)rank-master\.com$
-(^|\.)rank-master\.de$
 (^|\.)rankchamp\.de$
 (^|\.)ranking-charts\.de$
 (^|\.)ranking-id\.de$
@@ -29434,7 +29343,6 @@
 (^|\.)rose\.ixbt\.com$
 (^|\.)rotabanner\.com$
 (^|\.)roxr\.net$
-(^|\.)rpxnow\.com$
 (^|\.)rtbpop\.com$
 (^|\.)rtbpopd\.com$
 (^|\.)rtmark\.net$
@@ -29824,7 +29732,6 @@
 (^|\.)zenzuu\.com$
 (^|\.)zeus\.developershed\.com$
 (^|\.)zeusclicks\.com$
-(^|\.)zintext\.com$
 (^|\.)zmedia\.com$
 (^|\.)zqtk\.net$
 # This hosts file is brought to you by Mitchell Krog$
@@ -29850,7 +29757,7 @@
 # https://github\.com/mitchellkrogza/apache-ultimate-bad-bot-blocker$
 ##### Version Information #$
 ###################################################$
-### Version: V1\.2018\.04\.5590$
+### Version: V1\.2018\.04\.6036$
 ##### Version Information ##$
 # Use this file to prevent your computer or server from connecting to selected$
 # internet hosts\. This is an easy and effective way to protect you from $
@@ -29925,7 +29832,6 @@
 (^|\.)100filles\.free\.fr$
 (^|\.)100pornstars\.com$
 (^|\.)100shemales\.com$
-(^|\.)100s\.pl$
 (^|\.)101billion\.com$
 (^|\.)101cities\.se$
 (^|\.)101flag\.ru$
@@ -29952,7 +29858,6 @@
 (^|\.)123cha\.com$
 (^|\.)123ero\.nl$
 (^|\.)123kia\.free\.fr$
-(^|\.)123kontaktanzeigen\.de$
 (^|\.)123kuma\.com$
 (^|\.)123laceypink\.com$
 (^|\.)123latina\.free\.fr$
@@ -30762,7 +30667,6 @@
 (^|\.)adzerg\.com$
 (^|\.)adzpower\.com$
 (^|\.)aeazz\.super-promo\.quhu\.info$
-(^|\.)aed4uozi\.com$
 (^|\.)aedme\.org\.mx$
 (^|\.)aedoctor\.com$
 (^|\.)aeghae5y\.com$
@@ -30837,7 +30741,6 @@
 (^|\.)agrupacionestrella\.net$
 (^|\.)agsdigital\.com\.br$
 (^|\.)agsrc\.com$
-(^|\.)aguai\.com\.ar$
 (^|\.)aguileraconnection\.com$
 (^|\.)agysya\.ru$
 (^|\.)ahaforex\.cz\.cc$
@@ -30864,7 +30767,6 @@
 (^|\.)aimayangzhi\.com$
 (^|\.)aimonking\.com$
 (^|\.)aioria\.info$
-(^|\.)airbnb\.com-rooms-apartment-3078097-location-madrid\.digitalocean\.pw$
 (^|\.)airbnb\.tools$
 (^|\.)air-edem\.ru$
 (^|\.)airfhtyo\.bid$
@@ -31291,7 +31193,6 @@
 (^|\.)analwhore\.schoolreference\.com$
 (^|\.)a\.namitol\.com$
 (^|\.)ananashotel\.com$
-(^|\.)anapa-inns\.ru$
 (^|\.)anatomytrains\.co\.uk$
 (^|\.)anbstudios\.com$
 (^|\.)anchorpoint\.co\.za$
@@ -32044,7 +31945,6 @@
 (^|\.)babblecore\.com$
 (^|\.)babeangel\.com$
 (^|\.)b-a-b-e\.com$
-(^|\.)babedatabase\.com$
 (^|\.)babeking\.be$
 (^|\.)babelinks\.org$
 (^|\.)babesadult\.nu$
@@ -32907,7 +32807,6 @@
 (^|\.)bondage-here\.com$
 (^|\.)bondagemart\.com$
 (^|\.)bondagepics\.nu$
-(^|\.)bondageporn\.100toppages\.com$
 (^|\.)bondage-porn\.net$
 (^|\.)bondageporn\.nu$
 (^|\.)bondage-teens\.com$
@@ -32936,7 +32835,6 @@
 (^|\.)boobshack\.com$
 (^|\.)boobsimge\.com$
 (^|\.)boob-squad\.inhit\.com$
-(^|\.)booby-fever\.blogomer\.com$
 (^|\.)boobz\.tv$
 (^|\.)boogie-blog\.com$
 (^|\.)book31\.free\.fr$
@@ -33297,7 +33195,6 @@
 (^|\.)calculate\.de$
 (^|\.)calendale\.free\.fr$
 (^|\.)calendar\.bingodata\.com$
-(^|\.)californiaautoinsurancehq\.org$
 (^|\.)californiacs\.com$
 (^|\.)californianews\.cf$
 (^|\.)californiaproxy\.info$
@@ -33402,7 +33299,6 @@
 (^|\.)canrole\.com$
 (^|\.)canvashub\.com$
 (^|\.)canword\.com$
-(^|\.)canyonranchdestination\.com$
 (^|\.)canzoni\.ru$
 (^|\.)capacitacionyaprendizaje\.com$
 (^|\.)capacitarse\.info$
@@ -34004,7 +33900,6 @@
 (^|\.)clubfeed\.org$
 (^|\.)clubfemmesmatures\.com$
 (^|\.)clubgirl\.nl$
-(^|\.)clubgourmet\.com\.py$
 (^|\.)club-internet\.de$
 (^|\.)clubjerk\.com$
 (^|\.)clublingvo\.ru$
@@ -34020,7 +33915,6 @@
 (^|\.)cmdvoice\.com$
 (^|\.)cmhomestayagency\.com$
 (^|\.)c\.mrdarkddos\.com$
-(^|\.)cmrpunto\.raya\.cl$
 (^|\.)cnbc7\.com$
 (^|\.)cncreativemarketing\.com$
 (^|\.)cned\.de$
@@ -34362,7 +34256,6 @@
 (^|\.)creatives\.adbetclickin\.pink$
 (^|\.)creativeteam\.it$
 (^|\.)creatnewsummerinfo\.com$
-(^|\.)crediblesourcing\.co\.uk$
 (^|\.)credidcarma\.com$
 (^|\.)credistacks\.com$
 (^|\.)credit-agricole\.fr\.particulier\.raphaperu\.com$
@@ -34370,7 +34263,6 @@
 (^|\.)creditmoney\.com\.ua$
 (^|\.)creditnation\.ru$
 (^|\.)credit-respect\.ru$
-(^|\.)credits-moins-cher\.info$
 (^|\.)creditwell\.ru$
 (^|\.)cremation\.de$
 (^|\.)cresgnockng\.com$
@@ -34885,7 +34777,6 @@
 (^|\.)dieselvehicles\.com$
 (^|\.)dieswaene\.com$
 (^|\.)dieta\.100plus\.cz$
-(^|\.)dieta-personalna\.pl$
 (^|\.)diethealthresource4u\.com$
 (^|\.)dietpersonalized\.com$
 (^|\.)diewaescherei\.de$
@@ -35348,7 +35239,6 @@
 (^|\.)dubai\.best-top\.biz$
 (^|\.)dubaidesertrose\.com$
 (^|\.)dubaisecurity\.com$
-(^|\.)dubai-vakanties\.com$
 (^|\.)dubbelpijpen\.nl$
 (^|\.)dubsundays\.com$
 (^|\.)dubump\.com$
@@ -35720,7 +35610,6 @@
 (^|\.)emailexpress\.in$
 (^|\.)emailing-maroc\.com$
 (^|\.)emailprocessingincome\.info$
-(^|\.)emailsrv6\.gdn$
 (^|\.)emarket4you\.com$
 (^|\.)ematters\.biz$
 (^|\.)embassy\.cn$
@@ -35816,7 +35705,6 @@
 (^|\.)entretiencapital\.com$
 (^|\.)envaseslotusama\.com$
 (^|\.)enva-systems\.de$
-(^|\.)envelbank\.pl$
 (^|\.)en-verify\.com$
 (^|\.)en-videos\.com$
 (^|\.)enviousminds\.co\.za$
@@ -36391,7 +36279,6 @@
 (^|\.)fagtech\.com$
 (^|\.)fahrschule-viersen\.de$
 (^|\.)fahvoxmhh\.top$
-(^|\.)fairjets\.de$
 (^|\.)fairlight\.dk$
 (^|\.)fairway-ford\.com$
 (^|\.)faisaliya\.com$
@@ -36650,7 +36537,6 @@
 (^|\.)fetishmontreal\.com$
 (^|\.)fetishonlinestore\.com$
 (^|\.)fetishotel\.com$
-(^|\.)fetish\.petitecoquine\.com$
 (^|\.)fetish-pics\.nu$
 (^|\.)fetish-place\.net$
 (^|\.)fetish-s\.com$
@@ -37031,7 +36917,6 @@
 (^|\.)forum\.briko\.pl$
 (^|\.)forum\.camcorderinfo\.com$
 (^|\.)forum\.cefey\.ru$
-(^|\.)forum\.classicality\.pl$
 (^|\.)forum\.dairyfreeuk\.com$
 (^|\.)forum\.dejm\.pl$
 (^|\.)forumdelivros\.com$
@@ -37974,7 +37859,6 @@
 (^|\.)gemara\.com$
 (^|\.)gembird\.com$
 (^|\.)geminiindia\.com$
-(^|\.)gemshairandbeauty\.com$
 (^|\.)gencleryt\.com$
 (^|\.)gencseks\.com$
 (^|\.)geneibra\.com$
@@ -38326,7 +38210,6 @@
 (^|\.)googlemare\.com$
 (^|\.)googleplaycards\.dlcodes\.com$
 (^|\.)google\.plle\.pl$
-(^|\.)googlepl\.pl$
 (^|\.)googlepositions\.com$
 (^|\.)google-space\.com$
 (^|\.)google-trade\.com$
@@ -38396,7 +38279,6 @@
 (^|\.)gratisblanketter\.se$
 (^|\.)gratiscamsex\.dk$
 (^|\.)gratiscontacten\.nl$
-(^|\.)gratis-erfahrene-frauen\.rulen\.de$
 (^|\.)gratisgeilesexfilms\.com$
 (^|\.)gratisgeil\.nl$
 (^|\.)gratis-livechat\.com$
@@ -38995,7 +38877,6 @@
 (^|\.)hidemybrowsing\.com$
 (^|\.)hidemytraffic\.com$
 (^|\.)hideproxy\.eu$
-(^|\.)hider\.club$
 (^|\.)hiderefer\.net$
 (^|\.)hiderm\.net$
 (^|\.)hideschool\.com$
@@ -39123,7 +39004,6 @@
 (^|\.)holspi\.com$
 (^|\.)holyeros\.com$
 (^|\.)homcityicesettlement\.com$
-(^|\.)home56\.ru$
 (^|\.)homeandhealth\.ru$
 (^|\.)homebath\.ru$
 (^|\.)homecams\.co\.uk$
@@ -39133,7 +39013,6 @@
 (^|\.)homegrownpornmovies\.com$
 (^|\.)homeinns\.com$
 (^|\.)home\.kobatochan\.co$
-(^|\.)homemade\.gq$
 (^|\.)homemature\.net$
 (^|\.)home\.mobile\.nebraska\.sale\.sms13\.de$
 (^|\.)homempegs\.com$
@@ -39865,7 +39744,6 @@
 (^|\.)innmg\.com$
 (^|\.)innocnthigh\.com$
 (^|\.)innodgfdriverhm\.aircus\.com$
-(^|\.)innovative3d\.co\.za$
 (^|\.)innovativedigitalmedia\.com$
 (^|\.)innylon\.com$
 (^|\.)inome\.com\.ua$
@@ -40089,7 +39967,6 @@
 (^|\.)it-helpdeskadmin\.000webhostapp\.com$
 (^|\.)itibook\.com$
 (^|\.)itindustry\.net$
-(^|\.)itis4you\.com$
 (^|\.)itj\.cz$
 (^|\.)itm2012\.com$
 (^|\.)itm4u\.com$
@@ -40424,7 +40301,6 @@
 (^|\.)jomjb\.com$
 (^|\.)jonasmc\.se$
 (^|\.)jonathanfield0\.com$
-(^|\.)jonathonsplumbing\.com$
 (^|\.)jondi\.ru$
 (^|\.)jonubickpsyd\.com$
 (^|\.)joodie\.free\.fr$
@@ -40882,7 +40758,6 @@
 (^|\.)knigonosha\.net$
 (^|\.)knockeduphotties\.com$
 (^|\.)knogg\.net$
-(^|\.)knol\.pw$
 (^|\.)knowyournextmove\.com$
 (^|\.)knq\.biz$
 (^|\.)knubbig\.se$
@@ -40956,7 +40831,6 @@
 (^|\.)krynica\.info$
 (^|\.)ks1234\.com$
 (^|\.)ks1-nl\.travian\.com$
-(^|\.)ks2-cz\.travian\.com$
 (^|\.)ks2-de\.travian\.com$
 (^|\.)ks2-ru\.travian\.com$
 (^|\.)ks4-com\.travian\.com$
@@ -40989,7 +40863,6 @@
 (^|\.)kuqylnamtv\.bid$
 (^|\.)kurdart\.com$
 (^|\.)kurdish-homes\.com$
-(^|\.)kursusfotografi\.info$
 (^|\.)kursy-ege\.ru$
 (^|\.)kurwa\.org$
 (^|\.)kurwa\.win$
@@ -41103,7 +40976,6 @@
 (^|\.)lagranorgia\.com\.ar$
 (^|\.)lagubox\.net$
 (^|\.)lailasaroma\.se$
-(^|\.)lajaniquerafm\.com$
 (^|\.)la-jeune-fille\.com$
 (^|\.)lakeecogroup\.com$
 (^|\.)lakemedelsvarket\.se$
@@ -41563,7 +41435,6 @@
 (^|\.)livecams\.cu\.com$
 (^|\.)livecams\.dreamnet\.com$
 (^|\.)live-cam-sex\.de$
-(^|\.)livecams\.rulen\.de$
 (^|\.)livecamstreams\.com$
 (^|\.)livecam-telefonsex\.de\.lv$
 (^|\.)live\.chartboost\.com$
@@ -41735,7 +41606,6 @@
 (^|\.)longkhanh\.net$
 (^|\.)longpussy\.com$
 (^|\.)lonsit\.com$
-(^|\.)look\.60lm\.com$
 (^|\.)looker9\.ru$
 (^|\.)lookfirst\.info$
 (^|\.)looking4stars1\.free\.fr$
@@ -41758,7 +41628,6 @@
 (^|\.)lostallone\.it$
 (^|\.)lost-alpha\.ru$
 (^|\.)lostfilm-online\.ru$
-(^|\.)lostiphonefinder-lcloud\.review$
 (^|\.)lotomoney\.biz$
 (^|\.)lotot\.pl$
 (^|\.)lotsofteens\.com$
@@ -41850,7 +41719,6 @@
 (^|\.)lunettenoire\.com$
 (^|\.)lusciousbutts\.com$
 (^|\.)lusha\.co\.uk$
-(^|\.)lushkitchengarden\.com\.au$
 (^|\.)lussuria\.biz$
 (^|\.)lustcastle\.com$
 (^|\.)lusted\.biz$
@@ -41912,7 +41780,6 @@
 (^|\.)mac-shield\.com$
 (^|\.)mactechinfo\.info$
 (^|\.)madamtv\.com$
-(^|\.)madan-mohan-college\.com$
 (^|\.)mad-dog\.nu$
 (^|\.)madeline-sex\.com$
 (^|\.)madeua\.info$
@@ -42243,7 +42110,6 @@
 (^|\.)mebelcomplekt\.ru$
 (^|\.)mebeldekor\.com\.ua$
 (^|\.)mebel-vstroika\.ru$
-(^|\.)meble-bogart\.info$
 (^|\.)mebserier\.se$
 (^|\.)mecash\.ru$
 (^|\.)mechanicfuckers\.com$
@@ -42792,7 +42658,6 @@
 (^|\.)mp3films\.ru$
 (^|\.)mp3-it\.com$
 (^|\.)mp3\.ownsthis\.com$
-(^|\.)mp3ringtone\.info$
 (^|\.)mp3won\.com$
 (^|\.)mp3x\.biz$
 (^|\.)mpegs\.allmanpages\.com$
@@ -42808,7 +42673,6 @@
 (^|\.)mrcsa\.com\.au$
 (^|\.)mrdani-dvere-zadni-porno-fotky-video\.superczech\.com$
 (^|\.)mrinsidesales\.com$
-(^|\.)mriyadh\.com$
 (^|\.)mrknowsit\.com$
 (^|\.)mrlmedia\.net$
 (^|\.)mrpornoxxx\.com$
@@ -42827,7 +42691,6 @@
 (^|\.)msw-technologies\.de$
 (^|\.)mt2-fire\.com$
 (^|\.)mtpleasantwaterworks\.com$
-(^|\.)mtquiz\.blufysh\.com$
 (^|\.)mtsoft\.net$
 (^|\.)mturkcontent\.com$
 (^|\.)mtv2\.telemedia\.la$
@@ -43056,7 +42919,6 @@
 (^|\.)nacap\.ru$
 (^|\.)nac-bearings\.ru$
 (^|\.)nachbarschaftspost\.com$
-(^|\.)nacktefrau\.eu$
 (^|\.)nackte-oma-bilder\.de\.lv$
 (^|\.)nackte-oma\.de\.lv$
 (^|\.)nackte-teens\.de\.lv$
@@ -43145,7 +43007,6 @@
 (^|\.)nastyporno\.net$
 (^|\.)nastysexgalleries\.com$
 (^|\.)nastytraffic\.com$
-(^|\.)naszemisto\.pl$
 (^|\.)natachax\.com$
 (^|\.)nataliegold\.com$
 (^|\.)natashaporn\.com$
@@ -43603,7 +43464,6 @@
 (^|\.)nyhomebuyersonline\.com$
 (^|\.)nylon-legs\.biz$
 (^|\.)nylon-lover\.de$
-(^|\.)nylonsex\.xt5\.de$
 (^|\.)nylon-stockings\.biz$
 (^|\.)nylonweb\.de$
 (^|\.)nymphetsland\.info$
@@ -43669,7 +43529,6 @@
 (^|\.)oecnhs\.info$
 (^|\.)oedet\.com$
 (^|\.)oeinerge\.pt$
-(^|\.)oesterreich-schweiz\.de$
 (^|\.)ofc\.com\.pe$
 (^|\.)of-course-secondhand\.de$
 (^|\.)ofertadomes\.com$
@@ -43786,7 +43645,6 @@
 (^|\.)onceambientstore\.com$
 (^|\.)onceuponatimebr\.net$
 (^|\.)onclickpredictiv\.com$
-(^|\.)onclkads\.com$
 (^|\.)onderpalet\.com$
 (^|\.)one-and-lonely\.com$
 (^|\.)onebiz\.cl$
@@ -44388,7 +44246,6 @@
 (^|\.)perpharm\.com$
 (^|\.)persephone\.bubblestat\.com$
 (^|\.)persianstat\.ir$
-(^|\.)personal-contact\.punter\.de$
 (^|\.)personalloanexplorer\.com$
 (^|\.)personalsareus\.com$
 (^|\.)personals-directory\.com$
@@ -44648,7 +44505,6 @@
 (^|\.)piper-fox\.com$
 (^|\.)pipki\.r\.acdnpro\.com$
 (^|\.)piraraku\.com$
-(^|\.)piratebayproxy\.eu$
 (^|\.)piratebays\.eu$
 (^|\.)piratecams\.com$
 (^|\.)pirateday\.ru$
@@ -44741,7 +44597,6 @@
 (^|\.)planet\.erotieklinks\.nl$
 (^|\.)planetother\.com$
 (^|\.)planetscum\.com$
-(^|\.)planet-sex\.de$
 (^|\.)planetsex\.hdfree\.in$
 (^|\.)planetsex\.pl$
 (^|\.)planetspunk\.com$
@@ -45192,7 +45047,6 @@
 (^|\.)pornohd1080\.online$
 (^|\.)pornohoes\.com$
 (^|\.)pornohookup\.com$
-(^|\.)pornohosting\.cz$
 (^|\.)porno-hot\.gxgm\.com$
 (^|\.)pornohot\.nu$
 (^|\.)porno-hq\.com$
@@ -45302,7 +45156,6 @@
 (^|\.)pornorost\.com$
 (^|\.)pornoroxx\.com$
 (^|\.)pornorss\.com$
-(^|\.)porno\.rulen\.de$
 (^|\.)pornorules\.info$
 (^|\.)pornorus\.net$
 (^|\.)pornorussia\.net$
@@ -45343,7 +45196,6 @@
 (^|\.)pornosor\.com$
 (^|\.)pornospele\.nl$
 (^|\.)pornosta\.com$
-(^|\.)porno-star\.de$
 (^|\.)porno-star-dvd\.com$
 (^|\.)pornostars\.biz$
 (^|\.)porno-stars\.de\.lv$
@@ -45580,7 +45432,6 @@
 (^|\.)praximoto\.se$
 (^|\.)premiumprovide\.com$
 (^|\.)preparevideosafesystem4unow\.space$
-(^|\.)preparufinotamayo\.com$
 (^|\.)prepschoolsluts\.com$
 (^|\.)preschooltc\.com$
 (^|\.)presentedopapaiamericanas\.com$
@@ -45680,7 +45531,6 @@
 (^|\.)prohibidoentrar\.com$
 (^|\.)prohoster\.info$
 (^|\.)prohouselkv\.com$
-(^|\.)prointer\.net\.ua$
 (^|\.)projectforte\.ru$
 (^|\.)projectmanagementmethodologies\.com\.au$
 (^|\.)projectnet\.sineti\.com$
@@ -45780,7 +45630,6 @@
 (^|\.)proxy\.rkania\.com$
 (^|\.)proxy\.seecosmetics\.com$
 (^|\.)proxy-servers\.biz$
-(^|\.)proxy-servers\.eu$
 (^|\.)proxysites\.im$
 (^|\.)proxy-sites\.info$
 (^|\.)proxysites\.tn$
@@ -47398,7 +47247,6 @@
 (^|\.)sexogratis\.nu$
 (^|\.)sexogratistgp\.com$
 (^|\.)sexointimo\.com$
-(^|\.)sexok\.pl$
 (^|\.)sexolandia\.com\.br$
 (^|\.)sexoloko\.com$
 (^|\.)sexoma\.info$
@@ -48154,7 +48002,6 @@
 (^|\.)smkn2ponorogo\.sch\.id$
 (^|\.)smokersblogs\.com$
 (^|\.)smokesonstate\.com$
-(^|\.)smokewithrabbits\.com$
 (^|\.)smokingfetish\.aq\.pl$
 (^|\.)smoking-fetish\.gocunt\.com$
 (^|\.)sms2x2\.ru$
@@ -48859,7 +48706,6 @@
 (^|\.)tabfor\.com$
 (^|\.)tableporn\.us$
 (^|\.)tabletkinaodchudzanie\.com\.pl$
-(^|\.)tacbelarus\.ru$
 (^|\.)tafbar\.com$
 (^|\.)tafika\.ru$
 (^|\.)tagil\.zrus\.org$
@@ -48905,7 +48751,6 @@
 (^|\.)tanzbar-beach\.de$
 (^|\.)tape\.at$
 (^|\.)tapelock\.com$
-(^|\.)tapety\.zw\.pl$
 (^|\.)taqplayer\.info$
 (^|\.)taqywu51\.soup\.io$
 (^|\.)tarad\.com$
@@ -49106,7 +48951,6 @@
 (^|\.)tempviolation\.cf$
 (^|\.)temscox\.com$
 (^|\.)tenant\.ca$
-(^|\.)tendanse\.nl$
 (^|\.)tenel\.com$
 (^|\.)tenewagency\.se$
 (^|\.)tennis-open\.net$
@@ -49266,7 +49110,6 @@
 (^|\.)thepiratepartybay\.com$
 (^|\.)thepirateproxy\.biz$
 (^|\.)thepirateproxy\.xyz$
-(^|\.)theplumberschoice\.store$
 (^|\.)thepokertimer\.com$
 (^|\.)the-porn-blog\.com$
 (^|\.)theporncage\.com$
@@ -49719,7 +49562,6 @@
 (^|\.)truefilen32\.com$
 (^|\.)truefiles\.net$
 (^|\.)truelolita\.com$
-(^|\.)truemfilelj\.gq$
 (^|\.)truepasswords\.com$
 (^|\.)trueporncartoons\.com$
 (^|\.)true-porno\.com$
@@ -50184,7 +50026,6 @@
 (^|\.)vavilone\.com$
 (^|\.)vazounaweb\.com\.br$
 (^|\.)vbabule\.net$
-(^|\.)vb\.serverknecht\.de$
 (^|\.)vcaf\.com$
 (^|\.)vcdporn\.com$
 (^|\.)vcgent\.com$
@@ -51346,7 +51187,6 @@
 (^|\.)xn--telusmobilit-meb\.com$
 (^|\.)xn--tierheim-lbeck-psb\.de$
 (^|\.)xn--tnsbergkommune-qqb\.no$
-(^|\.)xn--u8jtdyb1ew67y\.com$
 (^|\.)xnudeteens\.com$
 (^|\.)xn--verschlsselt-jlb\.com$
 (^|\.)xn--vns90erw5e\.com$
@@ -52005,7 +51845,7 @@
 # Description: This list disables browser based miners such as coin-hive$
 # Donate: If you like the CoinBlockerLists please support me, https://vk\.cc/7TL5H2 Every donation helps me to continue the work on the CoinBlockerLists\.$
 # Homepage: https://github\.com/ZeroDot1/CoinBlockerLists$
-# Last modified: 12 04 2018 00:01$
+# Last modified: 16 04 2018 13:21$
 # [CoinBlocker hosts List browser by ZeroDot1]$
 (^|\.)0aqpqdju\.me$
 (^|\.)0x1f4b0\.com$
@@ -52015,7 +51855,7 @@
 (^|\.)1q2w3\.me$
 (^|\.)1q2w3\.top$
 (^|\.)1q2w3\.website$
-(^|\.)2giga\.dowload$
+(^|\.)2giga\.download$
 (^|\.)2giga\.link$
 (^|\.)2ledhenone\.com$
 (^|\.)300ca0d0\.space$
@@ -52127,12 +51967,15 @@
 (^|\.)appelamule\.com$
 (^|\.)april-js\.github\.io$
 (^|\.)aqqgli3vle\.bid$
+(^|\.)arizona-miner\.tk$
 (^|\.)as\.cfcdist\.loan$
 (^|\.)as\.cfcnet\.top$
 (^|\.)as1\.cfcnet\.gdn$
 (^|\.)aservices\.party$
 (^|\.)asia\.monerise\.com$
 (^|\.)asia1\.cpufan\.club$
+(^|\.)aster18cdn\.nl$
+(^|\.)aster18prx\.nl$
 (^|\.)asvoxod\.ru$
 (^|\.)atlanta01\.monero\.hashvault\.pro$
 (^|\.)audioknigi\.club$
@@ -52150,6 +51993,7 @@
 (^|\.)bablace\.com$
 (^|\.)back4\.2giga\.link$
 (^|\.)banner\.boostbox\.com\.br$
+(^|\.)basepush\.com$
 (^|\.)bauersagtnein\.myeffect\.net$
 (^|\.)bcn\.cpufan\.club$
 (^|\.)becanium\.com$
@@ -52259,6 +52103,7 @@
 (^|\.)coinpirate\.cf$
 (^|\.)coinpot\.co$
 (^|\.)coinrail\.io$
+(^|\.)coinwebmining\.com$
 (^|\.)coinworker\.com$
 (^|\.)colnhive\.com$
 (^|\.)community\.monerise\.com$
@@ -52357,7 +52202,6 @@
 (^|\.)enjoyableoffers\.club$
 (^|\.)es\.cookiescript\.info$
 (^|\.)escobar\.pr0gramm\.com$
-(^|\.)estream\.to$
 (^|\.)et-code\.ru$
 (^|\.)etacontent\.com$
 (^|\.)eth-pocket\.de$
@@ -52391,6 +52235,7 @@
 (^|\.)financeforum\.ru$
 (^|\.)firmware\.center$
 (^|\.)flare-analytics\.com$
+(^|\.)flnqmin\.org$
 (^|\.)flophous\.cf$
 (^|\.)formulawire\.com$
 (^|\.)fortrader\.ru$
@@ -52417,6 +52262,7 @@
 (^|\.)g-content\.bid$
 (^|\.)gasolina\.ml$
 (^|\.)gate\.hws\.ru$
+(^|\.)gekko\.coinnebula\.com$
 (^|\.)get\.webxmr\.com$
 (^|\.)getcryptotab\.com$
 (^|\.)global\.crypto\.csgocpu\.com$
@@ -52448,6 +52294,7 @@
 (^|\.)hegrinhar\.com$
 (^|\.)hemnes\.win$
 (^|\.)hhb123\.tk$
+(^|\.)hide\.ovh$
 (^|\.)hive\.tubetitties\.com$
 (^|\.)hiy\.vidzi\.tv$
 (^|\.)hjnbvg\.ru$
@@ -52496,7 +52343,6 @@
 (^|\.)karbowanec\.crypto-webminer\.com$
 (^|\.)kedtise\.com$
 (^|\.)kho3au7l4z\.me$
-(^|\.)kickass\.cd$
 (^|\.)kinohabr\.net$
 (^|\.)kippbeak\.cf$
 (^|\.)kissdoujin\.com$
@@ -52507,6 +52353,7 @@
 (^|\.)kunay\.nullrefexcep\.com$
 (^|\.)l-shop\.nullrefexcep\.com$
 (^|\.)l33tsite\.info$
+(^|\.)laferia\.cr$
 (^|\.)lan\.datasecu\.download$
 (^|\.)laserveradedomaina\.com$
 (^|\.)latestpromotions\.club$
@@ -52532,13 +52379,16 @@
 (^|\.)m\.pr0gramm\.com$
 (^|\.)m001\.monerise\.com$
 (^|\.)m1\.monerise\.com$
+(^|\.)m1\.stream\.vidzi\.tv$
 (^|\.)m1\.streaming\.estream\.to$
 (^|\.)m1\.videos\.vidto\.me$
 (^|\.)m2\.cdn-jquery\.host$
+(^|\.)m2\.stream\.vidzi\.tv$
 (^|\.)m2\.streaming\.estream\.to$
 (^|\.)m2\.videos\.vidto\.me$
 (^|\.)m3\.cdn-jquery\.host$
 (^|\.)m4\.cdn-jquery\.host$
+(^|\.)m5\.cdn-jquery\.host$
 (^|\.)machieved\.com$
 (^|\.)mail\.coinhive-manager\.com$
 (^|\.)mail\.cookiescript\.info$
@@ -52587,6 +52437,7 @@
 (^|\.)miscws027\.coinhive\.com$
 (^|\.)miscws029\.coinhive\.com$
 (^|\.)mjija\.github\.io$
+(^|\.)mmc\.center$
 (^|\.)mmpool\.org$
 (^|\.)momwentthere\.cf$
 (^|\.)monad\.network$
@@ -52634,6 +52485,9 @@
 (^|\.)nexttime\.ovh$
 (^|\.)nfwebminer\.com$
 (^|\.)niematego\.tk$
+(^|\.)nimiq\.watch$
+(^|\.)nimiqpool\.com$
+(^|\.)nimiqtest\.net$
 (^|\.)ningtoldrop\.ru$
 (^|\.)nitsche\.top$
 (^|\.)nkxdyorwbt\.com$
@@ -52659,18 +52513,16 @@
 (^|\.)ocean\.cryptaloot\.pro$
 (^|\.)ocean\.cryptoloot\.pro$
 (^|\.)ocean\.webmine\.pro$
+(^|\.)ogondkskyahxa\.ru$
 (^|\.)ogrid\.org$
 (^|\.)ohac\.github\.io$
 (^|\.)oinkinns\.tk$
 (^|\.)okexysylgzo\.ru$
 (^|\.)okeyletsgo\.ml$
-(^|\.)oload\.info$
-(^|\.)onion\.top$
 (^|\.)onlinereserchstatistics\.online$
 (^|\.)open-hive-server-1\.pp\.ua$
 (^|\.)openkatalog\.com$
 (^|\.)oxwwoeukjispema\.ru$
-(^|\.)p\.estream\.to$
 (^|\.)p\.hemnes\.win$
 (^|\.)p\.tidafors\.xyz$
 (^|\.)p1\.assetscdn\.stream$
@@ -52697,6 +52549,9 @@
 (^|\.)phx-3\.xmrpool\.net$
 (^|\.)phx-4\.xmrpool\.net$
 (^|\.)platform\.jsecoin\.com$
+(^|\.)play\.stream\.vidzi\.tv$
+(^|\.)play\.streaming\.estream\.to$
+(^|\.)play\.video\.estream\.nu$
 (^|\.)player\.h-cdn\.com$
 (^|\.)playerassets\.info$
 (^|\.)plexcoin\.info$
@@ -52740,7 +52595,7 @@
 (^|\.)questionfly\.com$
 (^|\.)r8nu86wg\.me$
 (^|\.)rack\.cryptaloot\.pro$
-(^|\.)rapidvideo\.com$
+(^|\.)rand\.com\.ru$
 (^|\.)ratingtoplist\.com$
 (^|\.)realnetwrk\.com$
 (^|\.)reasedoper\.pw$
@@ -52754,6 +52609,7 @@
 (^|\.)rineventrec\.com$
 (^|\.)rintindown\.com$
 (^|\.)rintinwa\.com$
+(^|\.)rmawm7mw\.top$
 (^|\.)rock\.cryptaloot\.pro$
 (^|\.)rock\.webmine\.pro$
 (^|\.)ron\.si$
@@ -52769,12 +52625,15 @@
 (^|\.)s1\.vidtod\.me$
 (^|\.)s2\.analytics\.blue$
 (^|\.)s2\.appelamule\.com$
+(^|\.)s2\.video\.estream\.nu$
 (^|\.)s2\.vidtod\.me$
 (^|\.)s23\.crypto-loot\.com$
 (^|\.)s3\.analytics\.blue$
 (^|\.)s3\.gasolina\.ml$
 (^|\.)s3\.minexmr\.com$
+(^|\.)s3\.video\.estream\.nu$
 (^|\.)s3\.vidtod\.me$
+(^|\.)s7ven\.com$
 (^|\.)sa\.monerise\.com$
 (^|\.)saas\.webmine\.pro$
 (^|\.)safelinkconverter\.com$
@@ -52789,6 +52648,10 @@
 (^|\.)seasonaloffers\.club$
 (^|\.)seattle01\.monero\.hashvault\.pro$
 (^|\.)secumine\.net$
+(^|\.)seed1\.nimiqtest\.net$
+(^|\.)seed2\.nimiqtest\.net$
+(^|\.)seed3\.nimiqtest\.net$
+(^|\.)seed4\.nimiqtest\.net$
 (^|\.)sen-to-zdrowie\.ml$
 (^|\.)sentry\.nullrefexcep\.com$
 (^|\.)serie-vostfr\.com$
@@ -52796,6 +52659,7 @@
 (^|\.)server\.jsecoin\.com$
 (^|\.)server4\.nullrefexcep\.com$
 (^|\.)shrink-service\.it$
+(^|\.)sickrage\.ca$
 (^|\.)silimbompom\.com$
 (^|\.)silver\.crypto\.csgocpu\.com$
 (^|\.)simpleco\.in$
@@ -52840,7 +52704,6 @@
 (^|\.)stone\.webmine\.pro$
 (^|\.)stonecalcom\.com$
 (^|\.)stream\.nullrefexcep\.com$
-(^|\.)streamplay\.top$
 (^|\.)subloader\.cf$
 (^|\.)sumo\.cpufan\.club$
 (^|\.)sumo\.cryptonoter\.com$
@@ -52919,15 +52782,16 @@
 (^|\.)verresof\.com$
 (^|\.)vg02h8z1ul\.me$
 (^|\.)viaxmr\.com$
+(^|\.)video\.stream\.vidzi\.tv$
 (^|\.)video\.streaming\.estream\.to$
 (^|\.)video\.videos\.vidto\.me$
-(^|\.)vidfile\.net$
 (^|\.)vip\.cfcnet\.top$
 (^|\.)vjcyehtqm9\.me$
 (^|\.)vl8c4g7tmo\.me$
 (^|\.)vpzccwpyilvoyg\.ru$
 (^|\.)vxelkrhl\.info$
 (^|\.)vzhjnorkudcxbiy\.com$
+(^|\.)vzzexalcirfgrf\.ru$
 (^|\.)w13\.coinhive\.com$
 (^|\.)wallet\.brominer\.com$
 (^|\.)wc3-soft\.sbhmn-miner\.com$
@@ -53061,6 +52925,7 @@
 (^|\.)ws009\.ws\.tidafors\.xyz$
 (^|\.)ws009\.www\.datasecu\.download$
 (^|\.)ws009\.www\.jqwww\.download$
+(^|\.)ws01\.coinlab\.biz$
 (^|\.)ws01\.coinnebula\.com$
 (^|\.)ws01\.crypto-loot\.com$
 (^|\.)ws01\.ppoi\.org$
@@ -53271,6 +53136,7 @@
 (^|\.)ws2\.bmst\.pw$
 (^|\.)ws2\.coin-have\.com$
 (^|\.)ws2\.g-content\.bid$
+(^|\.)ws2\.minr\.pw$
 (^|\.)ws2\.stati\.bid$
 (^|\.)ws2\.statistic\.date$
 (^|\.)ws20\.crypto-loot\.com$
@@ -53295,6 +53161,7 @@
 (^|\.)ws3\.bmnr\.pw$
 (^|\.)ws3\.coin-have\.com$
 (^|\.)ws3\.g-content\.bid$
+(^|\.)ws3\.minr\.pw$
 (^|\.)ws3\.statistic\.date$
 (^|\.)ws30\.crypto-loot\.com$
 (^|\.)ws31\.crypto-loot\.com$
@@ -53415,6 +53282,7 @@
 (^|\.)www\.coinhive\.com$
 (^|\.)www\.coinhub\.win$
 (^|\.)www\.coinlab\.biz$
+(^|\.)www\.coinnebula\.com$
 (^|\.)www\.coinpot\.co$
 (^|\.)www\.coinrail\.io$
 (^|\.)www\.cookiescript\.info$
@@ -53501,6 +53369,7 @@
 (^|\.)youporn\.sexy$
 (^|\.)yrdrtzmsmt\.com$
 (^|\.)yuyyio\.com$
+(^|\.)zavzlen\.ru$
 (^|\.)zgdfz6h7po\.me$
 (^|\.)ziykrgc\.ru$
 (^|\.)zjemch\.ru$
@@ -53839,6 +53708,7 @@
 (^|\.)wyniki-konkursu2017\.eu$
 (^|\.)kiinomaniak\.pl$
 (^|\.)samochod-odbior\.pl$
+(^|\.)itis4you\.com$
 (^|\.)health-line\.me$
 (^|\.)ecoslimmer\.pro$
 (^|\.)pelna-wersja\.pl$
@@ -54366,6 +54236,7 @@
 (^|\.)widget-eforsa\.pl$
 (^|\.)m3gadownload\.pl$
 (^|\.)4k-player\.pl$
+(^|\.)dieta-personalna\.pl$
 (^|\.)yourmovies\.pl$
 (^|\.)konkursowo-24\.pl$
 (^|\.)monety-pokemony\.pl$
@@ -55430,7 +55301,9 @@
 (^|\.)bananarepubic\.com$
 (^|\.)bannanarepublic\.com$
 (^|\.)banner\.scasino\.com$
+(^|\.)banner\.vegasred\.com$
 (^|\.)bannerpromotion\.it$
+(^|\.)bar\.mytotalsearch\.com$
 (^|\.)barclaysghana\.org$
 (^|\.)bdsmcompany\.com$
 (^|\.)bdsmtours\.com$
@@ -55517,6 +55390,7 @@
 (^|\.)click\.kidslivesafe\.com$
 (^|\.)click\.virt\.exacttarget\.com$
 (^|\.)click\.watchjmp\.com$
+(^|\.)clicksimpact\.cashtrk\.com$
 (^|\.)client\.browseraccelerator\.com$
 (^|\.)clikz\.mytvplayer\.hop\.clickbank\.net$
 (^|\.)cliop\.com$
@@ -55556,6 +55430,7 @@
 (^|\.)d1\.windows8downloads\.com$
 (^|\.)dance-alarm\.de$
 (^|\.)data\.browseraccelerator\.com$
+(^|\.)datattro\.xyz$
 (^|\.)dateck\.com$
 (^|\.)dcm5\.com$
 (^|\.)dddcc\.com$
@@ -55677,6 +55552,7 @@
 (^|\.)funtopliste\.de$
 (^|\.)funwebproducts\.com$
 (^|\.)fuviseni\.angelfire\.com$
+(^|\.)fxlayer\.net$
 (^|\.)fxstra\.com$
 (^|\.)fyxm\.net$
 (^|\.)g\.zeroredirect\.com$
@@ -55765,6 +55641,7 @@
 (^|\.)imagesmovies\.com$
 (^|\.)img\.coldstoragemn\.com$
 (^|\.)img\.thebugs\.ws$
+(^|\.)img\.xratedbucks\.com$
 (^|\.)img2\.sankakustatic\.com$
 (^|\.)info\.com$
 (^|\.)infospace\.tk$
@@ -56068,6 +55945,7 @@
 (^|\.)ringtonematcher\.com$
 (^|\.)riskymail4free\.com$
 (^|\.)rngetek\.com$
+(^|\.)robtopol\.in$
 (^|\.)rokus-tgy\.hu$
 (^|\.)root--servers\.org$
 (^|\.)rowanmclean\.com$
@@ -56192,7 +56070,6 @@
 (^|\.)towerecords\.com$
 (^|\.)track\.clickbooth\.com$
 (^|\.)track\.viralvidi\.com$
-(^|\.)tracker\.nbcuas\.com$
 (^|\.)trackertracker\.com$
 (^|\.)tracking-stats-tr\.usa\.cc$
 (^|\.)tracking\.conduit\.com$
@@ -56611,6 +56488,8 @@
 (^|\.)www\.gratisweb\.com$
 (^|\.)www\.grendizer\.biz$
 (^|\.)www\.guaranty\.com\.cn$
+(^|\.)www\.guardappsfarm\.com$
+(^|\.)www\.guardcyclequick\.com$
 (^|\.)www\.gulf-industrial\.com$
 (^|\.)www\.gvc\.vn$
 (^|\.)www\.gwmtracker\.com$
