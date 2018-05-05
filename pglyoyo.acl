@@ -709,7 +709,6 @@
 (^|\.)adserver\.cams\.com$
 (^|\.)adserver\.com$
 (^|\.)adserver\.digitoday\.com$
-(^|\.)adserver\.finditquick\.com$
 (^|\.)adserver\.flossiemediagroup\.com$
 (^|\.)adserver\.freecity\.de$
 (^|\.)adserver\.friendfinder\.com$
@@ -923,7 +922,6 @@
 (^|\.)anm\.intelli-direct\.com$
 (^|\.)annonser\.dagbladet\.no$
 (^|\.)anxiousapples\.com$
-(^|\.)apester\.com$
 (^|\.)api\.intensifier\.de$
 (^|\.)app\.adblockhyper\.us$
 (^|\.)app\.pendo\.io$
@@ -1357,6 +1355,7 @@
 (^|\.)docksalmon\.com$
 (^|\.)domaining\.in$
 (^|\.)domainsponsor\.com$
+(^|\.)domainsteam\.de$
 (^|\.)domdex\.com$
 (^|\.)doubleclick\.com$
 (^|\.)doubleclick\.de$
@@ -1756,7 +1755,6 @@
 (^|\.)marketing\.osijek031\.com$
 (^|\.)marketingsolutions\.yahoo\.com$
 (^|\.)mas\.sector\.sk$
-(^|\.)mastermind\.com$
 (^|\.)matchcows\.com$
 (^|\.)matchcraft\.com$
 (^|\.)matheranalytics\.com$
@@ -2099,6 +2097,7 @@
 (^|\.)radiate\.com$
 (^|\.)rampidads\.com$
 (^|\.)rank-master\.com$
+(^|\.)rank-master\.de$
 (^|\.)rankchamp\.de$
 (^|\.)ranking-charts\.de$
 (^|\.)ranking-hits\.de$
@@ -2393,6 +2392,7 @@
 (^|\.)tnkexchange\.com$
 (^|\.)tns-counter\.ru$
 (^|\.)tntclix\.co\.uk$
+(^|\.)top-casting-termine\.de$
 (^|\.)top-site-list\.com$
 (^|\.)top\.list\.ru$
 (^|\.)top\.mail\.ru$
