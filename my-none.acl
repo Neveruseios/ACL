@@ -38,6 +38,8 @@
 .*\.alipay\.com.*$
 .*\.alicdn\.com.*$
 .*\.alipayobjects\.com.*$
+.*\.tieba\.baidu\.com.*$
+.*\.baidu\.com.*$
 
 1.0.1.0/24
 1.0.2.0/23
