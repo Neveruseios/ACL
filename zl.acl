@@ -22,4 +22,6 @@
 .*\.alipayobjects\.com.*$
 .*\.tieba\.baidu\.com.*$
 .*\.baidu\.com.*$
-
+.*\.bdstatic\.com.*$
+.*\.gtimg\.com.*$
+.*\.qqmail\.com.*$
