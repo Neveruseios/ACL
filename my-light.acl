@@ -61,7 +61,6 @@
 .*\.pingfore(\.|\/).*$
 .*\.pullmessage(\.|\/).*$
 .*\.pulloffmsg(\.|\/).*$
-.*rd\.ane\.yahoo(\.|\/).*$
 .*\.socdm(\.|\/).*$
 .*\.supersonicads(\.|\/).*$
 .*\.tapone(\.|\/).*$
