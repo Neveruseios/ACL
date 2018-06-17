@@ -1,6 +1,6 @@
 wget http://geolite.maxmind.com/download/geoip/database/GeoIPCountryCSV.zip -O GeoIPCountryCSV.zip
 wget http://www.ipdeny.com/ipblocks/data/countries/cn.zone -O cnic.txt
-unzip -O GeoIPCountryCSV.zip
+unzip -o GeoIPCountryCSV.zip
 perl geo2nginx.pl < GeoIPCountryWhois.csv > nginx_geoip.txt
 cat nginx_geoip.txt | grep CN > geoipCN_temp.txt
 python ipsort.py
