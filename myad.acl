@@ -65,7 +65,6 @@
 .*umengcloud(\.|\/).*$
 .*umeng(\.|\/).*$
 .*\.usage(\.|\/).*$
-.*wgo\.mmstat\.com(\.|\/).*$
 .*\.wlmonitor(\.|\/).*$
 .*\.yads(\.|\/).*$
 .*\.zjtoolbar(\.|\/).*$
