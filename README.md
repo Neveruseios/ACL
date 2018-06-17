@@ -5,3 +5,6 @@
 **[proxy_all]去广告** https://raw.githubusercontent.com/Asutorufa/ACL/master/my.acl<br></br>
 **[proxy_all]无去广告** https://raw.githubusercontent.com/Asutorufa/ACL/master/my-none.acl<br></br>
 **[bypass_all]** https://raw.githubusercontent.com/Asutorufa/ACL/master/bypass.acl<br></br>
+
+此产品包含MaxMind公司出品的GeoLite数据库，地址为
+  <a href="http://www.maxmind.com">http://www.maxmind.com</a>.
