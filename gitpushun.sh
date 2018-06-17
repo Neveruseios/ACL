@@ -1,7 +1,4 @@
-cd ACL
-cd ..
-wget http://www.ipdeny.com/ipblocks/data/countries/cn.zone -O cn.acl
-
+cp cn/cn.acl cn.acl
 
 cat start.acl adstart.acl myad.acl zlstart.acl lan.acl zl.acl cn.acl >my-light.acl
 cat start.acl zlstart.acl lan.acl zl.acl cn.acl >my-none.acl
