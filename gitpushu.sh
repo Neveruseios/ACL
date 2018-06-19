@@ -36,6 +36,11 @@ cp 抓包列表.txt ACL/抓包列表.txt
 cp README.md ACL/README.md
 
 cd ACL
+git remote -v
+git fetch origin master:temp
+git diff temp
+git merge temp
+git branch -d temp
 git add .
 git commit -m "update"
 git push -u origin master 

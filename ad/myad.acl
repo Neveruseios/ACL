@@ -9,13 +9,13 @@
 .*\.akamai\.com.*$
 .*amazon-adsystem\.com.*$
 .*\.apvdr\.com.*$
+.*cpro\.baidu.*$
 .*bllo\.hsq3z\.com.*$
 .*bp\.xkhejx\.cn.*$
 .*cf\.uncn\.jp.*$
-.*ch615\.wx\.11h5\.com.*$
 .*ds\.missyougame\.cn.*$
 .*geo\.query\.yahoo.*$
-.*googleads\.g\.doubleclick.*$
+.*g\.doubleclick.*$
 .*i-mobile\.co\.jp.*$
 .*impact-ad\.jp.*$
 .*js\.zyrfanli\.com.*$
@@ -70,9 +70,4 @@
 .*\.zjtoolbar\..*$
 .*pixiv\.org\/click\?ad.*$
 .*yads\.c\.yimg\.jp.*$
-.*ybp\.yahoo.*$
-.*ybx\.yahoo.*$
-.*yeas\.yahoo.*$
-.*yjaxc\.yahoo.*$
-
 

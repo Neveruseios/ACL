@@ -852,6 +852,10 @@
 (^|\.)xn--adspace-kvg\.ero-advertising\.com$
 (^|\.)zww\.ero-advertising\.com$
 (^|\.)_thums\.ero-advertising\.com$
+(^|\.)redshell\.io$
+(^|\.)api\.redshell\.io$
+(^|\.)treasuredata\.com$
+(^|\.)api\.treasuredata\.com$
 #=====================================$
 # End StevenBlack$
 # Start malwaredomainlist\.com$
@@ -2195,7 +2199,7 @@
 # See below for acknowledgements\.$
 # Please forward any additions, corrections or comments by email to$
 # hosts@someonewhocares\.org$
-# Last updated: Thu, 14 Jun 2018 at 05:16:22 GMT$
+# Last updated: Mon, 18 Jun 2018 at 04:48:05 GMT$
 # Use this file to prevent your computer from connecting to selected$
 # internet hosts\. This is an easy and effective way to protect you from $
 # many types of spyware, reduces bandwidth use, blocks certain pop-up $
@@ -4380,6 +4384,7 @@
 (^|\.)eviboli576\.o-f\.com$
 (^|\.)exasked\.com$
 (^|\.)expertland\.net$
+(^|\.)extinstalls\.icu$
 (^|\.)f05098\.privacy4browsers\.com$
 (^|\.)f150123\.privacy4browsing\.com$
 (^|\.)f18085\.privacy4browsers\.com$
@@ -28410,7 +28415,7 @@
 # other formats:  https://pgl\.yoyo\.org/adservers/formats\.php$
 # policy:         https://pgl\.yoyo\.org/adservers/policy\.php$
 #$
-# start date:    Tue, 23 Jun 1998 00:00:00$
+# start date:    Wed, 24 Jun 1998 00:00:00$
 (^|\.)101com\.com$
 (^|\.)101order\.com$
 (^|\.)123found\.com$
@@ -53146,6 +53151,8 @@
 (^|\.)csp-collector\.appspot\.com$
 (^|\.)ws-na\.assoc-amazon\.com$
 (^|\.)analytics\.atlassian\.com$
+(^|\.)photos-bazaar-use1\.nexus\.bazaarvoice\.com$
+(^|\.)photos-us\.bazaarvoice\.com$
 (^|\.)bfmio\.com$
 (^|\.)display\.bfmio\.com$
 (^|\.)io-cdn\.bfmio\.com$
@@ -53199,6 +53206,7 @@
 (^|\.)sdk\.casalemedia\.com$
 (^|\.)system\.casalemedia\.com$
 (^|\.)woobi-eu\.casalemedia\.com$
+(^|\.)cashext\.com$
 (^|\.)chartboost\.com$
 (^|\.)answers\.chartboost\.com$
 (^|\.)www\.answers\.chartboost\.com$
@@ -53227,6 +53235,9 @@
 (^|\.)socialapi\.digitalremedy\.com$
 (^|\.)www\.digitalremedy\.com$
 (^|\.)hasoffers\.disqus\.com$
+(^|\.)tracking\.downloadyeah\.com$
+(^|\.)ad\.downloadyee\.com$
+(^|\.)tracking\.downloadyee\.com$
 (^|\.)drift\.com$
 (^|\.)api\.drift\.com$
 (^|\.)chat\.api\.drift\.com$
@@ -53385,10 +53396,21 @@
 (^|\.)www\.zulip\.dynamicyield\.com$
 (^|\.)en25\.com$
 (^|\.)t\.en25\.com$
+(^|\.)enhanced2trk\.com$
+(^|\.)enhancedstats\.com$
+(^|\.)enhancedtrk\.com$
 (^|\.)metric-public-service-prod\.ol\.epicgames\.com$
 (^|\.)w\.ads2\.eqads\.com$
 (^|\.)cdn\.eqads\.com$
 (^|\.)um2\.eqads\.com$
+(^|\.)essads\.com$
+(^|\.)client-api\.essads\.com$
+(^|\.)esttrk\.com$
+(^|\.)cpanel\.esttrk\.com$
+(^|\.)mail\.esttrk\.com$
+(^|\.)webdisk\.esttrk\.com$
+(^|\.)webmail\.esttrk\.com$
+(^|\.)www\.esttrk\.com$
 (^|\.)evgnet\.com$
 (^|\.)cdn\.evgnet\.com$
 (^|\.)exacttarget\.com$
@@ -54319,6 +54341,11 @@
 (^|\.)mxpnl\.com$
 (^|\.)cdn2\.mxpnl\.com$
 (^|\.)images\.mxpnl\.com$
+(^|\.)n131adserv\.com$
+(^|\.)ads\.n131adserv\.com$
+(^|\.)api\.n131adserv\.com$
+(^|\.)cdn\.n131adserv\.com$
+(^|\.)www\.n131adserv\.com$
 (^|\.)narvar\.com$
 (^|\.)analytics\.narvar\.com$
 (^|\.)assets\.narvar\.com$
@@ -54345,10 +54372,13 @@
 (^|\.)test\.netmng\.com$
 (^|\.)www\.netmng\.com$
 (^|\.)jpx-d3\.openxenterprise\.com$
+(^|\.)optimeze\.com$
+(^|\.)optimezer\.com$
 (^|\.)a\.optmstr\.com$
 (^|\.)z\.optmstr\.com$
 (^|\.)optnmstr\.com$
 (^|\.)a\.optnmstr\.com$
+(^|\.)opttracker\.com$
 (^|\.)optvdo\.com$
 (^|\.)c\.optvdo\.com$
 (^|\.)v\.optvdo\.com$
@@ -54427,6 +54457,7 @@
 (^|\.)thunder-tracker\.staging\.paperg\.com$
 (^|\.)assets\.www\.paperg\.com$
 (^|\.)flyers\.www\.paperg\.com$
+(^|\.)tracking\.photoyee\.com$
 (^|\.)placed\.com$
 (^|\.)affiliate\.placed\.com$
 (^|\.)api\.placed\.com$
@@ -54464,6 +54495,7 @@
 (^|\.)m\.preapps\.com$
 (^|\.)www\.m\.preapps\.com$
 (^|\.)www\.preapps\.com$
+(^|\.)pt2tracker\.com$
 (^|\.)pubocean\.com$
 (^|\.)eam\.pubocean\.com$
 (^|\.)staging\.eam\.pubocean\.com$
@@ -54526,6 +54558,9 @@
 (^|\.)tag\.rkdms\.com$
 (^|\.)x\.rkdms\.com$
 (^|\.)z\.rkdms\.com$
+(^|\.)rocketadt\.com$
+(^|\.)rocketadv\.com$
+(^|\.)rocketadx\.com$
 (^|\.)ads\.roku\.com$
 (^|\.)p\.ads\.roku\.com$
 (^|\.)logs\.roku\.com$
@@ -54776,6 +54811,50 @@
 (^|\.)www\.webdocs\.tritondigital\.com$
 (^|\.)www\.tritondigital\.com$
 (^|\.)yesfm\.tritondigital\.com$
+(^|\.)truconversion\.com$
+(^|\.)08feb2018\.truconversion\.com$
+(^|\.)08febuary18\.truconversion\.com$
+(^|\.)8feb18\.truconversion\.com$
+(^|\.)8feb2018\.truconversion\.com$
+(^|\.)abc\.truconversion\.com$
+(^|\.)access\.truconversion\.com$
+(^|\.)agency-stage\.truconversion\.com$
+(^|\.)app\.truconversion\.com$
+(^|\.)app-stage\.truconversion\.com$
+(^|\.)beedigital\.truconversion\.com$
+(^|\.)cdn\.truconversion\.com$
+(^|\.)cdn-test\.truconversion\.com$
+(^|\.)cdn2\.truconversion\.com$
+(^|\.)console\.truconversion\.com$
+(^|\.)demopk\.truconversion\.com$
+(^|\.)digitalmarketer3799\.truconversion\.com$
+(^|\.)dontmakemethink\.truconversion\.com$
+(^|\.)exp0811\.truconversion\.com$
+(^|\.)exp1311\.truconversion\.com$
+(^|\.)exponento\.truconversion\.com$
+(^|\.)fawwadh0\.truconversion\.com$
+(^|\.)fawwadh00\.truconversion\.com$
+(^|\.)io\.truconversion\.com$
+(^|\.)io-stage\.truconversion\.com$
+(^|\.)liquify\.truconversion\.com$
+(^|\.)mydemopk11\.truconversion\.com$
+(^|\.)myspace\.truconversion\.com$
+(^|\.)mytest\.truconversion\.com$
+(^|\.)owner01company\.truconversion\.com$
+(^|\.)owner03company\.truconversion\.com$
+(^|\.)owner03companynew\.truconversion\.com$
+(^|\.)owner05company\.truconversion\.com$
+(^|\.)static\.truconversion\.com$
+(^|\.)support-crm\.truconversion\.com$
+(^|\.)test1custombranding\.truconversion\.com$
+(^|\.)wp20171103\.truconversion\.com$
+(^|\.)www\.truconversion\.com$
+(^|\.)ttflb\.com$
+(^|\.)cpanel\.ttflb\.com$
+(^|\.)mail\.ttflb\.com$
+(^|\.)webdisk\.ttflb\.com$
+(^|\.)webmail\.ttflb\.com$
+(^|\.)www\.ttflb\.com$
 (^|\.)tune\.com$
 (^|\.)ab\.tune\.com$
 (^|\.)academy\.tune\.com$
@@ -54836,6 +54915,8 @@
 (^|\.)web-ci\.urbanairship\.com$
 (^|\.)webinars\.urbanairship\.com$
 (^|\.)www\.urbanairship\.com$
+(^|\.)userbest\.com$
+(^|\.)www\.userbest\.com$
 (^|\.)valassisdigital\.com$
 (^|\.)beta\.valassisdigital\.com$
 (^|\.)go\.valassisdigital\.com$
@@ -54894,6 +54975,7 @@
 (^|\.)playdemic\.r\.wbinsights\.com$
 (^|\.)zeppelin\.wbinsights\.com$
 (^|\.)playdemic\.zeppelin\.wbinsights\.com$
+(^|\.)tracking\.weiboniu\.com$
 (^|\.)wootric\.com$
 (^|\.)api\.wootric\.com$
 (^|\.)api-staging\.wootric\.com$
@@ -54956,6 +55038,7 @@
 (^|\.)www\.api\.static\.xtify\.com$
 (^|\.)xpass\.xtify\.com$
 (^|\.)www\.xpass\.xtify\.com$
+(^|\.)tracking\.yeehbuy\.com$
 (^|\.)yodelmobile\.com$
 (^|\.)daniel\.yodelmobile\.com$
 (^|\.)www\.daniel\.yodelmobile\.com$
@@ -55110,6 +55193,7 @@
 (^|\.)fr\.doubleclick\.net$
 (^|\.)g\.doubleclick\.net$
 (^|\.)jp\.doubleclick\.net$
+(^|\.)ads-bid\.l\.doubleclick\.net$
 (^|\.)support\.doubleclick\.net$
 (^|\.)thngw\.doubleclick\.net$
 (^|\.)thngw1\.doubleclick\.net$
@@ -55352,6 +55436,7 @@
 (^|\.)mx\.tst\.returnpath\.net$
 (^|\.)webmail\.returnpath\.net$
 (^|\.)www\.returnpath\.net$
+(^|\.)nb-us\.wal\.co\.revdn\.net$
 (^|\.)rfihub\.net$
 (^|\.)eqv-rtb1\.rfihub\.net$
 (^|\.)ewr-rtb1\.rfihub\.net$
@@ -55377,7 +55462,9 @@
 (^|\.)vast\.streamrail\.net$
 (^|\.)tapas\.net$
 (^|\.)ortshk\.tapas\.net$
+(^|\.)smedia\.webcollage\.net$
 (^|\.)syndication\.site\.yahoo\.net$
+(^|\.)a\.pub\.network$
 (^|\.)ops-self-service\.adsrvr\.org$
 (^|\.)snap\.adsrvr\.org$
 (^|\.)thales\.adsrvr\.org$
