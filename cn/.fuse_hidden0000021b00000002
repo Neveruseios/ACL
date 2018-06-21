@@ -1,0 +1,11 @@
+--2018-06-21 21:34:57--  http://www.ipdeny.com/ipblocks/data/countries/cn.zone
+正在解析主机 www.ipdeny.com (www.ipdeny.com)... 192.241.240.22
+正在连接 www.ipdeny.com (www.ipdeny.com)|192.241.240.22|:80... 失败：连接超时。
+重试中。
+
+--2018-06-21 21:37:07--  (尝试次数： 2)  http://www.ipdeny.com/ipblocks/data/countries/cn.zone
+正在连接 www.ipdeny.com (www.ipdeny.com)|192.241.240.22|:80... 失败：连接超时。
+重试中。
+
+--2018-06-21 21:39:20--  (尝试次数： 3)  http://www.ipdeny.com/ipblocks/data/countries/cn.zone
+正在连接 www.ipdeny.com (www.ipdeny.com)|192.241.240.22|:80... 
