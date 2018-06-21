@@ -398,7 +398,7 @@
 ^znsv\.baidu\.com.*$
 
 #360
-.*act\.com.*$mercial\.shouji\.360\.cn.*$
+.*act\.commercial\.shouji\.360\.cn.*$
 .*adapi\.shouji\.360\.cn.*$
 .*ad\.dev\.360\.cn.*$
 .*ad\.gamebox\.360\.cn.*$
@@ -435,7 +435,7 @@
 .*s\.union\.360\.cn.*$
 .*update\.360safe\.com.*$
 .*ww360\.onetad\.com.*$
-.*act\.com.*$mercial\.shouji\.360\.cn.*$
+.*act\.commercial\.shouji\.360\.cn.*$
 .*adapi\.shouji\.360\.cn.*$
 .*ad\.dev\.360\.cn.*$
 .*ad\.gamebox\.360\.cn.*$
