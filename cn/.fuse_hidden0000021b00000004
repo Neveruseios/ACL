@@ -32,4 +32,8 @@
 重试中。
 
 --2018-06-21 21:52:55--  (尝试次数： 9)  http://www.ipdeny.com/ipblocks/data/countries/cn.zone
+正在连接 www.ipdeny.com (www.ipdeny.com)|192.241.240.22|:80... 失败：连接超时。
+重试中。
+
+--2018-06-21 21:55:13--  (尝试次数：10)  http://www.ipdeny.com/ipblocks/data/countries/cn.zone
 正在连接 www.ipdeny.com (www.ipdeny.com)|192.241.240.22|:80... 
