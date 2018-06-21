@@ -1,4 +1,4 @@
-cd /mnt/d/code/ACL/ACL
+cd ACL
 git remote -v
 git fetch origin master:temp
 git diff temp
