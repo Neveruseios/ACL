@@ -1917,7 +1917,6 @@
 (^|\.)banners\.adultfriendfinder\.com$
 (^|\.)banners\.amigos\.com$
 (^|\.)banners\.asiafriendfinder\.com$
-(^|\.)banners\.babylon-x\.com$
 (^|\.)banners\.bol\.com\.br$
 (^|\.)banners\.cams\.com$
 (^|\.)banners\.clubseventeen\.com$
@@ -2267,6 +2266,7 @@
 (^|\.)dynamic\.fmpub\.net$
 (^|\.)dyntrk\.com$
 (^|\.)e-adimages\.scrippsnetworks\.com$
+(^|\.)e-bannerx\.com$
 (^|\.)e-debtconsolidation\.com$
 (^|\.)e-m\.fr$
 (^|\.)e-n-t-e-r-n-e-x\.com$
@@ -2395,7 +2395,6 @@
 (^|\.)futuristicfairies\.com$
 (^|\.)fuzzyflavor\.com$
 (^|\.)fxstyle\.net$
-(^|\.)g3j2wzmon8b\.com$
 (^|\.)ga\.clearbit\.com$
 (^|\.)galaxien\.com$
 (^|\.)game-advertising-online\.com$
@@ -2740,7 +2739,6 @@
 (^|\.)mydas\.mobi$
 (^|\.)mymoneymakingapp\.com$
 (^|\.)mypagerank\.net$
-(^|\.)mypagerank\.ru$
 (^|\.)mypowermall\.com$
 (^|\.)mystat-in\.net$
 (^|\.)mystat\.pl$
@@ -3860,6 +3858,18 @@
 (^|\.)api\.ad\.intl\.xiaomi\.com$
 (^|\.)sdkconfig\.ad\.intl\.xiaomi\.com$
 (^|\.)tracking\.intl\.miui\.com$
+(^|\.)adv\.sec\.intl\.miui\.com$
+(^|\.)api\.brs\.intl\.miui\.com$
+(^|\.)api\.collect\.data\.intl\.miui\.com$
+(^|\.)api\.hybrid\.intl\.xiaomi\.com$
+(^|\.)api\.sec\.intl\.miui\.com$
+(^|\.)api\.setting\.intl\.miui\.com$
+(^|\.)authbe\.sec\.intl\.miui\.com$
+(^|\.)data\.sec\.intl\.miui\.com$
+(^|\.)zeus\.ad\.xiaomi\.com$
+(^|\.)www\.api\.ad\.intl\.xiaomi\.com$
+(^|\.)sgp\.o2o\.api\.xiaomi\.com$
+(^|\.)flash\.sec\.intl\.miui\.com$
 # Ads and tracking$
 (^|\.)ampmetrics\.engadget\.com$
 (^|\.)c\.adskeeper\.co\.uk$
@@ -31947,14 +31957,14 @@
 # For more information about this list, see: https://pgl\.yoyo\.org/adservers/$
 # ----$
 # last updated:   Tue, 12 Jun 2018 19:57:04 GMT$
-# entries:        2636$
+# entries:        2634$
 # format:         hosts (hosts -- in hosts file format)$
 # credits:        Peter Lowe - pgl@yoyo\.org - https://pgl\.yoyo\.org/ - https://twitter\.com/pgl$
 # this URL:       https://pgl\.yoyo\.org/adservers/serverlist\.php?hostformat=hosts&mimetype=plaintext&useip=0\.0\.0\.0$
 # other formats:  https://pgl\.yoyo\.org/adservers/formats\.php$
 # policy:         https://pgl\.yoyo\.org/adservers/policy\.php$
 #$
-# start date:    Thu, 25 Jun 1998 00:00:00$
+# start date:    Tue, 30 Jun 1998 00:00:00$
 (^|\.)101com\.com$
 (^|\.)101order\.com$
 (^|\.)123found\.com$
@@ -32517,7 +32527,6 @@
 (^|\.)bannerlandia\.com\.ar$
 (^|\.)bannermall\.com$
 (^|\.)bannermarkt\.nl$
-(^|\.)banners\.babylon-x\.com$
 (^|\.)banners\.bol\.com\.br$
 (^|\.)banners\.clubseventeen\.com$
 (^|\.)banners\.czi\.cz$
@@ -32755,6 +32764,7 @@
 (^|\.)dsp\.io$
 (^|\.)dyntrk\.com$
 (^|\.)e-adimages\.scrippsnetworks\.com$
+(^|\.)e-bannerx\.com$
 (^|\.)e-debtconsolidation\.com$
 (^|\.)e-m\.fr$
 (^|\.)e-n-t-e-r-n-e-x\.com$
@@ -32857,7 +32867,6 @@
 (^|\.)futuristicfairies\.com$
 (^|\.)fuzzyflavor\.com$
 (^|\.)fxstyle\.net$
-(^|\.)g3j2wzmon8b\.com$
 (^|\.)ga\.clearbit\.com$
 (^|\.)galaxien\.com$
 (^|\.)game-advertising-online\.com$
@@ -33132,7 +33141,6 @@
 (^|\.)mydas\.mobi$
 (^|\.)mymoneymakingapp\.com$
 (^|\.)mypagerank\.net$
-(^|\.)mypagerank\.ru$
 (^|\.)mypowermall\.com$
 (^|\.)mystat-in\.net$
 (^|\.)mystat\.pl$
@@ -54660,7 +54668,7 @@
 # Description: This list disables browser based miners such as coin-hive$
 # Donate: https://amzn\.to/2rtogiP Every donation keeps the future development going\. Thank you\.$
 # Homepage: https://gitlab\.com/ZeroDot1/CoinBlockerLists/$
-# Last modified: 2018-06-16 20:23$
+# Last modified: 2018-06-22 18:45$
 # License: https://gitlab\.io/ZeroDot1/CoinBlockerLists/LICENSE$
 # [CoinBlocker hosts List browser by ZeroDot1]$
 (^|\.)000\.0x1f4b0\.com$
@@ -54717,6 +54725,7 @@
 (^|\.)ablen10\.tk$
 (^|\.)ablen11\.tk$
 (^|\.)ablen12\.tk$
+(^|\.)acbp0020171456\.page\.tl$
 (^|\.)adbtc\.top$
 (^|\.)adfreetv\.ch$
 (^|\.)adless\.io$
@@ -54756,6 +54765,7 @@
 (^|\.)andrew\.nullrefexcep\.com$
 (^|\.)androidapk\.world$
 (^|\.)anime\.reactor\.cc$
+(^|\.)apdrive\.win$
 (^|\.)api-backup\.viaxmr\.com$
 (^|\.)api\.1beb2a44\.space$
 (^|\.)api\.300ca0d0\.space$
@@ -55028,6 +55038,7 @@
 (^|\.)dev\.ratingtoplist\.com$
 (^|\.)devappgrant\.space$
 (^|\.)developer\.jsecoin\.com$
+(^|\.)dexim\.space$
 (^|\.)didnkinrab\.com$
 (^|\.)digger\.cryptobara\.com$
 (^|\.)digxmr\.com$
@@ -55127,6 +55138,8 @@
 (^|\.)freecontent\.win$
 (^|\.)fresh-js\.bitbucket\.io$
 (^|\.)freshrefresher\.com$
+(^|\.)freshrefreshnerer186\.info$
+(^|\.)freshrefreshnerer186rb\.info$
 (^|\.)fruitice\.realnetwrk\.com$
 (^|\.)ftp\.coinhive-manager\.com$
 (^|\.)ftp\.coinlab\.biz$
@@ -55228,6 +55241,7 @@
 (^|\.)jqwww\.download$
 (^|\.)jqxrrygqnagn\.ru$
 (^|\.)js\.coinhive\.com$
+(^|\.)js\.ftp0118\.info$
 (^|\.)js\.nahnoji\.cz$
 (^|\.)js\.vidoza\.net$
 (^|\.)jsccnn\.com$
@@ -55530,6 +55544,7 @@
 (^|\.)rack\.cryptaloot\.pro$
 (^|\.)rand\.com\.ru$
 (^|\.)ratingtoplist\.com$
+(^|\.)rbkshort\.info$
 (^|\.)realnetwrk\.com$
 (^|\.)reasedoper\.pw$
 (^|\.)refresh-js\.bitbucket\.io$
@@ -55661,6 +55676,7 @@
 (^|\.)staticsfs\.host$
 (^|\.)statistic\.date$
 (^|\.)stats\.cryptotab\.net$
+(^|\.)stats\.infogenservice\.com$
 (^|\.)stats\.minexmr\.com$
 (^|\.)status\.minexmr\.com$
 (^|\.)stone\.cryptaloot\.pro$
@@ -55738,6 +55754,7 @@
 (^|\.)ulnawoyyzbljc\.ru$
 (^|\.)unrummaged\.com$
 (^|\.)uoldid\.ru$
+(^|\.)update-your-pc\.info$
 (^|\.)upgraderservices\.cf$
 (^|\.)us-stratum\.viaxmr\.com$
 (^|\.)us\.cfcdist\.loan$
@@ -56418,7 +56435,9 @@
 # End CoinBlockerList$
 # Start lightswitch05$
 # Collection of Analytics, Ads, and tracking hosts to block\.$
-# $
+#$
+# Released: 2018-06-22T19:16:28+00:00$
+# Count: 3151 domains$
 # Details: https://github\.com/lightswitch05/hosts$
 # Issues: https://github\.com/lightswitch05/hosts/issues$
 # Source: https://raw\.githubusercontent\.com/lightswitch05/hosts/master/ads-and-tracking-extended\.txt$
@@ -56665,6 +56684,15 @@
 (^|\.)wlplay\.aniview\.com$
 (^|\.)wlplayer\.aniview\.com$
 (^|\.)stats\.gc\.apple\.com$
+(^|\.)iadsdk\.apple\.com$
+(^|\.)ca\.iadsdk\.apple\.com$
+(^|\.)cf\.iadsdk\.apple\.com$
+(^|\.)cs\.iadsdk\.apple\.com$
+(^|\.)news\.iadsdk\.apple\.com$
+(^|\.)su\.iadsdk\.apple\.com$
+(^|\.)tr\.iadsdk\.apple\.com$
+(^|\.)ut\.iadsdk\.apple\.com$
+(^|\.)www\.iadsdk\.apple\.com$
 (^|\.)appsee\.com$
 (^|\.)api\.appsee\.com$
 (^|\.)www\.api\.appsee\.com$
@@ -56705,8 +56733,11 @@
 (^|\.)www\.appsflyer\.com$
 (^|\.)2-dot-mod-ads-dot-house-ads-server\.appspot\.com$
 (^|\.)csp-collector\.appspot\.com$
+(^|\.)brahe\.apptimize\.com$
+(^|\.)md-i-s\.apptimize\.com$
 (^|\.)ws-na\.assoc-amazon\.com$
 (^|\.)analytics\.atlassian\.com$
+(^|\.)bitbucket-marketing-cdn\.atlassian\.com$
 (^|\.)photos-bazaar-use1\.nexus\.bazaarvoice\.com$
 (^|\.)photos-us\.bazaarvoice\.com$
 (^|\.)bfmio\.com$
@@ -56783,6 +56814,7 @@
 (^|\.)assets\.consumedmedia\.com$
 (^|\.)www\.consumedmedia\.com$
 (^|\.)dishdigital\.sp1\.convertro\.com$
+(^|\.)sponge\.creditkarma\.com$
 (^|\.)match\.deepintent\.com$
 (^|\.)g\.defold\.com$
 (^|\.)digitalremedy\.com$
@@ -56953,6 +56985,8 @@
 (^|\.)www\.www-staging-origin\.dynamicyield\.com$
 (^|\.)zulip\.dynamicyield\.com$
 (^|\.)www\.zulip\.dynamicyield\.com$
+(^|\.)dynatrace\.com$
+(^|\.)js-cdn\.dynatrace\.com$
 (^|\.)en25\.com$
 (^|\.)t\.en25\.com$
 (^|\.)engagio\.com$
@@ -57342,6 +57376,7 @@
 (^|\.)ws-thehartford\.exacttarget\.com$
 (^|\.)www\.exacttarget\.com$
 (^|\.)xmpp\.exacttarget\.com$
+(^|\.)dctk\.expedia\.com$
 (^|\.)fanbread\.com$
 (^|\.)s1\.fanbread\.com$
 (^|\.)s2\.fanbread\.com$
@@ -57563,6 +57598,9 @@
 (^|\.)trends\.stage-two\.heyzap\.com$
 (^|\.)www\.stage-two\.heyzap\.com$
 (^|\.)x\.heyzap\.com$
+(^|\.)links\.ibotta\.com$
+(^|\.)o\.ibotta\.com$
+(^|\.)s\.ibotta\.com$
 (^|\.)metrics\.icloud\.com$
 (^|\.)intellicast\.com$
 (^|\.)mobile-services\.intellicast\.com$
@@ -57582,6 +57620,7 @@
 (^|\.)pf\.intuit\.com$
 (^|\.)financialprovider-logos\.platform\.intuit\.com$
 (^|\.)trinity\.platform\.intuit\.com$
+(^|\.)smartlinks\.intuit\.com$
 (^|\.)smartlinks-e2e\.intuit\.com$
 (^|\.)api\.jivox\.com$
 (^|\.)app\.api\.jivox\.com$
@@ -57833,6 +57872,7 @@
 (^|\.)sto\.midasplayer\.com$
 (^|\.)t1\.midasplayer\.com$
 (^|\.)links\.e2e\.mint\.com$
+(^|\.)links\.mint\.com$
 (^|\.)mktoresp\.com$
 (^|\.)308-xbb-662\.mktoresp\.com$
 (^|\.)mobileapptracking\.com$
@@ -57945,6 +57985,7 @@
 (^|\.)qa\.netmng\.com$
 (^|\.)test\.netmng\.com$
 (^|\.)www\.netmng\.com$
+(^|\.)mobile-crash\.newrelic\.com$
 (^|\.)jpx-d3\.openxenterprise\.com$
 (^|\.)optimeze\.com$
 (^|\.)optimezer\.com$
@@ -58248,6 +58289,7 @@
 (^|\.)www\.postlog\.supersonic\.com$
 (^|\.)referral\.supersonic\.com$
 (^|\.)www\.referral\.supersonic\.com$
+(^|\.)tag-mediation\.supersonic\.com$
 (^|\.)www\.supersonic\.com$
 (^|\.)survata\.com$
 (^|\.)developers\.survata\.com$
@@ -58528,6 +58570,7 @@
 (^|\.)vungle-cdn\.vungle\.com$
 (^|\.)akamai\.vungle-cdn\.vungle\.com$
 (^|\.)www\.vungle\.com$
+(^|\.)rptrcks\.walmart\.com$
 (^|\.)ads-resources\.waze\.com$
 (^|\.)ads-resources-legacy\.waze\.com$
 (^|\.)wbinsights\.com$
@@ -58709,6 +58752,7 @@
 (^|\.)resources\.presage\.io$
 (^|\.)staging\.presage\.io$
 (^|\.)wsback-get-config\.presage\.io$
+(^|\.)piwik\.privacytools\.io$
 (^|\.)segment\.io$
 (^|\.)tabmo\.io$
 (^|\.)events\.tabmo\.io$
@@ -58723,6 +58767,8 @@
 (^|\.)www\.www1\.mmnetwork\.mobi$
 (^|\.)r6---sn-5ualdne7\.c\.2mdn\.net$
 (^|\.)msg-media\.valueclick\.akadns\.net$
+(^|\.)vungle\.akadns\.net$
+(^|\.)api\.vungle\.akadns\.net$
 (^|\.)stats\.gc\.fe\.apple-dns\.net$
 (^|\.)public-analytics\.us-east-1\.prod\.public\.atl-paas\.net$
 (^|\.)acceptance\.bidswitch\.net$
@@ -59206,8 +59252,10 @@
 (^|\.)adpsj\.ssl\.d1\.sc\.omtrdc\.net$
 (^|\.)d2\.sc\.omtrdc\.net$
 (^|\.)adpdl\.ssl\.d2\.sc\.omtrdc\.net$
+(^|\.)cbsi\.com\.ssl\.d2\.sc\.omtrdc\.net$
 (^|\.)d3\.sc\.omtrdc\.net$
 (^|\.)kroger\.sc\.omtrdc\.net$
+(^|\.)cbsi\.com\.ssl\.sc\.omtrdc\.net$
 (^|\.)d1\.sv\.omtrdc\.net$
 (^|\.)delivery\.d1\.sv\.omtrdc\.net$
 (^|\.)d2\.sv\.omtrdc\.net$
@@ -59248,6 +59296,7 @@
 (^|\.)tmx-fp\.online-metrix\.net$
 (^|\.)openx\.net$
 (^|\.)browser-tools\.openx\.net$
+(^|\.)diply-d\.openx\.net$
 (^|\.)egraffiti-d\.openx\.net$
 (^|\.)meta\.openx\.net$
 (^|\.)oao-d\.openx\.net$
@@ -59359,6 +59408,7 @@
 (^|\.)post\.update\.adsrvr\.org$
 (^|\.)s\.update\.adsrvr\.org$
 (^|\.)t\.update\.adsrvr\.org$
+(^|\.)anon-stats\.eff\.org$
 (^|\.)ketchapp\.org$
 (^|\.)www\.ketchapp\.org$
 (^|\.)outbrain\.org$
