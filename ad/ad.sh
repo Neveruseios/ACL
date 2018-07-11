@@ -1,4 +1,4 @@
-proxychains wget https://neko-dev.github.io/neohosts/full/hosts -O neohosts.acl
+proxychains wget https://hosts.nfz.moe/full/hosts -O neohosts.acl
 proxychains wget https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts -O stevenhosts.acl
 proxychains wget "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext" -O pglyoyo.acl
 
