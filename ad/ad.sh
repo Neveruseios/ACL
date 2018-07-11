@@ -1,6 +1,6 @@
-wget https://neko-dev.github.io/neohosts/full/hosts -O neohosts.acl
-wget https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts -O stevenhosts.acl
-wget "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext" -O pglyoyo.acl
+proxychains wget https://neko-dev.github.io/neohosts/full/hosts -O neohosts.acl
+proxychains wget https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts -O stevenhosts.acl
+proxychains wget "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext" -O pglyoyo.acl
 
 sed -i '/^ *$/d' neohosts.acl
 sed -i '/^$/d' neohosts.acl
