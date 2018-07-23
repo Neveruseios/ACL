@@ -5,6 +5,8 @@
 [outbound_block_list]
 
 .*11h5\.com.*$
+.*\.getui\.com.*$
+115.231.99.203
 .*\.ad\d{0,3}\..*$
 .*\.adingo\.jp.*$
 .*\.adnxs\.com.*$
