@@ -1,6 +1,6 @@
 #*********************************************************$
 #url=https://github\.com/neofelhz/neohosts$
-#version=20180710020823$
+#version=20180727095550$
 #*********************************************************$
 (^|\.)0127\.adsame\.com$
 (^|\.)0aqpqdju\.me$
@@ -109,6 +109,7 @@
 (^|\.)acookie\.alimama\.com$
 (^|\.)acookie\.linezing\.com$
 (^|\.)acs4baichuan\.m\.taobao\.com$
+(^|\.)acstatic-dun\.126\.net$
 (^|\.)act\.commercial\.shouji\.360\.cn$
 (^|\.)activate\.adobe\.com$
 (^|\.)activate-sea\.adobe\.com$
@@ -647,6 +648,7 @@
 (^|\.)cdnimg\.liehu\.ijinshan\.com$
 (^|\.)cdnis\.hyperpromote\.com$
 (^|\.)cdn\.lu\.sogoucdn\.com$
+(^|\.)cdn\.newapi\.com$
 (^|\.)cdn\.optaim\.com$
 (^|\.)cdnpa\.hyperpromote\.com$
 (^|\.)cdn\.popcash\.net$
@@ -844,7 +846,6 @@
 (^|\.)cp\.jiajv\.net$
 (^|\.)cpro2\.baidu\.com$
 (^|\.)cpro2\.baidustatic\.com$
-(^|\.)cpro\.9xu\.com$
 (^|\.)cpro\.baidu\.com$
 (^|\.)cpro\.baidustatic\.com$
 (^|\.)cpro\.tieba\.baidu\.com$
@@ -869,7 +870,6 @@
 (^|\.)cs\.dqwjzm\.com$
 (^|\.)cs\.twcczhu\.com$
 (^|\.)c\.sz\.gt\.igexin\.com$
-(^|\.)cszlks\.com$
 (^|\.)ct\.210189\.com$
 (^|\.)cti\.w55c\.net$
 (^|\.)ct\.niu\.xunlei\.com$
@@ -1630,6 +1630,7 @@
 (^|\.)log\.he2d\.com$
 (^|\.)log\.mix\.sina\.com\.cn$
 (^|\.)log\.music\.baidu\.com$
+(^|\.)logs\.newapi\.com$
 (^|\.)log\.spotify\.com$
 (^|\.)log\.stat\.kugou\.com$
 (^|\.)log\.tbs\.qq\.com$
@@ -1653,7 +1654,6 @@
 (^|\.)m2374\.oadz\.com$
 (^|\.)m\.28487\.net$
 (^|\.)m3bnqqqw\.com$
-(^|\.)m5\.apk\.67mo\.com$
 (^|\.)m\.7180443\.com$
 (^|\.)m-78\.jp$
 (^|\.)m947\.oadz\.com$
@@ -1701,6 +1701,7 @@
 (^|\.)mcore\.vcgame\.cn$
 (^|\.)m\.ctsywy\.com$
 (^|\.)mc\.yandex\.ru$
+(^|\.)md\.1drj\.com$
 (^|\.)m\.dante2007\.com$
 (^|\.)mdap\.alipaylog\.com$
 (^|\.)mdc\.meitustat\.com$
@@ -1738,7 +1739,6 @@
 (^|\.)migcreport\.g\.mi\.com$
 (^|\.)mi\.gdt\.qq\.com$
 (^|\.)migrate\.driveapi\.micloud\.xiaomi\.net$
-(^|\.)migu\.kssws\.ks-cdn\.com$
 (^|\.)m\.inccnd\.com$
 (^|\.)minfo\.wps\.cn$
 (^|\.)minghui\.com$
@@ -2068,6 +2068,7 @@
 (^|\.)puds\.ucweb\.com$
 (^|\.)pull\.push\.sogou\.com$
 (^|\.)pups\.bdimg\.com$
+(^|\.)push\.5z5zw\.com$
 (^|\.)pushapi\.lenovomm\.com$
 (^|\.)push\.mobile\.kugou\.com$
 (^|\.)push\.res\.meizu\.com$
@@ -2764,7 +2765,6 @@
 (^|\.)tob-cms\.bj\.bcebos\.com$
 (^|\.)token\.rubiconproject\.com$
 (^|\.)tom\.allyes\.com$
-(^|\.)tongji\.baidu\.com$
 (^|\.)tongji\.linezing\.com$
 (^|\.)tongji\.meizu\.com$
 (^|\.)tongji-res1\.meizu\.com$
@@ -3195,6 +3195,7 @@
 (^|\.)www\.ipinyou\.com$
 (^|\.)www\.ipinyou\.com\.cn$
 (^|\.)www\.jisucn\.com$
+(^|\.)www\.jiubuhua\.com$
 (^|\.)www\.jizzads\.com$
 (^|\.)www\.keyrun\.cn$
 (^|\.)www\.kuguopush\.com$
@@ -3259,6 +3260,7 @@
 (^|\.)xinhuanet\.adsame\.com$
 (^|\.)xinsheng\.net$
 (^|\.)xji\.qwxcs\.com$
+(^|\.)xs\.1drj\.com$
 (^|\.)xs\.he9630\.com$
 (^|\.)xtruh\.uranus\.sogou\.com$
 (^|\.)xunlei\.adx\.admaster\.com\.cn$
@@ -3286,7 +3288,6 @@
 (^|\.)yt\.mmstat\.com$
 (^|\.)yuanming\.net$
 (^|\.)yun\.lvehaisen\.com$
-(^|\.)yun\.rili\.cn$
 (^|\.)yun\.tuia\.cn$
 (^|\.)yun\.yuyiya\.com$
 (^|\.)y\.xinghao89\.com$
@@ -3306,6 +3307,7 @@
 (^|\.)zbz\.m\.qxs\.la$
 (^|\.)zc\.adpush\.cn$
 (^|\.)zc\.biz\.weibo\.com$
+(^|\.)z\.clickvip\.shop$
 (^|\.)z\.domob\.cn$
 (^|\.)zgdfz6h7po\.me$
 (^|\.)zgty365\.com$
@@ -3452,6 +3454,7 @@
 :: acookie\.alimama\.com$
 :: acookie\.linezing\.com$
 :: acs4baichuan\.m\.taobao\.com$
+:: acstatic-dun\.126\.net$
 :: act\.commercial\.shouji\.360\.cn$
 :: activate\.adobe\.com$
 :: activate-sea\.adobe\.com$
@@ -3990,6 +3993,7 @@
 :: cdnimg\.liehu\.ijinshan\.com$
 :: cdnis\.hyperpromote\.com$
 :: cdn\.lu\.sogoucdn\.com$
+:: cdn\.newapi\.com$
 :: cdn\.optaim\.com$
 :: cdnpa\.hyperpromote\.com$
 :: cdn\.popcash\.net$
@@ -4187,7 +4191,6 @@
 :: cp\.jiajv\.net$
 :: cpro2\.baidu\.com$
 :: cpro2\.baidustatic\.com$
-:: cpro\.9xu\.com$
 :: cpro\.baidu\.com$
 :: cpro\.baidustatic\.com$
 :: cpro\.tieba\.baidu\.com$
@@ -4212,7 +4215,6 @@
 :: cs\.dqwjzm\.com$
 :: cs\.twcczhu\.com$
 :: c\.sz\.gt\.igexin\.com$
-:: cszlks\.com$
 :: ct\.210189\.com$
 :: cti\.w55c\.net$
 :: ct\.niu\.xunlei\.com$
@@ -4973,6 +4975,7 @@
 :: log\.he2d\.com$
 :: log\.mix\.sina\.com\.cn$
 :: log\.music\.baidu\.com$
+:: logs\.newapi\.com$
 :: log\.spotify\.com$
 :: log\.stat\.kugou\.com$
 :: log\.tbs\.qq\.com$
@@ -4996,7 +4999,6 @@
 :: m2374\.oadz\.com$
 :: m\.28487\.net$
 :: m3bnqqqw\.com$
-:: m5\.apk\.67mo\.com$
 :: m\.7180443\.com$
 :: m-78\.jp$
 :: m947\.oadz\.com$
@@ -5044,6 +5046,7 @@
 :: mcore\.vcgame\.cn$
 :: m\.ctsywy\.com$
 :: mc\.yandex\.ru$
+:: md\.1drj\.com$
 :: m\.dante2007\.com$
 :: mdap\.alipaylog\.com$
 :: mdc\.meitustat\.com$
@@ -5081,7 +5084,6 @@
 :: migcreport\.g\.mi\.com$
 :: mi\.gdt\.qq\.com$
 :: migrate\.driveapi\.micloud\.xiaomi\.net$
-:: migu\.kssws\.ks-cdn\.com$
 :: m\.inccnd\.com$
 :: minfo\.wps\.cn$
 :: minghui\.com$
@@ -5411,6 +5413,7 @@
 :: puds\.ucweb\.com$
 :: pull\.push\.sogou\.com$
 :: pups\.bdimg\.com$
+:: push\.5z5zw\.com$
 :: pushapi\.lenovomm\.com$
 :: push\.mobile\.kugou\.com$
 :: push\.res\.meizu\.com$
@@ -6107,7 +6110,6 @@
 :: tob-cms\.bj\.bcebos\.com$
 :: token\.rubiconproject\.com$
 :: tom\.allyes\.com$
-:: tongji\.baidu\.com$
 :: tongji\.linezing\.com$
 :: tongji\.meizu\.com$
 :: tongji-res1\.meizu\.com$
@@ -6538,6 +6540,7 @@
 :: www\.ipinyou\.com$
 :: www\.ipinyou\.com\.cn$
 :: www\.jisucn\.com$
+:: www\.jiubuhua\.com$
 :: www\.jizzads\.com$
 :: www\.keyrun\.cn$
 :: www\.kuguopush\.com$
@@ -6602,6 +6605,7 @@
 :: xinhuanet\.adsame\.com$
 :: xinsheng\.net$
 :: xji\.qwxcs\.com$
+:: xs\.1drj\.com$
 :: xs\.he9630\.com$
 :: xtruh\.uranus\.sogou\.com$
 :: xunlei\.adx\.admaster\.com\.cn$
@@ -6629,7 +6633,6 @@
 :: yt\.mmstat\.com$
 :: yuanming\.net$
 :: yun\.lvehaisen\.com$
-:: yun\.rili\.cn$
 :: yun\.tuia\.cn$
 :: yun\.yuyiya\.com$
 :: y\.xinghao89\.com$
@@ -6649,6 +6652,7 @@
 :: zbz\.m\.qxs\.la$
 :: zc\.adpush\.cn$
 :: zc\.biz\.weibo\.com$
+:: z\.clickvip\.shop$
 :: z\.domob\.cn$
 :: zgdfz6h7po\.me$
 :: zgty365\.com$
