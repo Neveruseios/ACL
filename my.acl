@@ -931,7 +931,6 @@
 (^|\.)7search\.com$
 (^|\.)99count\.com$
 (^|\.)a-ads\.com$
-(^|\.)a-counter\.kiev\.ua$
 (^|\.)a\.0day\.kiev\.ua$
 (^|\.)a\.aproductmsg\.com$
 (^|\.)a\.consumer\.net$
@@ -1120,7 +1119,6 @@
 (^|\.)adformdsp\.net$
 (^|\.)adgardener\.com$
 (^|\.)adgoto\.com$
-(^|\.)adgridwork\.com$
 (^|\.)adhese\.be$
 (^|\.)adhese\.com$
 (^|\.)adhoc4\.net$
@@ -1150,6 +1148,7 @@
 (^|\.)adjuggler\.com$
 (^|\.)adjuggler\.yourdictionary\.com$
 (^|\.)adjustnetwork\.com$
+(^|\.)adk2\.co$
 (^|\.)adk2\.com$
 (^|\.)adk2ads\.tictacti\.com$
 (^|\.)adland\.ru$
@@ -2004,6 +2003,7 @@
 (^|\.)bttrack\.com$
 (^|\.)budsinc\.com$
 (^|\.)bullseye\.backbeatmedia\.com$
+(^|\.)bumpberam\.pro$
 (^|\.)buyhitscheap\.com$
 (^|\.)buysellads\.com$
 (^|\.)buzzonclick\.com$
@@ -2034,7 +2034,6 @@
 (^|\.)casinotreasure\.com$
 (^|\.)casterist\.info$
 (^|\.)cbanners\.virtuagirlhd\.com$
-(^|\.)cbmall\.com$
 (^|\.)cdn\.freefarcy\.com$
 (^|\.)cdn\.onesignal\.com$
 (^|\.)cdn\.segment\.com$
@@ -2400,7 +2399,6 @@
 (^|\.)globe7\.com$
 (^|\.)globus-inter\.com$
 (^|\.)gmads\.net$
-(^|\.)go-clicks\.de$
 (^|\.)go-rank\.de$
 (^|\.)goingplatinum\.com$
 (^|\.)goldstats\.com$
@@ -2477,7 +2475,6 @@
 (^|\.)iasds01\.com$
 (^|\.)iconadserver\.com$
 (^|\.)icptrack\.com$
-(^|\.)idcounter\.com$
 (^|\.)identads\.com$
 (^|\.)idtargeting\.com$
 (^|\.)ientrymail\.com$
@@ -2550,7 +2547,6 @@
 (^|\.)juicyads\.com$
 (^|\.)jumptap\.com$
 (^|\.)justrelevant\.com$
-(^|\.)justwebads\.com$
 (^|\.)k\.iinfo\.cz$
 (^|\.)kanoodle\.com$
 (^|\.)kargo\.com$
@@ -2615,12 +2611,12 @@
 (^|\.)lucidmedia\.com$
 (^|\.)lucklayed\.info$
 (^|\.)lumpyleaf\.com$
+(^|\.)lwfjd\.today$
 (^|\.)lytics\.io$
 (^|\.)lzjl\.com$
 (^|\.)m\.trb\.com$
 (^|\.)m1\.webstats4u\.com$
 (^|\.)m32\.media$
-(^|\.)m4n\.nl$
 (^|\.)mackeeperapp\.mackeeper\.com$
 (^|\.)madclient\.uimserv\.net$
 (^|\.)madisonavenue\.com$
@@ -2816,6 +2812,7 @@
 (^|\.)openad\.travelnow\.com$
 (^|\.)openads\.friendfinder\.com$
 (^|\.)openads\.org$
+(^|\.)opentag-stats\.qubit\.com$
 (^|\.)openx\.angelsgroup\.org\.uk$
 (^|\.)openx\.blindferret\.com$
 (^|\.)opienetwork\.com$
@@ -2978,6 +2975,7 @@
 (^|\.)rank-master\.com$
 (^|\.)rank-master\.de$
 (^|\.)rankchamp\.de$
+(^|\.)ranking-charts\.de$
 (^|\.)ranking-hits\.de$
 (^|\.)ranking-id\.de$
 (^|\.)ranking-links\.de$
@@ -3072,7 +3070,6 @@
 (^|\.)scripte-monster\.de$
 (^|\.)scrubsky\.com$
 (^|\.)scrubswim\.com$
-(^|\.)searchfeast\.com$
 (^|\.)searchmarketing\.com$
 (^|\.)searchramp\.com$
 (^|\.)secure\.webconnect\.net$
@@ -3126,7 +3123,6 @@
 (^|\.)smartlook\.com$
 (^|\.)smetrics\.ctv\.ca$
 (^|\.)smetrics\.walgreens\.com$
-(^|\.)smowtion\.com$
 (^|\.)snakesort\.com$
 (^|\.)snapads\.com$
 (^|\.)sneaklevel\.com$
@@ -3255,7 +3251,6 @@
 (^|\.)theadex\.com$
 (^|\.)theadhost\.com$
 (^|\.)theads\.me$
-(^|\.)thebugs\.ws$
 (^|\.)therapistla\.com$
 (^|\.)therichkids\.com$
 (^|\.)thirdrespect\.com$
@@ -3450,6 +3445,7 @@
 (^|\.)webtracky\.com$
 (^|\.)webtraffic\.se$
 (^|\.)webtraxx\.de$
+(^|\.)webtrends\.telegraph\.co\.uk$
 (^|\.)webtrendslive\.com$
 (^|\.)werbung\.meteoxpress\.com$
 (^|\.)wetrack\.it$
@@ -3522,6 +3518,7 @@
 (^|\.)zenzuu\.com$
 (^|\.)zeus\.developershed\.com$
 (^|\.)zeusclicks\.com$
+(^|\.)zm232\.com$
 (^|\.)zmedia\.com$
 (^|\.)zqtk\.net$
 (^|\.)0127\.adsame\.com$
@@ -3631,7 +3628,6 @@
 (^|\.)acookie\.alimama\.com$
 (^|\.)acookie\.linezing\.com$
 (^|\.)acs4baichuan\.m\.taobao\.com$
-(^|\.)acstatic-dun\.126\.net$
 (^|\.)act\.commercial\.shouji\.360\.cn$
 (^|\.)activate\.adobe\.com$
 (^|\.)activate-sea\.adobe\.com$
@@ -5295,7 +5291,6 @@
 (^|\.)mobileads\.google\.com$
 (^|\.)mobileads\.msn\.com$
 (^|\.)mobilelog\.kugou\.com$
-(^|\.)mobile\.qzone\.qq\.com$
 (^|\.)mo\.haloapps\.cn$
 (^|\.)moka\.inte\.sogoucdn\.com$
 (^|\.)monitor\.uu\.qq\.com$
@@ -6976,7 +6971,6 @@
 :: acookie\.alimama\.com$
 :: acookie\.linezing\.com$
 :: acs4baichuan\.m\.taobao\.com$
-:: acstatic-dun\.126\.net$
 :: act\.commercial\.shouji\.360\.cn$
 :: activate\.adobe\.com$
 :: activate-sea\.adobe\.com$
@@ -8640,7 +8634,6 @@
 :: mobileads\.google\.com$
 :: mobileads\.msn\.com$
 :: mobilelog\.kugou\.com$
-:: mobile\.qzone\.qq\.com$
 :: mo\.haloapps\.cn$
 :: moka\.inte\.sogoucdn\.com$
 :: monitor\.uu\.qq\.com$
@@ -11093,6 +11086,8 @@
 (^|\.)best2017games\.com$
 (^|\.)www\.bet365\.com$
 (^|\.)api\.userstyles\.org$
+(^|\.)hrtya\.com$
+(^|\.)greatmacsoft\.tech$
 (^|\.)0koryu0\.easter\.ne\.jp$
 (^|\.)109-204-26-16\.netconnexion\.managedbroadband\.co\.uk$
 (^|\.)1866809\.securefastserver\.com$
@@ -18878,6 +18873,7 @@
 (^|\.)asmedia\.adsupplyssl\.com$
 (^|\.)asn\.advolution\.de$
 (^|\.)asn\.cunda\.advolution\.biz$
+(^|\.)aspesa\.info$
 (^|\.)a\.ss34\.on9mail\.com$
 (^|\.)assets\.applovin\.com$
 (^|\.)assets\.igapi\.com$
@@ -19203,6 +19199,7 @@
 (^|\.)buzzadnetwork\.com$
 (^|\.)buzzbox\.buzzfeed\.com$
 (^|\.)buzzonclick\.com$
+(^|\.)bvfsc\.info$
 (^|\.)bwp\.lastfm\.com\.com$
 (^|\.)bwp\.news\.com$
 (^|\.)c11370896\.c\.youradexchange\.com$
@@ -19587,6 +19584,8 @@
 (^|\.)code\.adtlgc\.com$
 (^|\.)code\.vihub\.ru$
 (^|\.)coffeehausblog\.com$
+(^|\.)coin-ad\.com$
+(^|\.)coinad\.com$
 (^|\.)coinurl\.com$
 (^|\.)coinzilla\.io$
 (^|\.)collectiveads\.net$
@@ -19734,6 +19733,7 @@
 (^|\.)cz8\.clickzs\.com$
 (^|\.)c\.za\.msn\.com$
 (^|\.)cz\.bbelements\.com$
+(^|\.)czilladx\.com$
 (^|\.)d\.101m3\.com$
 (^|\.)d10\.zedo\.com$
 (^|\.)d11\.zedo\.com$
@@ -20257,6 +20257,7 @@
 (^|\.)getacooltv\.com$
 (^|\.)getafreeiphone\.org$
 (^|\.)getagiftonline\.com$
+(^|\.)getlink\.pw$
 (^|\.)getmyads24\.com$
 (^|\.)getmyads\.com$
 (^|\.)getmyfreebabystuff\.com$
@@ -21406,6 +21407,7 @@
 (^|\.)onclicksuper\.com$
 (^|\.)onclkds\.com$
 (^|\.)oneluckyvisitor\.org$
+(^|\.)onet\.hit\.gemius\.pl$
 (^|\.)onlinadverts\.com$
 (^|\.)online1\.webcams\.com$
 (^|\.)onlineads\.magicvalley\.com$
@@ -21682,6 +21684,7 @@
 (^|\.)prizestohandle\.club$
 (^|\.)prjcq\.com$
 (^|\.)problem-check-700\.com$
+(^|\.)probusinesshub\.com$
 (^|\.)prod-a\.applovin\.com$
 (^|\.)prod-e\.sprtad\.com$
 (^|\.)productopinionpanel\.com$
@@ -22228,6 +22231,7 @@
 (^|\.)sfads\.osdn\.com$
 (^|\.)s\.flite\.com$
 (^|\.)sg\.adserver\.yahoo\.com$
+(^|\.)sgqcvfjvr\.onet\.pl$
 (^|\.)sgs001\.adtech\.de$
 (^|\.)sgs001\.adtech\.fr$
 (^|\.)sgs001\.adtech\.us$
@@ -22742,6 +22746,7 @@
 (^|\.)trk\.vidible\.tv$
 (^|\.)trk\.yadomedia\.com$
 (^|\.)tropiccritics\.com$
+(^|\.)trourted\.pro$
 (^|\.)tr\.tu\.connect\.wunderloop\.net$
 (^|\.)trustaffs\.com$
 (^|\.)trustedmacleaner\.click$
@@ -23356,6 +23361,7 @@
 (^|\.)www\.art-photo-music-premiumblvd\.com$
 (^|\.)www\.art-photo-music-rewardempire\.com$
 (^|\.)www\.art-photo-music-savingblvd\.com$
+(^|\.)www\.aspesa\.info$
 (^|\.)www\.atpanel\.com$
 (^|\.)www\.auctionshare\.net$
 (^|\.)www\.aureate\.com$
@@ -23429,6 +23435,7 @@
 (^|\.)www\.buyhitscheap\.com$
 (^|\.)www\.buzzadnetwork\.com$
 (^|\.)www\.buzzonclick\.com$
+(^|\.)www\.bvfsc\.info$
 (^|\.)www\.cafecoquin\.com$
 (^|\.)www\.cam4\.fr$
 (^|\.)www\.canuckmethods\.com$
@@ -23472,6 +23479,8 @@
 (^|\.)www\.clickxchange\.com$
 (^|\.)www\.closeoutproductsreview\.com$
 (^|\.)www\.cm1359\.com$
+(^|\.)www\.coin-ad\.com$
+(^|\.)www\.coinad\.com$
 (^|\.)www\.coinzilla\.io$
 (^|\.)www\.come-see-it-all\.com$
 (^|\.)www\.commerce-offer\.com$
@@ -23507,6 +23516,7 @@
 (^|\.)www\.cryptocoinsad\.com$
 (^|\.)www\.ctbdev\.net$
 (^|\.)www\.cyber-incentives\.com$
+(^|\.)www\.czilladx\.com$
 (^|\.)www\.d03x2011\.com$
 (^|\.)www\.da-ads\.com$
 (^|\.)www\.daily-saver\.com$
@@ -23641,6 +23651,7 @@
 (^|\.)www\.getagiftonline\.com$
 (^|\.)www\.getfilemacgetdmg\.com$
 (^|\.)www\.getfilesmact\.com$
+(^|\.)www\.getlink\.pw$
 (^|\.)www\.getloan\.com$
 (^|\.)www\.getmyads24\.com$
 (^|\.)www\.getmyfreebabystuff\.com$
@@ -23905,6 +23916,7 @@
 (^|\.)www\.premium-reward-club\.com$
 (^|\.)www\.prizes\.co\.uk$
 (^|\.)www\.probabilidades\.net$
+(^|\.)www\.probusinesshub\.com$
 (^|\.)www\.productopinionpanel\.com$
 (^|\.)www\.productresearchpanel\.com$
 (^|\.)www\.producttestpanel\.com$
@@ -24059,6 +24071,7 @@
 (^|\.)www\.trendsonline\.mobi$
 (^|\.)www\.trkfl\.com$
 (^|\.)www\.trndsys\.mobi$
+(^|\.)www\.trourted\.pro$
 (^|\.)www\.ttnet\.yandex\.com\.tr$
 (^|\.)www\.xn--turkishirlines-1p8g\.com$
 (^|\.)www\.turn\.com$
@@ -30810,7 +30823,6 @@
 (^|\.)oglasnikadhr\.hit\.gemius\.pl$
 (^|\.)ohtulehtadee\.hit\.gemius\.pl$
 (^|\.)olx\.hit\.gemius\.pl$
-(^|\.)onet\.hit\.gemius\.pl$
 (^|\.)opt\.hit\.gemius\.pl$
 (^|\.)prefix\.hit\.gemius\.pl$
 (^|\.)pracuj\.hit\.gemius\.pl$
@@ -62006,6 +62018,7 @@
 (^|\.)start\.driftt\.com$
 (^|\.)status\.driftt\.com$
 (^|\.)www\.driftt\.com$
+(^|\.)beacon\.dropbox\.com$
 (^|\.)marketing\.dropbox\.com$
 (^|\.)pixel\.duckduckgo\.com$
 (^|\.)dynamicyield\.com$
@@ -64336,6 +64349,7 @@
 (^|\.)ldap\.gaeadata\.com$
 (^|\.)ldap-admin\.gaeadata\.com$
 (^|\.)pixel\.getchute\.com$
+(^|\.)lb0-telemetry-prod-us-east-1\.servers\.getgo\.com$
 (^|\.)telemetry\.servers\.getgo\.com$
 (^|\.)analytics\.getpostman\.com$
 (^|\.)getsitecontrol\.com$
@@ -64522,6 +64536,7 @@
 (^|\.)rp\.gwallet\.com$
 (^|\.)static\.h-bid\.com$
 (^|\.)dev\.static\.h-bid\.com$
+(^|\.)smetrics\.hbogo\.com$
 (^|\.)metrics\.hbonow\.com$
 (^|\.)smetrics\.hbonow\.com$
 (^|\.)fs-client-logger\.herokuapp\.com$
@@ -67208,6 +67223,8 @@
 (^|\.)www\.x\.bidswitch\.net$
 (^|\.)recommenderprodwestus\.cloudapp\.net$
 (^|\.)sconsentit903\.cloudapp\.net$
+(^|\.)sconsentit904\.cloudapp\.net$
+(^|\.)sconsentit910\.cloudapp\.net$
 (^|\.)taboola\.com\.cdn\.cloudflare\.net$
 (^|\.)vidstat\.taboola\.com\.cdn\.cloudflare\.net$
 (^|\.)assets-auto\.rbl\.ms\.cdn\.cloudflare\.net$
@@ -67298,6 +67315,7 @@
 (^|\.)uk\.doubleclick\.net$
 (^|\.)dt-cdn\.net$
 (^|\.)rubiconproject\.dyns\.net$
+(^|\.)cs254\.wac\.edgecastcdn\.net$
 (^|\.)measuread\.com\.edgekey\.net$
 (^|\.)wildcard\.measuread\.com\.edgekey\.net$
 (^|\.)moatads\.com\.edgekey\.net$
@@ -68624,6 +68642,7 @@
 (^|\.)edu-all\.ru$
 (^|\.)edukacja2018\.pl$
 (^|\.)emobi-sys\.com$
+(^|\.)dw\.lp\.eu\.emobi-sys\.com$
 (^|\.)euroagd\.net$
 (^|\.)extragenerators\.xyz$
 (^|\.)flirtarepertutti\.com$
@@ -68778,6 +68797,7 @@
 (^|\.)uploadtops\.is$
 (^|\.)warszawski-serwis-laptopow\.warszawa\.pl$
 (^|\.)wielkanagroda\.com$
+(^|\.)ce\.wielkanagroda\.com$
 (^|\.)wooptrk\.com$
 (^|\.)world-of-money\.eu$
 (^|\.)www\.popcornvod\.com$
@@ -68824,6 +68844,29 @@
 (^|\.)pyracity\.info$
 (^|\.)twoje-piekno\.pl$
 (^|\.)vision2020\.pl$
+(^|\.)www\.konkursynagrody\.pl$
+(^|\.)econtent\.pl$
+(^|\.)plik-pobierz\.pl$
+(^|\.)gimail\.top$
+(^|\.)play\.leadzu\.com$
+(^|\.)leadzu\.com$
+(^|\.)novumedical\.pl$
+(^|\.)mazowieckiecentrummedyczne\.pl$
+(^|\.)free-gg\.com$
+(^|\.)rbxfree\.com$
+(^|\.)fortnite-vbuck\.com$
+(^|\.)free-steam-code\.com$
+(^|\.)adsheads\.go2affise\.com$
+(^|\.)www\.geniustrainer\.net$
+(^|\.)expleates\.pro$
+(^|\.)usa\.cc$
+(^|\.)best2018games\.com$
+(^|\.)www\.jghkjl\.info$
+(^|\.)princessmask\.pro$
+(^|\.)pl\.princessmask\.pro$
+(^|\.)optimask-pro\.com$
+(^|\.)yummymobile\.pl$
+(^|\.)thecryptogenius\.com$
 (^|\.)bio-chemik24\.pl$
 (^|\.)jerzyzieba\.com$
 (^|\.)odpowiedzialni-rodzice\.pl$
@@ -68833,6 +68876,7 @@
 (^|\.)timeforvitamins\.com$
 (^|\.)ukryteterapie\.pl$
 (^|\.)vaccgenocide\.wordpress\.com$
+(^|\.)wiesci24\.pl$
 (^|\.)www\.odkrywamyzakryte\.com$
 (^|\.)www\.witnatura\.pl$
 (^|\.)rosalieeve\.pl$
@@ -69078,6 +69122,19 @@
 (^|\.)polska-nagroda\.off\.ltd$
 (^|\.)snekdeal\.com$
 (^|\.)www\.tylko-dla-ciebie\.com$
+(^|\.)filedownloader\.pl$
+(^|\.)stream24\.com\.pl$
+(^|\.)rapid-host\.pl$
+(^|\.)hostplik\.pl$
+(^|\.)zarejestruj-sie\.pl$
+(^|\.)discfile\.pl$
+(^|\.)i-podgladacz\.pl$
+(^|\.)max-host\.pl$
+(^|\.)zmien-kolor\.pl$
+(^|\.)losowa-gra\.pl$
+(^|\.)sportowy-stream\.pl$
+(^|\.)regme\.pl$
+(^|\.)vids24\.pl$
 (^|\.)testujiq\.pl$
 (^|\.)spaceforyou\.cc$
 (^|\.)mundialove\.pl$
@@ -72040,6 +72097,12 @@
 103.119.28.0/22
 103.119.44.0/22
 103.1.20.0/22
+103.120.100.0/22
+103.120.52.0/22
+103.120.72.0/22
+103.120.76.0/24
+103.120.88.0/22
+103.120.96.0/22
 103.12.136.0/22
 103.12.184.0/22
 103.12.232.0/22

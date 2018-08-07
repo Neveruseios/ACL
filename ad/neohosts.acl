@@ -1,6 +1,6 @@
 #*********************************************************$
 #url=https://github\.com/neofelhz/neohosts$
-#version=20180727095550$
+#version=20180807033818$
 #*********************************************************$
 (^|\.)0127\.adsame\.com$
 (^|\.)0aqpqdju\.me$
@@ -109,7 +109,6 @@
 (^|\.)acookie\.alimama\.com$
 (^|\.)acookie\.linezing\.com$
 (^|\.)acs4baichuan\.m\.taobao\.com$
-(^|\.)acstatic-dun\.126\.net$
 (^|\.)act\.commercial\.shouji\.360\.cn$
 (^|\.)activate\.adobe\.com$
 (^|\.)activate-sea\.adobe\.com$
@@ -1773,7 +1772,6 @@
 (^|\.)mobileads\.google\.com$
 (^|\.)mobileads\.msn\.com$
 (^|\.)mobilelog\.kugou\.com$
-(^|\.)mobile\.qzone\.qq\.com$
 (^|\.)mo\.haloapps\.cn$
 (^|\.)moka\.inte\.sogoucdn\.com$
 (^|\.)monitor\.uu\.qq\.com$
@@ -3454,7 +3452,6 @@
 :: acookie\.alimama\.com$
 :: acookie\.linezing\.com$
 :: acs4baichuan\.m\.taobao\.com$
-:: acstatic-dun\.126\.net$
 :: act\.commercial\.shouji\.360\.cn$
 :: activate\.adobe\.com$
 :: activate-sea\.adobe\.com$
@@ -5118,7 +5115,6 @@
 :: mobileads\.google\.com$
 :: mobileads\.msn\.com$
 :: mobilelog\.kugou\.com$
-:: mobile\.qzone\.qq\.com$
 :: mo\.haloapps\.cn$
 :: moka\.inte\.sogoucdn\.com$
 :: monitor\.uu\.qq\.com$
