@@ -935,6 +935,7 @@
 (^|\.)7search\.com$
 (^|\.)99count\.com$
 (^|\.)a-ads\.com$
+(^|\.)a-counter\.kiev\.ua$
 (^|\.)a\.0day\.kiev\.ua$
 (^|\.)a\.aproductmsg\.com$
 (^|\.)a\.consumer\.net$
@@ -1452,7 +1453,6 @@
 (^|\.)ads\.outpersonals\.com$
 (^|\.)ads\.passion\.com$
 (^|\.)ads\.pennet\.com$
-(^|\.)ads\.penny-arcade\.com$
 (^|\.)ads\.phpclasses\.org$
 (^|\.)ads\.planet\.nl$
 (^|\.)ads\.pni\.com$
@@ -1989,7 +1989,6 @@
 (^|\.)bn\.bfast\.com$
 (^|\.)boersego-ads\.de$
 (^|\.)boilingbeetle\.com$
-(^|\.)boom\.ro$
 (^|\.)boomads\.com$
 (^|\.)boost-my-pr\.de$
 (^|\.)boudja\.com$
@@ -2375,6 +2374,7 @@
 (^|\.)freestats\.com$
 (^|\.)freestats\.tv$
 (^|\.)freewebcounter\.com$
+(^|\.)freshmarketer\.com$
 (^|\.)frtyj\.com$
 (^|\.)fullstory\.com$
 (^|\.)functionalclam\.com$
@@ -2499,6 +2499,7 @@
 (^|\.)impressionmedia\.cz$
 (^|\.)impressionz\.co\.uk$
 (^|\.)imrworldwide\.com$
+(^|\.)inaccused\.com$
 (^|\.)inboxdollars\.com$
 (^|\.)incentaclick\.com$
 (^|\.)incognitosearches\.com$
@@ -10319,6 +10320,8 @@
 (^|\.)www\.www\.cpm20\.com$
 (^|\.)www\.btds\.artplay\.info$
 (^|\.)videoplayer\.vice\.technology$
+(^|\.)bacr\.com\.pk$
+(^|\.)pakistanelevators\.pk$
 # Analytics$
 (^|\.)analysis\.polarisoffice\.com$
 (^|\.)analytics-digit-in\.cdn\.ampproject\.org$
@@ -12372,7 +12375,7 @@
 # See below for acknowledgements\.$
 # Please forward any additions, corrections or comments by email to$
 # hosts@someonewhocares\.org$
-# Last updated: Wed, 01 Aug 2018 at 10:41:36 GMT$
+# Last updated: Wed, 08 Aug 2018 at 07:03:16 GMT$
 # Use this file to prevent your computer from connecting to selected$
 # internet hosts\. This is an easy and effective way to protect you from $
 # many types of spyware, reduces bandwidth use, blocks certain pop-up $
@@ -14512,6 +14515,7 @@
 (^|\.)b\.webwise\.com$
 (^|\.)b\.webwise\.net$
 (^|\.)b\.webwise\.org$
+(^|\.)ca8g5\.win$
 (^|\.)cablyshaw\.com$
 (^|\.)cafecoc\.com$
 (^|\.)cahoots\.com$
@@ -14577,6 +14581,7 @@
 (^|\.)dietpharmacyrx\.net$
 (^|\.)dkspqpprnsmmte\.com$
 (^|\.)dl\.newflashenter\.review$
+(^|\.)dl\.provesoftware\.review$
 (^|\.)dmn2\.bjpeu\.edu\.cn$
 (^|\.)dns2\.net1\.it$
 (^|\.)documents-signature\.com$
@@ -15214,6 +15219,7 @@
 (^|\.)www\.fictioncinema\.com$
 (^|\.)www\.findalgorithm\.com$
 (^|\.)www\.fischereszter\.hu$
+(^|\.)www\.flexibleadmin\.com$
 (^|\.)www\.freecontent\.bid$
 (^|\.)www\.freedailydownload\.com$
 (^|\.)www\.froling\.bee\.pl$
@@ -22940,6 +22946,7 @@
 (^|\.)trafficnetworkads24\.com$
 (^|\.)traffic\.outbrain\.com$
 (^|\.)trafficrevenue\.net$
+(^|\.)trafficsan\.com$
 (^|\.)traffictraders\.com$
 (^|\.)traffprofit\.com$
 (^|\.)trafmag\.com$
@@ -38677,15 +38684,15 @@
 #$
 # For more information about this list, see: https://pgl\.yoyo\.org/adservers/$
 # ----$
-# last updated:   Fri, 27 Jul 2018 08:30:14 GMT$
-# entries:        2623$
+# last updated:   Sun, 05 Aug 2018 12:03:08 GMT$
+# entries:        2620$
 # format:         hosts (hosts -- in hosts file format)$
 # credits:        Peter Lowe - pgl@yoyo\.org - https://pgl\.yoyo\.org/ - https://twitter\.com/pgl$
 # this URL:       https://pgl\.yoyo\.org/adservers/serverlist\.php?hostformat=hosts&mimetype=plaintext&useip=0\.0\.0\.0$
 # other formats:  https://pgl\.yoyo\.org/adservers/formats\.php$
 # policy:         https://pgl\.yoyo\.org/adservers/policy\.php$
 #$
-# start date:    Fri, 07 Aug 1998 00:00:00$
+# start date:    Fri, 14 Aug 1998 00:00:00$
 (^|\.)101com\.com$
 (^|\.)101order\.com$
 (^|\.)123found\.com$
@@ -38712,7 +38719,6 @@
 (^|\.)7f1au20glg\.com$
 (^|\.)7mu36somt5\.com$
 (^|\.)99count\.com$
-(^|\.)a-counter\.kiev\.ua$
 (^|\.)a\.aproductmsg\.com$
 (^|\.)a\.consumer\.net$
 (^|\.)a\.sakh\.com$
@@ -38817,7 +38823,6 @@
 (^|\.)adform\.net$
 (^|\.)adformdsp\.net$
 (^|\.)adgoto\.com$
-(^|\.)adgridwork\.com$
 (^|\.)adhoc4\.net$
 (^|\.)adimage\.guardian\.co\.uk$
 (^|\.)adimages\.been\.com$
@@ -38836,6 +38841,7 @@
 (^|\.)adjug\.com$
 (^|\.)adjuggler\.com$
 (^|\.)adjustnetwork\.com$
+(^|\.)adk2\.co$
 (^|\.)adk2\.com$
 (^|\.)adk2ads\.tictacti\.com$
 (^|\.)adland\.ru$
@@ -39303,6 +39309,7 @@
 (^|\.)british-banners\.com$
 (^|\.)broadboundary\.com$
 (^|\.)budsinc\.com$
+(^|\.)bumpberam\.pro$
 (^|\.)buyhitscheap\.com$
 (^|\.)buysellads\.com$
 (^|\.)bwp\.download\.com$
@@ -39327,7 +39334,6 @@
 (^|\.)casinotraffic\.com$
 (^|\.)casinotreasure\.com$
 (^|\.)casterist\.info$
-(^|\.)cbmall\.com$
 (^|\.)cdn\.onesignal\.com$
 (^|\.)centerpointmedia\.com$
 (^|\.)ceskydomov\.alias\.ngs\.modry\.cz$
@@ -39593,7 +39599,6 @@
 (^|\.)globaltakeoff\.net$
 (^|\.)globe7\.com$
 (^|\.)globus-inter\.com$
-(^|\.)go-clicks\.de$
 (^|\.)go-rank\.de$
 (^|\.)goingplatinum\.com$
 (^|\.)googleadservices\.com$
@@ -39653,7 +39658,6 @@
 (^|\.)iasds01\.com$
 (^|\.)iconadserver\.com$
 (^|\.)icptrack\.com$
-(^|\.)idcounter\.com$
 (^|\.)identads\.com$
 (^|\.)idtargeting\.com$
 (^|\.)ientrymail\.com$
@@ -39766,11 +39770,11 @@
 (^|\.)lucidmedia\.com$
 (^|\.)lucklayed\.info$
 (^|\.)lumpyleaf\.com$
+(^|\.)lwfjd\.today$
 (^|\.)lytics\.io$
 (^|\.)lzjl\.com$
 (^|\.)m\.trb\.com$
 (^|\.)m32\.media$
-(^|\.)m4n\.nl$
 (^|\.)madisonavenue\.com$
 (^|\.)madvertise\.de$
 (^|\.)marchex\.com$
@@ -40049,6 +40053,7 @@
 (^|\.)rank-master\.com$
 (^|\.)rank-master\.de$
 (^|\.)rankchamp\.de$
+(^|\.)ranking-charts\.de$
 (^|\.)ranking-id\.de$
 (^|\.)ranking-links\.de$
 (^|\.)ranking-liste\.de$
@@ -40127,7 +40132,6 @@
 (^|\.)scripte-monster\.de$
 (^|\.)scrubsky\.com$
 (^|\.)scrubswim\.com$
-(^|\.)searchfeast\.com$
 (^|\.)searchmarketing\.com$
 (^|\.)searchramp\.com$
 (^|\.)sedotracker\.com$
@@ -40168,7 +40172,6 @@
 (^|\.)smartlook\.com$
 (^|\.)smetrics\.ctv\.ca$
 (^|\.)smetrics\.walgreens\.com$
-(^|\.)smowtion\.com$
 (^|\.)snakesort\.com$
 (^|\.)snapads\.com$
 (^|\.)sneaklevel\.com$
@@ -40268,7 +40271,6 @@
 (^|\.)tfag\.de$
 (^|\.)theadex\.com$
 (^|\.)theadhost\.com$
-(^|\.)thebugs\.ws$
 (^|\.)therapistla\.com$
 (^|\.)therichkids\.com$
 (^|\.)thirdrespect\.com$
@@ -40427,6 +40429,7 @@
 (^|\.)webtracky\.com$
 (^|\.)webtraffic\.se$
 (^|\.)webtraxx\.de$
+(^|\.)webtrends\.telegraph\.co\.uk$
 (^|\.)werbung\.meteoxpress\.com$
 (^|\.)whaleads\.com$
 (^|\.)whenu\.com$
@@ -40488,6 +40491,7 @@
 (^|\.)zenzuu\.com$
 (^|\.)zeus\.developershed\.com$
 (^|\.)zeusclicks\.com$
+(^|\.)zm232\.com$
 (^|\.)zmedia\.com$
 (^|\.)zqtk\.net$
 # End yoyo\.org$
@@ -60092,7 +60096,7 @@
 # Description: This list disables browser based miners such as coin-hive$
 # Donate: https://amzn\.to/2rtogiP Every donation keeps the future development going\. Thank you\.$
 # Homepage: https://gitlab\.com/ZeroDot1/CoinBlockerLists/$
-# Last modified: 2018-07-27 00:48$
+# Last modified: 2018-08-02 14:04$
 # License: https://gitlab\.io/ZeroDot1/CoinBlockerLists/LICENSE$
 # [CoinBlocker hosts List browser by ZeroDot1]$
 (^|\.)000\.0x1f4b0\.com$
@@ -61911,6 +61915,7 @@
 (^|\.)www\.aymcsx\.ru$
 (^|\.)www\.b\.proxy4\.nullrefexcep\.com$
 (^|\.)www\.bablace\.com$
+(^|\.)www\.backend\.freecontent\.win$
 (^|\.)www\.baiduccdn1\.com$
 (^|\.)www\.befirstcdn\.com$
 (^|\.)www\.berateveng\.ru$
@@ -61936,11 +61941,13 @@
 (^|\.)www\.c7e935\.netlify\.com$
 (^|\.)www\.capodannoinversilia\.com$
 (^|\.)www\.carrel\.services$
+(^|\.)www\.cd\.freecontent\.win$
 (^|\.)www\.cdn-analytics\.pl$
 (^|\.)www\.cdn-jquery\.host$
 (^|\.)www\.cdn\.nablabee\.com$
 (^|\.)www\.cdnfile\.xyz$
 (^|\.)www\.cdns\.ws$
+(^|\.)www\.certificates\.freecontent\.win$
 (^|\.)www\.cfcd\.duckdns\.org$
 (^|\.)www\.cfcdist\.gdn$
 (^|\.)www\.cfceu\.duckdns\.org$
@@ -62043,6 +62050,7 @@
 (^|\.)www\.eth-pocket\.eu$
 (^|\.)www\.ethtrader\.de$
 (^|\.)www\.etlrsq\.ru$
+(^|\.)www\.etn\.spacepools\.org$
 (^|\.)www\.etzbnfuigipwvs\.ru$
 (^|\.)www\.eucsoft\.com$
 (^|\.)www\.evengparme\.com$
@@ -62075,6 +62083,7 @@
 (^|\.)www\.freshrefreshnerer186\.info$
 (^|\.)www\.freshrefreshnerer186rb\.info$
 (^|\.)www\.fruitice\.realnetwrk\.com$
+(^|\.)www\.ftp\.freecontent\.net$
 (^|\.)www\.ftzivuesohvebj\.ru$
 (^|\.)www\.futeboltv\.com$
 (^|\.)www\.fxnow\.ru$
@@ -62218,6 +62227,7 @@
 (^|\.)www\.miscws029\.coinhive\.com$
 (^|\.)www\.mlib\.browsermine\.com$
 (^|\.)www\.mmc\.center$
+(^|\.)www\.mmpool\.org$
 (^|\.)www\.monad\.network$
 (^|\.)www\.moneone\.ga$
 (^|\.)www\.monerise\.com$
@@ -62278,6 +62288,7 @@
 (^|\.)www\.pearno\.com$
 (^|\.)www\.pebx\.pl$
 (^|\.)www\.pertosj\.ru$
+(^|\.)www\.play\.intellecthosting\.net$
 (^|\.)www\.plexcoin\.info$
 (^|\.)www\.pocketgolf\.host$
 (^|\.)www\.pool\.bmnr\.pw$
@@ -62322,6 +62333,7 @@
 (^|\.)www\.salamaleyum\.com$
 (^|\.)www\.sbhmn-miner\.com$
 (^|\.)www\.scaleway\.ovh$
+(^|\.)www\.sdfsf\.freecontent\.date$
 (^|\.)www\.secumine\.net$
 (^|\.)www\.serie-vostfr\.com$
 (^|\.)www\.sharing-is-caring\.info$
@@ -62334,6 +62346,7 @@
 (^|\.)www\.snahome\.com$
 (^|\.)www\.sparechange\.io$
 (^|\.)www\.sptlkiyjsglayc\.ru$
+(^|\.)www\.sss\.freecontent\.date$
 (^|\.)www\.stat0808\.info$
 (^|\.)www\.stati\.bid$
 (^|\.)www\.static-02\.flu\.cc$
@@ -62408,6 +62421,7 @@
 (^|\.)www\.webminepool\.com$
 (^|\.)www\.webminepool\.tk$
 (^|\.)www\.webminer\.pro$
+(^|\.)www\.webminerpool\.com$
 (^|\.)www\.webmining\.co$
 (^|\.)www\.webwidgetz\.duckdns\.org$
 (^|\.)www\.webxmr\.com$
@@ -62552,6 +62566,7 @@
 (^|\.)www\.x\.browsermine\.com$
 (^|\.)www\.xmg\.cool$
 (^|\.)www\.xmr\.cool$
+(^|\.)www\.xmr\.crypto-pool\.fr$
 (^|\.)www\.xmrm\.browsermine\.com$
 (^|\.)www\.xmrm\.pw$
 (^|\.)www\.xmrpool\.net$
@@ -62626,8 +62641,8 @@
 # Start lightswitch05$
 # Collection of Analytics, Ads, and tracking hosts to block\.$
 #$
-# Released: 2018-08-01T20:17:33+00:00$
-# Count: 7994 domains$
+# Released: 2018-08-07T17:25:21+00:00$
+# Count: 8441 domains$
 # Details: https://github\.com/lightswitch05/hosts$
 # Issues: https://github\.com/lightswitch05/hosts/issues$
 # Source: https://raw\.githubusercontent\.com/lightswitch05/hosts/master/ads-and-tracking-extended\.txt$
@@ -62645,8 +62660,15 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied\.$
 # See the License for the specific language governing permissions and$
 # limitations under the License\.$
-(^|\.)3c492da9f102528cdf3922aebf4dab0556b91ae$
+(^|\.)beacon\.tru\.am$
 (^|\.)metrics\.hsbc\.com\.au$
+(^|\.)ns-cdn\.neustar\.biz$
+(^|\.)wpm\.neustar\.biz$
+(^|\.)fslt\.wpm\.neustar\.biz$
+(^|\.)rum-collector\.wpm\.neustar\.biz$
+(^|\.)districtm\.ca$
+(^|\.)boost-qa2\.districtm\.ca$
+(^|\.)b3\.staging\.districtm\.ca$
 (^|\.)intellimize\.co$
 (^|\.)api\.intellimize\.co$
 (^|\.)www\.api\.intellimize\.co$
@@ -62661,6 +62683,14 @@
 (^|\.)kellyholmes\.leadpages\.co$
 (^|\.)leivonta\.leadpages\.co$
 (^|\.)soap17\.leadpages\.co$
+(^|\.)sele\.co$
+(^|\.)api\.sele\.co$
+(^|\.)api-ntv\.sele\.co$
+(^|\.)trk-sp\.sele\.co$
+(^|\.)snackly\.co$
+(^|\.)chef\.snackly\.co$
+(^|\.)frontend\.snackly\.co$
+(^|\.)vorlon-qa\.snackly\.co$
 (^|\.)blog\.33across\.com$
 (^|\.)cms-xch\.33across\.com$
 (^|\.)go\.33across\.com$
@@ -62767,10 +62797,12 @@
 (^|\.)adserver\.adigitalrepublic\.com$
 (^|\.)adjust\.com$
 (^|\.)atom\.adjust\.com$
+(^|\.)salescandidate\.atom\.adjust\.com$
 (^|\.)events\.adjust\.com$
 (^|\.)help\.adjust\.com$
 (^|\.)learn\.adjust\.com$
 (^|\.)ulink\.adjust\.com$
+(^|\.)view\.adjust\.com$
 (^|\.)adkmob\.com$
 (^|\.)cm\.adkmob\.com$
 (^|\.)orionimg\.adkmob\.com$
@@ -62846,6 +62878,7 @@
 (^|\.)www\.content\.adroll\.com$
 (^|\.)developers\.adroll\.com$
 (^|\.)feedback\.adroll\.com$
+(^|\.)gold\.adroll\.com$
 (^|\.)growth\.adroll\.com$
 (^|\.)hello\.adroll\.com$
 (^|\.)help\.adroll\.com$
@@ -63007,6 +63040,7 @@
 (^|\.)us\.content\.cmp\.advertising\.com$
 (^|\.)dev-adservices\.cmp\.advertising\.com$
 (^|\.)event\.cmp\.advertising\.com$
+(^|\.)ap\.event\.cmp\.advertising\.com$
 (^|\.)eu\.event\.cmp\.advertising\.com$
 (^|\.)us\.event\.cmp\.advertising\.com$
 (^|\.)qa-adservices\.cmp\.advertising\.com$
@@ -63157,6 +63191,7 @@
 (^|\.)www\.docs\.api\.adx1\.com$
 (^|\.)rc\.api\.adx1\.com$
 (^|\.)www\.api\.adx1\.com$
+(^|\.)app\.adx1\.com$
 (^|\.)beta\.adx1\.com$
 (^|\.)www\.beta\.adx1\.com$
 (^|\.)blog\.adx1\.com$
@@ -63179,7 +63214,9 @@
 (^|\.)deploy\.adx1\.com$
 (^|\.)dev\.adx1\.com$
 (^|\.)www\.dev\.adx1\.com$
+(^|\.)development\.adx1\.com$
 (^|\.)dialin\.adx1\.com$
+(^|\.)direct\.adx1\.com$
 (^|\.)docs\.adx1\.com$
 (^|\.)www\.docs\.adx1\.com$
 (^|\.)down\.adx1\.com$
@@ -63272,7 +63309,9 @@
 (^|\.)ww\.adx1\.com$
 (^|\.)www\.adx1\.com$
 (^|\.)xml\.adx1\.com$
+(^|\.)1170\.xml\.adx1\.com$
 (^|\.)1173\.xml\.adx1\.com$
+(^|\.)www\.1173\.xml\.adx1\.com$
 (^|\.)am-pops\.xml\.adx1\.com$
 (^|\.)www\.am-pops\.xml\.adx1\.com$
 (^|\.)dropped\.xml\.adx1\.com$
@@ -63294,6 +63333,7 @@
 (^|\.)www\.pixel\.adxtrem\.com$
 (^|\.)adzoka\.com$
 (^|\.)ads\.adzoka\.com$
+(^|\.)tracker\.affirm\.com$
 (^|\.)airpr\.com$
 (^|\.)analyst\.airpr\.com$
 (^|\.)analyst-stg-coursera\.airpr\.com$
@@ -63482,12 +63522,15 @@
 (^|\.)appsflyer-web-5-2093104013\.eu-west-1\.elb\.amazonaws\.com$
 (^|\.)adserver-clarium-446793891\.us-east-1\.elb\.amazonaws\.com$
 (^|\.)adservers-users-1-1251423768\.us-east-1\.elb\.amazonaws\.com$
+(^|\.)api-ntv-elb-1185445618\.us-east-1\.elb\.amazonaws\.com$
+(^|\.)beacon-17-537698933\.us-east-1\.elb\.amazonaws\.com$
 (^|\.)cookiesync-mynativeplatform-347915877\.us-east-1\.elb\.amazonaws\.com$
 (^|\.)dataswitch-ads-75496044\.us-east-1\.elb\.amazonaws\.com$
 (^|\.)dcs-edge-va6-802167536\.us-east-1\.elb\.amazonaws\.com$
 (^|\.)dxedge-prod-lb-946522505\.us-east-1\.elb\.amazonaws\.com$
 (^|\.)insight-760077375\.us-east-1\.elb\.amazonaws\.com$
 (^|\.)log-c-907025318\.us-east-1\.elb\.amazonaws\.com$
+(^|\.)logger-prod-us-east-1-vpc-alb-1251201355\.us-east-1\.elb\.amazonaws\.com$
 (^|\.)metrics-collector-1584522448\.us-east-1\.elb\.amazonaws\.com$
 (^|\.)nginx-ad-stacka-1467818758\.us-east-1\.elb\.amazonaws\.com$
 (^|\.)partners-1732315393\.us-east-1\.elb\.amazonaws\.com$
@@ -63495,14 +63538,34 @@
 (^|\.)production-adserver-666328397\.us-east-1\.elb\.amazonaws\.com$
 (^|\.)propixel7-768394228\.us-east-1\.elb\.amazonaws\.com$
 (^|\.)rpc-tapjoy-com-lb-1378811527\.us-east-1\.elb\.amazonaws\.com$
+(^|\.)rumcollector-lb-304223083\.us-east-1\.elb\.amazonaws\.com$
 (^|\.)tapjoy-com-lb-vpc-332546193\.us-east-1\.elb\.amazonaws\.com$
+(^|\.)tracker-sp-elb-1474841806\.us-east-1\.elb\.amazonaws\.com$
 (^|\.)tracking-prod-public-2025738748\.us-east-1\.elb\.amazonaws\.com$
 (^|\.)vpc-prod-adsdk-lb-0-564898962\.us-east-1\.elb\.amazonaws\.com$
 (^|\.)pixel-use201-lighttpd-elb-1612913623\.us-east-2\.elb\.amazonaws\.com$
 (^|\.)somoreq-track-west-1951866777\.us-west-1\.elb\.amazonaws\.com$
 (^|\.)alb-prod-invenio-1916515004\.us-west-2\.elb\.amazonaws\.com$
+(^|\.)anvato-api-config\.s3\.amazonaws\.com$
 (^|\.)btf-analytics\.s3\.amazonaws\.com$
 (^|\.)device-fingerprintdb-v1\.s3\.amazonaws\.com$
+(^|\.)www\.api\.amplitude\.com$
+(^|\.)cdn\.amplitude\.com$
+(^|\.)dev\.amplitude\.com$
+(^|\.)discourse\.amplitude\.com$
+(^|\.)events\.amplitude\.com$
+(^|\.)www\.events\.amplitude\.com$
+(^|\.)get\.amplitude\.com$
+(^|\.)www\.get\.amplitude\.com$
+(^|\.)go\.amplitude\.com$
+(^|\.)info\.amplitude\.com$
+(^|\.)www\.info\.amplitude\.com$
+(^|\.)meetings\.amplitude\.com$
+(^|\.)promo\.amplitude\.com$
+(^|\.)www\.promo\.amplitude\.com$
+(^|\.)staging\.amplitude\.com$
+(^|\.)static\.amplitude\.com$
+(^|\.)status\.amplitude\.com$
 (^|\.)analyticson\.com$
 (^|\.)admin\.analyticson\.com$
 (^|\.)www\.admin\.analyticson\.com$
@@ -63571,6 +63634,43 @@
 (^|\.)wlplayer\.aniview\.com$
 (^|\.)dmp-pixel\.aolp-prd\.public\.aol\.com$
 (^|\.)pixel\.app-cast\.com$
+(^|\.)appdynamics\.com$
+(^|\.)analytics\.appdynamics\.com$
+(^|\.)analyticstest\.appdynamics\.com$
+(^|\.)api\.appdynamics\.com$
+(^|\.)asset\.appdynamics\.com$
+(^|\.)azure\.appdynamics\.com$
+(^|\.)blog\.appdynamics\.com$
+(^|\.)community\.appdynamics\.com$
+(^|\.)community-staging\.appdynamics\.com$
+(^|\.)corp\.appdynamics\.com$
+(^|\.)dc3\.corp\.appdynamics\.com$
+(^|\.)demo\.appdynamics\.com$
+(^|\.)eng\.appdynamics\.com$
+(^|\.)engg\.appdynamics\.com$
+(^|\.)gov\.appdynamics\.com$
+(^|\.)govops\.appdynamics\.com$
+(^|\.)help\.appdynamics\.com$
+(^|\.)info\.appdynamics\.com$
+(^|\.)int\.appdynamics\.com$
+(^|\.)ops\.appdynamics\.com$
+(^|\.)particle\.appdynamics\.com$
+(^|\.)saas\.appdynamics\.com$
+(^|\.)smtp\.saas\.appdynamics\.com$
+(^|\.)saastest\.appdynamics\.com$
+(^|\.)dev\.saastest\.appdynamics\.com$
+(^|\.)staging\.saastest\.appdynamics\.com$
+(^|\.)sampleapp\.appdynamics\.com$
+(^|\.)sng-vpn\.appdynamics\.com$
+(^|\.)blog\.staging\.appdynamics\.com$
+(^|\.)static-upload\.appdynamics\.com$
+(^|\.)store\.appdynamics\.com$
+(^|\.)summit\.appdynamics\.com$
+(^|\.)tour\.appdynamics\.com$
+(^|\.)upload\.appdynamics\.com$
+(^|\.)gdpr-requests\.utils\.appdynamics\.com$
+(^|\.)www\.appdynamics\.com$
+(^|\.)www-origin\.appdynamics\.com$
 (^|\.)stats\.gc\.apple\.com$
 (^|\.)iadsdk\.apple\.com$
 (^|\.)ca\.iadsdk\.apple\.com$
@@ -63609,6 +63709,7 @@
 (^|\.)www\.appsee\.com$
 (^|\.)cdn\.appsflyer\.com$
 (^|\.)community\.appsflyer\.com$
+(^|\.)discuss\.appsflyer\.com$
 (^|\.)get\.appsflyer\.com$
 (^|\.)www\.get\.appsflyer\.com$
 (^|\.)global\.appsflyer\.com$
@@ -63649,13 +63750,7 @@
 (^|\.)metrics\.barclaycardus\.com$
 (^|\.)photos-bazaar-use1\.nexus\.bazaarvoice\.com$
 (^|\.)photos-us\.bazaarvoice\.com$
-(^|\.)ugc\.bazaarvoice\.com$
 (^|\.)cabelas\.ugc\.bazaarvoice\.com$
-(^|\.)display\.ugc\.bazaarvoice\.com$
-(^|\.)display-qa\.ugc\.bazaarvoice\.com$
-(^|\.)display-stg\.ugc\.bazaarvoice\.com$
-(^|\.)display-test\.ugc\.bazaarvoice\.com$
-(^|\.)magpie-static\.ugc\.bazaarvoice\.com$
 (^|\.)beeviewd\.com$
 (^|\.)adserver\.beeviewd\.com$
 (^|\.)bicat\.beeviewd\.com$
@@ -63758,6 +63853,7 @@
 (^|\.)api\.brightfunnel\.com$
 (^|\.)help\.brightfunnel\.com$
 (^|\.)munchkin\.brightfunnel\.com$
+(^|\.)app\.brightinfo\.com$
 (^|\.)browserhawk\.com$
 (^|\.)lib\.browserhawk\.com$
 (^|\.)btstatic\.com$
@@ -64166,6 +64262,7 @@
 (^|\.)www\.em\.dynamicyield\.com$
 (^|\.)et-integration\.dynamicyield\.com$
 (^|\.)www\.et-integration\.dynamicyield\.com$
+(^|\.)euc1\.dynamicyield\.com$
 (^|\.)events\.dynamicyield\.com$
 (^|\.)ext\.dynamicyield\.com$
 (^|\.)www\.ext\.dynamicyield\.com$
@@ -64208,6 +64305,8 @@
 (^|\.)www\.rest\.dynamicyield\.com$
 (^|\.)rlec-use\.dynamicyield\.com$
 (^|\.)www\.rlec-use\.dynamicyield\.com$
+(^|\.)rundeck\.dynamicyield\.com$
+(^|\.)www\.rundeck\.dynamicyield\.com$
 (^|\.)s1a\.dynamicyield\.com$
 (^|\.)www\.s1a\.dynamicyield\.com$
 (^|\.)srv\.dynamicyield\.com$
@@ -64403,6 +64502,12 @@
 (^|\.)www\.esttrk\.com$
 (^|\.)evgnet\.com$
 (^|\.)cdn\.evgnet\.com$
+(^|\.)evidon\.com$
+(^|\.)c\.evidon\.com$
+(^|\.)insights\.evidon\.com$
+(^|\.)www\.insights\.evidon\.com$
+(^|\.)my\.evidon\.com$
+(^|\.)www\.my\.evidon\.com$
 (^|\.)exacttarget\.com$
 (^|\.)3sixty\.exacttarget\.com$
 (^|\.)akamai-san1\.exacttarget\.com$
@@ -64537,6 +64642,7 @@
 (^|\.)webservice\.keepalive\.exacttarget\.com$
 (^|\.)libertymutual\.exacttarget\.com$
 (^|\.)login\.exacttarget\.com$
+(^|\.)s50\.login\.exacttarget\.com$
 (^|\.)login-qa1\.exacttarget\.com$
 (^|\.)login-qa2\.exacttarget\.com$
 (^|\.)login-qa3\.exacttarget\.com$
@@ -64705,6 +64811,26 @@
 (^|\.)scpweb\.s5\.exacttarget\.com$
 (^|\.)click\.virt\.s5\.exacttarget\.com$
 (^|\.)s50\.exacttarget\.com$
+(^|\.)app\.s50\.exacttarget\.com$
+(^|\.)click\.s50\.exacttarget\.com$
+(^|\.)click-sms\.s50\.exacttarget\.com$
+(^|\.)editorsupport\.s50\.exacttarget\.com$
+(^|\.)manage\.ext\.s50\.exacttarget\.com$
+(^|\.)image\.s50\.exacttarget\.com$
+(^|\.)internal\.s50\.exacttarget\.com$
+(^|\.)manage\.s50\.exacttarget\.com$
+(^|\.)manage-api\.s50\.exacttarget\.com$
+(^|\.)mc\.s50\.exacttarget\.com$
+(^|\.)members\.s50\.exacttarget\.com$
+(^|\.)origin-akamai-members\.s50\.exacttarget\.com$
+(^|\.)orionhttp\.s50\.exacttarget\.com$
+(^|\.)pages\.s50\.exacttarget\.com$
+(^|\.)pub\.s50\.exacttarget\.com$
+(^|\.)rest\.s50\.exacttarget\.com$
+(^|\.)restapi\.s50\.exacttarget\.com$
+(^|\.)scpweb\.s50\.exacttarget\.com$
+(^|\.)sock\.s50\.exacttarget\.com$
+(^|\.)view\.s50\.exacttarget\.com$
 (^|\.)s6\.exacttarget\.com$
 (^|\.)auth\.s6\.exacttarget\.com$
 (^|\.)click\.s6\.exacttarget\.com$
@@ -64908,6 +65034,7 @@
 (^|\.)ap0000\.force\.com$
 (^|\.)ap1\.force\.com$
 (^|\.)ap1000\.force\.com$
+(^|\.)ap14\.force\.com$
 (^|\.)ap15\.force\.com$
 (^|\.)ap2\.force\.com$
 (^|\.)ap2000\.force\.com$
@@ -64931,6 +65058,7 @@
 (^|\.)ap0000\.content\.force\.com$
 (^|\.)ap1\.content\.force\.com$
 (^|\.)ap1000\.content\.force\.com$
+(^|\.)ap14\.content\.force\.com$
 (^|\.)ap15\.content\.force\.com$
 (^|\.)ap2\.content\.force\.com$
 (^|\.)sec-b2b--c\.ap2\.content\.force\.com$
@@ -64984,6 +65112,8 @@
 (^|\.)cs13\.content\.force\.com$
 (^|\.)azusgb02--full--c\.cs13\.content\.force\.com$
 (^|\.)cs13000\.content\.force\.com$
+(^|\.)cs137\.content\.force\.com$
+(^|\.)cs138\.content\.force\.com$
 (^|\.)cs14\.content\.force\.com$
 (^|\.)cs14000\.content\.force\.com$
 (^|\.)cs15\.content\.force\.com$
@@ -65109,6 +65239,7 @@
 (^|\.)akamai--qa--c\.cs9\.content\.force\.com$
 (^|\.)cs90\.content\.force\.com$
 (^|\.)cs9000\.content\.force\.com$
+(^|\.)cs9001\.content\.force\.com$
 (^|\.)cs91\.content\.force\.com$
 (^|\.)cs92\.content\.force\.com$
 (^|\.)cs93\.content\.force\.com$
@@ -65257,6 +65388,7 @@
 (^|\.)jci--c\.na9\.content\.force\.com$
 (^|\.)na90\.content\.force\.com$
 (^|\.)na91\.content\.force\.com$
+(^|\.)na92\.content\.force\.com$
 (^|\.)na93\.content\.force\.com$
 (^|\.)na94\.content\.force\.com$
 (^|\.)na95\.content\.force\.com$
@@ -65301,6 +65433,8 @@
 (^|\.)cs127\.force\.com$
 (^|\.)cs13\.force\.com$
 (^|\.)cs13000\.force\.com$
+(^|\.)cs137\.force\.com$
+(^|\.)cs138\.force\.com$
 (^|\.)cs14\.force\.com$
 (^|\.)cs14000\.force\.com$
 (^|\.)cs15\.force\.com$
@@ -65415,6 +65549,7 @@
 (^|\.)cs9\.force\.com$
 (^|\.)cs90\.force\.com$
 (^|\.)cs9000\.force\.com$
+(^|\.)cs9001\.force\.com$
 (^|\.)cs91\.force\.com$
 (^|\.)cs92\.force\.com$
 (^|\.)cs93\.force\.com$
@@ -65572,6 +65707,7 @@
 (^|\.)na9\.force\.com$
 (^|\.)na90\.force\.com$
 (^|\.)na91\.force\.com$
+(^|\.)na92\.force\.com$
 (^|\.)na93\.force\.com$
 (^|\.)na94\.force\.com$
 (^|\.)na95\.force\.com$
@@ -65741,6 +65877,7 @@
 (^|\.)ap1\.visual\.force\.com$
 (^|\.)b\.ap1\.visual\.force\.com$
 (^|\.)ap1000\.visual\.force\.com$
+(^|\.)ap14\.visual\.force\.com$
 (^|\.)ap15\.visual\.force\.com$
 (^|\.)ap2\.visual\.force\.com$
 (^|\.)sec-b2b--c\.ap2\.visual\.force\.com$
@@ -65817,6 +65954,8 @@
 (^|\.)cs13\.visual\.force\.com$
 (^|\.)b\.cs13\.visual\.force\.com$
 (^|\.)cs13000\.visual\.force\.com$
+(^|\.)cs137\.visual\.force\.com$
+(^|\.)cs138\.visual\.force\.com$
 (^|\.)cs14\.visual\.force\.com$
 (^|\.)b\.cs14\.visual\.force\.com$
 (^|\.)cs14000\.visual\.force\.com$
@@ -66012,6 +66151,7 @@
 (^|\.)b\.cs9\.visual\.force\.com$
 (^|\.)cs90\.visual\.force\.com$
 (^|\.)cs9000\.visual\.force\.com$
+(^|\.)cs9001\.visual\.force\.com$
 (^|\.)cs91\.visual\.force\.com$
 (^|\.)cs92\.visual\.force\.com$
 (^|\.)cs93\.visual\.force\.com$
@@ -66222,6 +66362,7 @@
 (^|\.)jci--c\.na9\.visual\.force\.com$
 (^|\.)na90\.visual\.force\.com$
 (^|\.)na91\.visual\.force\.com$
+(^|\.)na92\.visual\.force\.com$
 (^|\.)na93\.visual\.force\.com$
 (^|\.)na94\.visual\.force\.com$
 (^|\.)na95\.visual\.force\.com$
@@ -66442,6 +66583,7 @@
 (^|\.)stg\.fyber\.com$
 (^|\.)pmm\.stg-aws\.fyber\.com$
 (^|\.)service\.stg-aws\.fyber\.com$
+(^|\.)test-tickets\.fyber\.com$
 (^|\.)test-wiki\.fyber\.com$
 (^|\.)tickets\.fyber\.com$
 (^|\.)track\.fyber\.com$
@@ -66684,6 +66826,7 @@
 (^|\.)www\.stage-two\.heyzap\.com$
 (^|\.)x\.heyzap\.com$
 (^|\.)hlserve\.com$
+(^|\.)haroldcdn\.hlserve\.com$
 (^|\.)productads\.hlserve\.com$
 (^|\.)products\.hlserve\.com$
 (^|\.)www\.hlserve\.com$
@@ -67046,6 +67189,8 @@
 (^|\.)www\.p\.liadm\.com$
 (^|\.)lifestreet\.com$
 (^|\.)www\.lifestreet\.com$
+(^|\.)aws\.lijit\.com$
+(^|\.)dcos\.lijit\.com$
 (^|\.)adpoddb1\.dfw2\.lijit\.com$
 (^|\.)www\.adpoddb1\.dfw2\.lijit\.com$
 (^|\.)pt\.lijit\.com$
@@ -67138,7 +67283,10 @@
 (^|\.)api\.final\.env\.sandbox53\.localytics\.com$
 (^|\.)api\.josh\.env\.sandbox53\.localytics\.com$
 (^|\.)api\.nonewlines\.env\.sandbox53\.localytics\.com$
+(^|\.)api\.raphael\.env\.sandbox53\.localytics\.com$
 (^|\.)api\.sandbox\.env\.sandbox53\.localytics\.com$
+(^|\.)api\.tushar\.env\.sandbox53\.localytics\.com$
+(^|\.)api\.tushar-test\.env\.sandbox53\.localytics\.com$
 (^|\.)api\.tutorial\.env\.sandbox53\.localytics\.com$
 (^|\.)api\.tutorial-sharing\.env\.sandbox53\.localytics\.com$
 (^|\.)api\.tutorial-sharing-again\.env\.sandbox53\.localytics\.com$
@@ -67167,7 +67315,9 @@
 (^|\.)abrtp1-cdn\.marketo\.com$
 (^|\.)app-ab12\.marketo\.com$
 (^|\.)app-ab13\.marketo\.com$
+(^|\.)app-ab24\.marketo\.com$
 (^|\.)app-abc\.marketo\.com$
+(^|\.)app-abd\.marketo\.com$
 (^|\.)app-lon08\.marketo\.com$
 (^|\.)app-nation\.marketo\.com$
 (^|\.)app-sj04\.marketo\.com$
@@ -67284,6 +67434,7 @@
 (^|\.)mmfiles\.amp\.mcafee\.com$
 (^|\.)mup\.amp\.mcafee\.com$
 (^|\.)www\.mup\.amp\.mcafee\.com$
+(^|\.)karma\.mdpcdn\.com$
 (^|\.)measuread\.com$
 (^|\.)b\.measuread\.com$
 (^|\.)www\.measuread\.com$
@@ -67499,6 +67650,7 @@
 (^|\.)feed-player-service\.prod\.ndnops\.com$
 (^|\.)adserver\.netcollins\.com$
 (^|\.)monetization-framework\.bsa\.netdna-cdn\.com$
+(^|\.)assets\.customerio\.netdna-cdn\.com$
 (^|\.)beacon\.netflix\.com$
 (^|\.)netmng\.com$
 (^|\.)co-uk-h-l\.netmng\.com$
@@ -67526,7 +67678,45 @@
 (^|\.)www\.synd\.netseer\.com$
 (^|\.)www\.netseer\.com$
 (^|\.)www3\.netseer\.com$
+(^|\.)newrelic\.com$
+(^|\.)azure-res-provider\.newrelic\.com$
+(^|\.)blog\.newrelic\.com$
+(^|\.)de\.blog\.newrelic\.com$
+(^|\.)br\.newrelic\.com$
+(^|\.)current-azure-ext\.newrelic\.com$
+(^|\.)df-azure-ext\.newrelic\.com$
+(^|\.)discuss\.newrelic\.com$
+(^|\.)docs\.newrelic\.com$
+(^|\.)docs-dev\.newrelic\.com$
+(^|\.)docs-ra\.newrelic\.com$
+(^|\.)docs-staging\.newrelic\.com$
+(^|\.)dr\.newrelic\.com$
+(^|\.)service\.dr\.newrelic\.com$
+(^|\.)eu\.newrelic\.com$
+(^|\.)service\.eu\.newrelic\.com$
+(^|\.)get\.newrelic\.com$
+(^|\.)i18n\.newrelic\.com$
+(^|\.)ir\.newrelic\.com$
+(^|\.)learn\.newrelic\.com$
+(^|\.)learn-dev\.newrelic\.com$
+(^|\.)learn-ra\.newrelic\.com$
+(^|\.)learn-staging\.newrelic\.com$
+(^|\.)mobile-collector\.newrelic\.com$
 (^|\.)mobile-crash\.newrelic\.com$
+(^|\.)next-azure-ext\.newrelic\.com$
+(^|\.)rpm-instart\.newrelic\.com$
+(^|\.)service\.newrelic\.com$
+(^|\.)staging\.newrelic\.com$
+(^|\.)staging-discuss\.newrelic\.com$
+(^|\.)staging-images\.newrelic\.com$
+(^|\.)staging-mobile-collector\.newrelic\.com$
+(^|\.)staging-service\.newrelic\.com$
+(^|\.)stamp1-azure-ext\.newrelic\.com$
+(^|\.)stamp2-azure-ext\.newrelic\.com$
+(^|\.)status\.newrelic\.com$
+(^|\.)support\.newrelic\.com$
+(^|\.)support-legacy\.newrelic\.com$
+(^|\.)try\.newrelic\.com$
 (^|\.)ntellicast\.com$
 (^|\.)ww9\.ntellicast\.com$
 (^|\.)pixel\.nymag\.com$
@@ -67535,6 +67725,73 @@
 (^|\.)jpx-d3\.openxenterprise\.com$
 (^|\.)optimeze\.com$
 (^|\.)optimezer\.com$
+(^|\.)api\.optimizely\.com$
+(^|\.)app\.optimizely\.com$
+(^|\.)api\.app\.optimizely\.com$
+(^|\.)beta\.app\.optimizely\.com$
+(^|\.)current\.app\.optimizely\.com$
+(^|\.)develrc\.app\.optimizely\.com$
+(^|\.)latest\.app\.optimizely\.com$
+(^|\.)qa\.app\.optimizely\.com$
+(^|\.)rc\.app\.optimizely\.com$
+(^|\.)stable\.app\.optimizely\.com$
+(^|\.)authportal\.optimizely\.com$
+(^|\.)beta\.optimizely\.com$
+(^|\.)blog\.optimizely\.com$
+(^|\.)oui\.cdn\.optimizely\.com$
+(^|\.)cdn-edgecast\.optimizely\.com$
+(^|\.)cdn-pci\.optimizely\.com$
+(^|\.)cdn-s-optional\.optimizely\.com$
+(^|\.)client\.optimizely\.com$
+(^|\.)build\.client\.optimizely\.com$
+(^|\.)errors\.client\.optimizely\.com$
+(^|\.)log\.client\.optimizely\.com$
+(^|\.)community\.optimizely\.com$
+(^|\.)community-staging\.optimizely\.com$
+(^|\.)cspreporter\.optimizely\.com$
+(^|\.)cspreporter-stage\.optimizely\.com$
+(^|\.)developers\.optimizely\.com$
+(^|\.)develrc-app\.optimizely\.com$
+(^|\.)dz\.optimizely\.com$
+(^|\.)autopilot\.dz\.optimizely\.com$
+(^|\.)client-error-log\.dz\.optimizely\.com$
+(^|\.)p13nlog\.dz\.optimizely\.com$
+(^|\.)sse-demo\.dz\.optimizely\.com$
+(^|\.)email\.optimizely\.com$
+(^|\.)example\.optimizely\.com$
+(^|\.)hello\.optimizely\.com$
+(^|\.)help\.optimizely\.com$
+(^|\.)iownit\.optimizely\.com$
+(^|\.)learn\.optimizely\.com$
+(^|\.)learn-new\.optimizely\.com$
+(^|\.)lpo\.optimizely\.com$
+(^|\.)maven\.optimizely\.com$
+(^|\.)ml\.optimizely\.com$
+(^|\.)mobile\.optimizely\.com$
+(^|\.)errors\.mobile\.optimizely\.com$
+(^|\.)events\.mobile\.optimizely\.com$
+(^|\.)nbe-api\.optimizely\.com$
+(^|\.)odds\.optimizely\.com$
+(^|\.)p13n-results-api\.optimizely\.com$
+(^|\.)phabricator\.optimizely\.com$
+(^|\.)playground\.optimizely\.com$
+(^|\.)qa\.optimizely\.com$
+(^|\.)rc-app\.optimizely\.com$
+(^|\.)results\.optimizely\.com$
+(^|\.)rum\.optimizely\.com$
+(^|\.)status\.optimizely\.com$
+(^|\.)success\.optimizely\.com$
+(^|\.)support\.optimizely\.com$
+(^|\.)teams\.optimizely\.com$
+(^|\.)teams-admin\.optimizely\.com$
+(^|\.)teams-staging\.optimizely\.com$
+(^|\.)teams-staging-admin\.optimizely\.com$
+(^|\.)track\.optimizely\.com$
+(^|\.)ui\.optimizely\.com$
+(^|\.)assets\.ui\.optimizely\.com$
+(^|\.)vis\.optimizely\.com$
+(^|\.)www\.optimizely\.com$
+(^|\.)zendesk-staging\.optimizely\.com$
 (^|\.)a\.optmstr\.com$
 (^|\.)z\.optmstr\.com$
 (^|\.)optnmstr\.com$
@@ -67901,6 +68158,13 @@
 (^|\.)giga\.logs\.roku\.com$
 (^|\.)scribe\.logs\.roku\.com$
 (^|\.)customer-feedbacks\.web\.roku\.com$
+(^|\.)api-alt\.rollbar\.com$
+(^|\.)cdn\.rollbar\.com$
+(^|\.)changelog\.rollbar\.com$
+(^|\.)docs\.rollbar\.com$
+(^|\.)help\.rollbar\.com$
+(^|\.)try\.rollbar\.com$
+(^|\.)www\.try\.rollbar\.com$
 (^|\.)roosterfirework\.com$
 (^|\.)www\.roosterfirework\.com$
 (^|\.)metrics\.rubiconglobal\.com$
@@ -67986,6 +68250,8 @@
 (^|\.)scannet\.ads\.scanapps\.com$
 (^|\.)beacon\.scanapps\.com$
 (^|\.)metrics\.sdkbox\.com$
+(^|\.)selectablemedia\.com$
+(^|\.)cdn\.selectablemedia\.com$
 (^|\.)servebom\.com$
 (^|\.)ads-qa\.servebom\.com$
 (^|\.)m\.servedby-buysellads\.com$
@@ -68102,6 +68368,73 @@
 (^|\.)www\.siliconorchard\.com$
 (^|\.)zaap\.siliconorchard\.com$
 (^|\.)www\.zaap\.siliconorchard\.com$
+(^|\.)sizmek\.com$
+(^|\.)api\.sizmek\.com$
+(^|\.)apx-plugin\.sizmek\.com$
+(^|\.)www\.apx-plugin\.sizmek\.com$
+(^|\.)audiencesuite\.sizmek\.com$
+(^|\.)www\.audiencesuite\.sizmek\.com$
+(^|\.)china\.sizmek\.com$
+(^|\.)www\.china\.sizmek\.com$
+(^|\.)confluence\.sizmek\.com$
+(^|\.)confluence-test\.sizmek\.com$
+(^|\.)custombi\.sizmek\.com$
+(^|\.)www\.custombi\.sizmek\.com$
+(^|\.)datahub\.sizmek\.com$
+(^|\.)demo\.sizmek\.com$
+(^|\.)origin\.demo\.sizmek\.com$
+(^|\.)uat\.dev\.sizmek\.com$
+(^|\.)api\.uat\.dev\.sizmek\.com$
+(^|\.)www\.uat\.dev\.sizmek\.com$
+(^|\.)developers\.sizmek\.com$
+(^|\.)facebook\.sizmek\.com$
+(^|\.)www\.facebook\.sizmek\.com$
+(^|\.)gizmo\.sizmek\.com$
+(^|\.)gizmo-s\.sizmek\.com$
+(^|\.)ilav\.sizmek\.com$
+(^|\.)ildialin\.sizmek\.com$
+(^|\.)illyncweb\.sizmek\.com$
+(^|\.)ilmeet\.sizmek\.com$
+(^|\.)ilsfbweb\.sizmek\.com$
+(^|\.)ilsip\.sizmek\.com$
+(^|\.)www\.ilsip\.sizmek\.com$
+(^|\.)ilwebapps\.sizmek\.com$
+(^|\.)ilwebconf\.sizmek\.com$
+(^|\.)info\.sizmek\.com$
+(^|\.)www\.info\.sizmek\.com$
+(^|\.)jetstar\.sizmek\.com$
+(^|\.)jira\.sizmek\.com$
+(^|\.)jira-test\.sizmek\.com$
+(^|\.)lyncdiscover\.sizmek\.com$
+(^|\.)mdx\.sizmek\.com$
+(^|\.)origin-gizmo\.sizmek\.com$
+(^|\.)www\.origin-gizmo\.sizmek\.com$
+(^|\.)platform\.sizmek\.com$
+(^|\.)preview\.platform\.sizmek\.com$
+(^|\.)preview\.prod\.sizmek\.com$
+(^|\.)product\.sizmek\.com$
+(^|\.)www\.product\.sizmek\.com$
+(^|\.)selfservice\.sizmek\.com$
+(^|\.)www\.selfservice\.sizmek\.com$
+(^|\.)sip\.sizmek\.com$
+(^|\.)strikead\.sizmek\.com$
+(^|\.)support\.sizmek\.com$
+(^|\.)www\.support\.sizmek\.com$
+(^|\.)uffa\.sizmek\.com$
+(^|\.)www\.uffa\.sizmek\.com$
+(^|\.)usav\.sizmek\.com$
+(^|\.)usdialin\.sizmek\.com$
+(^|\.)uslyncweb\.sizmek\.com$
+(^|\.)usmeet\.sizmek\.com$
+(^|\.)ussfbweb\.sizmek\.com$
+(^|\.)ussip\.sizmek\.com$
+(^|\.)uswebapps\.sizmek\.com$
+(^|\.)uswebconf\.sizmek\.com$
+(^|\.)ewr\.vpn\.sizmek\.com$
+(^|\.)www\.ewr\.vpn\.sizmek\.com$
+(^|\.)wiki\.sizmek\.com$
+(^|\.)zendesk\.sizmek\.com$
+(^|\.)www\.zendesk\.sizmek\.com$
 (^|\.)promotions\.skype\.com$
 (^|\.)api\.promotions\.skype\.com$
 (^|\.)bo\.promotions\.skype\.com$
@@ -68328,6 +68661,7 @@
 (^|\.)workshops\.taboola\.com$
 (^|\.)www\.taboola\.com$
 (^|\.)pixel\.tagdelivery\.com$
+(^|\.)bidder\.talkingpointsmemo\.com$
 (^|\.)audience\.tapad\.com$
 (^|\.)bd\.tapad\.com$
 (^|\.)engineering\.tapad\.com$
@@ -68552,6 +68886,8 @@
 (^|\.)mailatl\.tritondigital\.com$
 (^|\.)mailla\.tritondigital\.com$
 (^|\.)mc\.tritondigital\.com$
+(^|\.)support\.tritondigital\.com$
+(^|\.)www\.support\.tritondigital\.com$
 (^|\.)tech\.tritondigital\.com$
 (^|\.)userguides\.tritondigital\.com$
 (^|\.)www\.userguides\.tritondigital\.com$
@@ -68685,6 +69021,7 @@
 (^|\.)ccm-dev\.urbaninsight\.com$
 (^|\.)ccm-prod\.urbaninsight\.com$
 (^|\.)ccm-stage\.urbaninsight\.com$
+(^|\.)ccm-test\.urbaninsight\.com$
 (^|\.)email\.urbaninsight\.com$
 (^|\.)www\.email\.urbaninsight\.com$
 (^|\.)holidayparty\.urbaninsight\.com$
@@ -68779,6 +69116,8 @@
 (^|\.)mail\.viewsignage\.com$
 (^|\.)restaurant\.viewsignage\.com$
 (^|\.)www\.restaurant\.viewsignage\.com$
+(^|\.)widgets\.viewsignage\.com$
+(^|\.)www\.widgets\.viewsignage\.com$
 (^|\.)www\.viewsignage\.com$
 (^|\.)vilynx\.com$
 (^|\.)blog\.vilynx\.com$
@@ -68797,10 +69136,36 @@
 (^|\.)www\.test\.vilynx\.com$
 (^|\.)www\.vilynx\.com$
 (^|\.)www2\.vilynx\.com$
+(^|\.)vindicosuite\.com$
+(^|\.)staging\.c\.vindicosuite\.com$
+(^|\.)native\.vindicosuite\.com$
+(^|\.)nativecdn\.vindicosuite\.com$
+(^|\.)notrack\.vindicosuite\.com$
+(^|\.)staging\.vindicosuite\.com$
+(^|\.)ts\.vindicosuite\.com$
+(^|\.)uid1\.vindicosuite\.com$
+(^|\.)staging\.x\.vindicosuite\.com$
+(^|\.)www\.staging\.x\.vindicosuite\.com$
 (^|\.)visualwebsiteoptimizer\.com$
 (^|\.)app\.visualwebsiteoptimizer\.com$
 (^|\.)www\.app\.visualwebsiteoptimizer\.com$
 (^|\.)www\.dev\.visualwebsiteoptimizer\.com$
+(^|\.)vizury\.com$
+(^|\.)blog\.vizury\.com$
+(^|\.)cdn25\.vizury\.com$
+(^|\.)cdn6\.vizury\.com$
+(^|\.)email\.vizury\.com$
+(^|\.)info\.vizury\.com$
+(^|\.)reports\.vizury\.com$
+(^|\.)www\.reports\.vizury\.com$
+(^|\.)serv1\.vizury\.com$
+(^|\.)www\.serv1\.vizury\.com$
+(^|\.)serv2ssl\.vizury\.com$
+(^|\.)www\.serv2ssl\.vizury\.com$
+(^|\.)ssl\.vizury\.com$
+(^|\.)www\.ssl\.vizury\.com$
+(^|\.)sslads\.vizury\.com$
+(^|\.)www\.sslads\.vizury\.com$
 (^|\.)secfld\.vmmpxl\.com$
 (^|\.)secimg\.vmmpxl\.com$
 (^|\.)vcsa\.vmware\.com$
@@ -68846,10 +69211,12 @@
 (^|\.)ads-resources-legacy\.waze\.com$
 (^|\.)advil\.waze\.com$
 (^|\.)wbinsights\.com$
+(^|\.)contractor\.wbinsights\.com$
 (^|\.)event\.wbinsights\.com$
 (^|\.)jupyter\.wbinsights\.com$
 (^|\.)playdemic\.jupyter\.wbinsights\.com$
 (^|\.)mgp\.wbinsights\.com$
+(^|\.)nrs\.wbinsights\.com$
 (^|\.)palebrook\.wbinsights\.com$
 (^|\.)ganglia\.palebrook\.wbinsights\.com$
 (^|\.)hue\.palebrook\.wbinsights\.com$
@@ -68863,6 +69230,8 @@
 (^|\.)zeppelin\.playdemic\.wbinsights\.com$
 (^|\.)presto-gdpr-dev-encrypted\.wbinsights\.com$
 (^|\.)playdemic\.r\.wbinsights\.com$
+(^|\.)turbine\.wbinsights\.com$
+(^|\.)wba\.wbinsights\.com$
 (^|\.)zeppelin\.wbinsights\.com$
 (^|\.)playdemic\.zeppelin\.wbinsights\.com$
 (^|\.)ad\.cc\.webmd\.com$
@@ -68985,6 +69354,7 @@
 (^|\.)www\.directory\.office\.yext\.com$
 (^|\.)docker\.jfrog-poc\.office\.yext\.com$
 (^|\.)www\.docker\.jfrog-poc\.office\.yext\.com$
+(^|\.)kube\.office\.yext\.com$
 (^|\.)stash\.office\.yext\.com$
 (^|\.)www\.stash\.office\.yext\.com$
 (^|\.)onward\.yext\.com$
@@ -68998,6 +69368,7 @@
 (^|\.)sustainability\.yext\.com$
 (^|\.)techops\.yext\.com$
 (^|\.)www\.techops\.yext\.com$
+(^|\.)tx1\.yext\.com$
 (^|\.)kube\.tx1\.yext\.com$
 (^|\.)kube-sbx\.tx1\.yext\.com$
 (^|\.)sourcegraph\.uc1\.yext\.com$
@@ -69053,7 +69424,6 @@
 (^|\.)mediadelivery\.fi$
 (^|\.)is\.mediadelivery\.fi$
 (^|\.)www\.keepass\.fr$
-(^|\.)head$
 (^|\.)pixel\.affcamp\.co\.in$
 (^|\.)www\.pixel\.affcamp\.co\.in$
 (^|\.)applifier\.info$
@@ -69141,6 +69511,7 @@
 (^|\.)eu-west-1\.stinger-ad\.bidr\.io$
 (^|\.)us-east-1\.stinger-ad\.bidr\.io$
 (^|\.)us-west-2\.stinger-ad\.bidr\.io$
+(^|\.)edge-e-balw\.customer\.io$
 (^|\.)extole\.io$
 (^|\.)lo\.extole\.io$
 (^|\.)api\.lo\.extole\.io$
@@ -69180,6 +69551,8 @@
 (^|\.)origin-5\.st\.extole\.io$
 (^|\.)origin-6\.st\.extole\.io$
 (^|\.)origin-7\.st\.extole\.io$
+(^|\.)instana\.io$
+(^|\.)eum\.instana\.io$
 (^|\.)intercom\.io$
 (^|\.)api\.intercom\.io$
 (^|\.)blog\.intercom\.io$
@@ -69220,6 +69593,7 @@
 (^|\.)c\.lytics\.io$
 (^|\.)marchex\.io$
 (^|\.)rw1\.marchex\.io$
+(^|\.)cdn\.onthe\.io$
 (^|\.)presage\.io$
 (^|\.)bip\.presage\.io$
 (^|\.)demo\.presage\.io$
@@ -69248,6 +69622,20 @@
 (^|\.)www\.heatmap\.it$
 (^|\.)checkyourmoneybox98\.loan$
 (^|\.)best5768\.checkyourmoneybox98\.loan$
+(^|\.)count\.ly$
+(^|\.)blog\.count\.ly$
+(^|\.)www\.blog\.count\.ly$
+(^|\.)ccinext\.count\.ly$
+(^|\.)www\.ccinext\.count\.ly$
+(^|\.)cloud\.count\.ly$
+(^|\.)www\.cloud\.count\.ly$
+(^|\.)enterprise-box\.count\.ly$
+(^|\.)www\.enterprise-box\.count\.ly$
+(^|\.)resources\.count\.ly$
+(^|\.)stats\.count\.ly$
+(^|\.)tr\.count\.ly$
+(^|\.)waiter\.count\.ly$
+(^|\.)www\.count\.ly$
 (^|\.)pixel\.marketing$
 (^|\.)clients\.pixel\.marketing$
 (^|\.)www\.clients\.pixel\.marketing$
@@ -69312,6 +69700,7 @@
 (^|\.)stats\.gc-apple\.com\.akadns\.net$
 (^|\.)postrelease\.com\.akadns\.net$
 (^|\.)jadserve\.postrelease\.com\.akadns\.net$
+(^|\.)beacon-all\.walmart\.com\.akadns\.net$
 (^|\.)perf-optimized-by\.rubiconproject\.net\.akadns\.net$
 (^|\.)msg-media\.valueclick\.akadns\.net$
 (^|\.)vungle\.akadns\.net$
@@ -69342,6 +69731,7 @@
 (^|\.)taboola\.com\.cdn\.cloudflare\.net$
 (^|\.)vidstat\.taboola\.com\.cdn\.cloudflare\.net$
 (^|\.)assets-auto\.rbl\.ms\.cdn\.cloudflare\.net$
+(^|\.)dmc1acwvwny3\.cloudfront\.net$
 (^|\.)mxl\.connexity\.net$
 (^|\.)www\.mxl\.connexity\.net$
 (^|\.)pxl\.connexity\.net$
@@ -69350,6 +69740,7 @@
 (^|\.)www\.cxlaxexprswy01\.smo\.connexity\.net$
 (^|\.)cxlaxexprswy02\.smo\.connexity\.net$
 (^|\.)www\.cxlaxexprswy02\.smo\.connexity\.net$
+(^|\.)www\.connexity\.net$
 (^|\.)content-ad\.net$
 (^|\.)dev1\.api\.content-ad\.net$
 (^|\.)dev2\.api\.content-ad\.net$
@@ -69364,6 +69755,8 @@
 (^|\.)jp\.as\.criteo\.net$
 (^|\.)images\.jp\.as\.criteo\.net$
 (^|\.)static\.jp\.as\.criteo\.net$
+(^|\.)azcdn\.criteo\.net$
+(^|\.)azcdn-preprod\.criteo\.net$
 (^|\.)cn\.criteo\.net$
 (^|\.)hk\.cn\.criteo\.net$
 (^|\.)sh\.cn\.criteo\.net$
@@ -69411,6 +69804,13 @@
 (^|\.)ubisoftinternational\.demdex\.net$
 (^|\.)vanguard\.demdex\.net$
 (^|\.)verizon\.demdex\.net$
+(^|\.)districtm\.net$
+(^|\.)bamboo\.districtm\.net$
+(^|\.)bamboo-testing\.districtm\.net$
+(^|\.)bitbucket\.districtm\.net$
+(^|\.)camp\.districtm\.net$
+(^|\.)jira\.districtm\.net$
+(^|\.)video\.districtm\.net$
 (^|\.)au\.doubleclick\.net$
 (^|\.)bh1\.doubleclick\.net$
 (^|\.)dbcontrol\.doubleclick\.net$
@@ -69430,6 +69830,7 @@
 (^|\.)dt-cdn\.net$
 (^|\.)rubiconproject\.dyns\.net$
 (^|\.)cs254\.wac\.edgecastcdn\.net$
+(^|\.)analytics\.edgekey\.net$
 (^|\.)measuread\.com\.edgekey\.net$
 (^|\.)wildcard\.measuread\.com\.edgekey\.net$
 (^|\.)moatads\.com\.edgekey\.net$
@@ -69461,6 +69862,25 @@
 (^|\.)prod\.outbrain\.map\.fastlylb\.net$
 (^|\.)cdn\.best-tv\.com\.c\.footprint\.net$
 (^|\.)ssl-cdn\.multibrand3\.pgsitecore\.com\.c\.footprint\.net$
+(^|\.)fwmrm\.net$
+(^|\.)fw1\.aws\.fwmrm\.net$
+(^|\.)fwsso\.aws\.fwmrm\.net$
+(^|\.)dev\.klotski\.aws\.fwmrm\.net$
+(^|\.)prd\.klotski\.aws\.fwmrm\.net$
+(^|\.)ss\.klotski\.aws\.fwmrm\.net$
+(^|\.)stg\.klotski\.aws\.fwmrm\.net$
+(^|\.)dev\.linear\.aws\.fwmrm\.net$
+(^|\.)stg\.linear\.aws\.fwmrm\.net$
+(^|\.)sb1\.aws\.fwmrm\.net$
+(^|\.)dev\.vw\.aws\.fwmrm\.net$
+(^|\.)git\.dev\.fwmrm\.net$
+(^|\.)registry\.dev\.fwmrm\.net$
+(^|\.)svn\.dev\.fwmrm\.net$
+(^|\.)ny5expe\.fwmrm\.net$
+(^|\.)s\.fwmrm\.net$
+(^|\.)stg\.fwmrm\.net$
+(^|\.)v\.stg\.fwmrm\.net$
+(^|\.)v\.fwmrm\.net$
 (^|\.)adserver\.game-focus\.net$
 (^|\.)www\.adserver\.game-focus\.net$
 (^|\.)www\.quotes\.gb\.net$
@@ -69585,10 +70005,12 @@
 (^|\.)cdn\.intentmedia\.net$
 (^|\.)custom-audience\.intentmedia\.net$
 (^|\.)internal\.intentmedia\.net$
+(^|\.)multiregionca\.intentmedia\.net$
 (^|\.)performance\.intentmedia\.net$
 (^|\.)webtrendsinc\.https\.internapcdn\.net$
 (^|\.)krxd\.net$
 (^|\.)beacon-maxis\.krxd\.net$
+(^|\.)consumer\.krxd\.net$
 (^|\.)foreman-a001-ash\.krxd\.net$
 (^|\.)foreman-a001-dub\.krxd\.net$
 (^|\.)foreman-a001-pdx\.krxd\.net$
@@ -69733,6 +70155,7 @@
 (^|\.)collection\.sv\.d2\.omtrdc\.net$
 (^|\.)delivery\.sv\.d2\.omtrdc\.net$
 (^|\.)hb\.omtrdc\.net$
+(^|\.)foxsports\.hb\.omtrdc\.net$
 (^|\.)gannett\.hb\.omtrdc\.net$
 (^|\.)hb-api\.omtrdc\.net$
 (^|\.)hb-fa-1\.omtrdc\.net$
@@ -69743,6 +70166,7 @@
 (^|\.)sc\.omtrdc\.net$
 (^|\.)b\.sc\.omtrdc\.net$
 (^|\.)d1\.sc\.omtrdc\.net$
+(^|\.)foxnews\.com\.d1\.sc\.omtrdc\.net$
 (^|\.)adpsj\.ssl\.d1\.sc\.omtrdc\.net$
 (^|\.)d2\.sc\.omtrdc\.net$
 (^|\.)ssl\.d2\.sc\.omtrdc\.net$
@@ -69766,6 +70190,7 @@
 (^|\.)cdn\.tt\.omtrdc\.net$
 (^|\.)kroger\.tt\.omtrdc\.net$
 (^|\.)redbox\.tt\.omtrdc\.net$
+(^|\.)solarwinds\.tt\.omtrdc\.net$
 (^|\.)staging\.tt\.omtrdc\.net$
 (^|\.)trkpnt\.ongage\.net$
 (^|\.)d\.aa\.online-metrix\.net$
@@ -69785,7 +70210,9 @@
 (^|\.)h-api-test\.online-metrix\.net$
 (^|\.)www\.h-api-test\.online-metrix\.net$
 (^|\.)h-fail-test\.online-metrix\.net$
+(^|\.)h-intuit\.online-metrix\.net$
 (^|\.)www\.h-sdk\.online-metrix\.net$
+(^|\.)h-visa2\.online-metrix\.net$
 (^|\.)h-walmart\.online-metrix\.net$
 (^|\.)idev\.online-metrix\.net$
 (^|\.)qa2-h-api\.online-metrix\.net$
@@ -69811,6 +70238,7 @@
 (^|\.)grey\.soju\.openx\.net$
 (^|\.)white\.soju\.openx\.net$
 (^|\.)yellow\.soju\.openx\.net$
+(^|\.)talkingpointsmemo-d\.openx\.net$
 (^|\.)usatodaysports-d\.openx\.net$
 (^|\.)www\.openx\.net$
 (^|\.)pixel\.optimalq\.net$
@@ -69940,6 +70368,14 @@
 (^|\.)snib53bgl\.wpc\.thetacdn\.net$
 (^|\.)snib53cgl\.wpc\.thetacdn\.net$
 (^|\.)snib53egl\.wpc\.thetacdn\.net$
+(^|\.)timecommerce\.net$
+(^|\.)csp-dev1\.timecommerce\.net$
+(^|\.)csp-dev2\.timecommerce\.net$
+(^|\.)csp-dev3\.timecommerce\.net$
+(^|\.)csp-dev4\.timecommerce\.net$
+(^|\.)csp-dev5\.timecommerce\.net$
+(^|\.)csp-testsite\.timecommerce\.net$
+(^|\.)session\.timecommerce\.net$
 (^|\.)sconsentit9\.trafficmanager\.net$
 (^|\.)smedia\.webcollage\.net$
 (^|\.)usersegment\.wpdigital\.net$
@@ -69981,6 +70417,8 @@
 (^|\.)test\.docker\.adsrvr\.org$
 (^|\.)foreman\.adsrvr\.org$
 (^|\.)idp\.adsrvr\.org$
+(^|\.)k8dev\.adsrvr\.org$
+(^|\.)k8prd\.adsrvr\.org$
 (^|\.)ops-self-service\.adsrvr\.org$
 (^|\.)snap\.adsrvr\.org$
 (^|\.)thales\.adsrvr\.org$
@@ -70001,6 +70439,7 @@
 (^|\.)adversal\.mgr\.consensu\.org$
 (^|\.)www\.adversal\.mgr\.consensu\.org$
 (^|\.)affinity\.mgr\.consensu\.org$
+(^|\.)avocet\.mgr\.consensu\.org$
 (^|\.)captify\.mgr\.consensu\.org$
 (^|\.)www\.captify\.mgr\.consensu\.org$
 (^|\.)ciaopeople\.mgr\.consensu\.org$
@@ -70023,6 +70462,7 @@
 (^|\.)gemius\.mgr\.consensu\.org$
 (^|\.)www\.gemius\.mgr\.consensu\.org$
 (^|\.)global\.mgr\.consensu\.org$
+(^|\.)hiro\.mgr\.consensu\.org$
 (^|\.)liqwid\.mgr\.consensu\.org$
 (^|\.)www\.liqwid\.mgr\.consensu\.org$
 (^|\.)cmp\.madvertise\.mgr\.consensu\.org$
@@ -70049,6 +70489,8 @@
 (^|\.)sipaof\.mgr\.consensu\.org$
 (^|\.)smartadserver\.mgr\.consensu\.org$
 (^|\.)cmp\.smartadserver\.mgr\.consensu\.org$
+(^|\.)societe\.mgr\.consensu\.org$
+(^|\.)www\.societe\.mgr\.consensu\.org$
 (^|\.)sourcepoint\.mgr\.consensu\.org$
 (^|\.)sovrn\.mgr\.consensu\.org$
 (^|\.)traffective\.mgr\.consensu\.org$
@@ -70058,6 +70500,8 @@
 (^|\.)log\.uniconsent\.mgr\.consensu\.org$
 (^|\.)unveilmedia\.mgr\.consensu\.org$
 (^|\.)www\.unveilmedia\.mgr\.consensu\.org$
+(^|\.)usercentrics\.mgr\.consensu\.org$
+(^|\.)www\.usercentrics\.mgr\.consensu\.org$
 (^|\.)vibrant\.mgr\.consensu\.org$
 (^|\.)webedia\.mgr\.consensu\.org$
 (^|\.)register\.consensu\.org$
@@ -70231,6 +70675,7 @@
 (^|\.)amp\.services$
 (^|\.)static\.amp\.services$
 (^|\.)sync\.extend\.tv$
+(^|\.)ads\.freewheel\.tv$
 (^|\.)shoofle\.tv$
 (^|\.)adserver\.shoofle\.tv$
 (^|\.)adserverc\.shoofle\.tv$
@@ -70301,6 +70746,7 @@
 (^|\.)api\.stg\.samplicio\.us$
 (^|\.)survey\.samplicio\.us$
 (^|\.)www\.samplicio\.us$
+(^|\.)log\.zoom\.us$
 (^|\.)adserve\.video$
 (^|\.)cdn\.adserve\.video$
 (^|\.)www\.cdn\.adserve\.video$
@@ -70446,7 +70892,7 @@
 # Repository: https://github\.com/azet12/KADhosts$
 # Based on: https://github\.com/azet12/KAD$
 # Check the repository for license information\. / Sprawdz repozytiorium po informacje o licencji\.$
-# Version: H2018080101$
+# Version: H2018080501$
 # (EN) WARNING: Sites listed below can be harmful\. Please, do not visit them if you don't know what you're doing!$
 # (PL) UWAGA: Strony ponizej moga byc szkodliwe\. Prosze, nie wchodz na nie, jesli nie wiesz co robisz!$
 # Podejrzane i/lub strony polaczone z innymi oszustwami$
@@ -70996,6 +71442,18 @@
 (^|\.)optimask-pro\.com$
 (^|\.)yummymobile\.pl$
 (^|\.)thecryptogenius\.com$
+(^|\.)www\.modi4moda\.com$
+(^|\.)modimoda\.pl$
+(^|\.)www\.killingtonchukka\.pl$
+(^|\.)pl\.centrumofert\.com$
+(^|\.)centrumofert\.com$
+(^|\.)funatyk\.com$
+(^|\.)getdataback\.pl$
+(^|\.)gamemine\.com$
+(^|\.)pl\.gamemine\.com$
+(^|\.)hc2izgmnmnqs\.lwfjd\.today$
+(^|\.)greerlies\.pro$
+(^|\.)gemverify\.com$
 # Promocja pseudonauki / Fake news$
 # Nieprawdziwe, wprowadzajace w blad informacje lub podobne\.$
 (^|\.)bio-chemik24\.pl$
@@ -71259,6 +71717,7 @@
 (^|\.)snekdeal\.com$
 (^|\.)www\.tylko-dla-ciebie\.com$
 # Przekrety$
+(^|\.)pay\.mobiltek\.pl$
 (^|\.)filedownloader\.pl$
 (^|\.)stream24\.com\.pl$
 (^|\.)rapid-host\.pl$
@@ -72906,6 +73365,7 @@
 (^|\.)tb\.altervista\.org$
 (^|\.)tec\.sarl\.tk$
 (^|\.)techbargins\.com$
+(^|\.)thebugs\.ws$
 (^|\.)themexp\.org$
 (^|\.)themillionaireinpjs\.net$
 (^|\.)thenewupdatee\.redirectme\.net$
