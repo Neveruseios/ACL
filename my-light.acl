@@ -8,13 +8,13 @@
 115.231.99.203
 
 #极光推送
-.*\.jpush\.cn.*
+.*\.jpush\.cn.*$
 
 #群多多
-.*\.qun\.sh.*
+.*\.qun\.sh.*$
 
 #币用
-.*\.biyong\.info.*
+.*\.biyong\.info.*$
 
 .*11h5\.com.*$
 .*\.ad\d{0,3}\..*$
@@ -818,12 +818,12 @@
 .*\.afpmm\.alicdn\.com.*$
 .*\.afpssp\.alimama\.com.*$
 .*\.afptrack\.alimama\.com.*$
-.*\.alicdnv2\.sitemonitor\.cn.*$\.miaozhen\.com.*$
+.*\.alicdnv2\.sitemonitor\.cn\.miaozhen\.com.*$
 .*\.alimama\.alicdn\.com.*$
 .*\.alipay\.dajiadou6\.com.*$
 .*\.alissl\.ucdl\.pp\.uc\.cn.*$
 .*\.alitui\.weibo\.com.*$
-.*\.aliunion\.cn.*$\.yahoo\.com.*$
+.*\.aliunion\.cn\.yahoo\.com.*$
 .*\.appdownload\.alicdn\.com.*$
 .*\.asearch\.alicdn\.com.*$
 .*\.atanx2\.alicdn\.com.*$
@@ -847,7 +847,7 @@
 .*\.img\.alimama\.cn.*$
 .*\.img-dsp\.oss-cn-beijing\.aliyuncs\.com.*$
 .*\.jiayi1\.oss-cn-shanghai\.aliyuncs\.com.*$
-.*\.jsadsdisplay\.cn.*$-beijing\.log\.aliyuncs\.com.*$
+.*\.jsadsdisplay\.cn-beijing\.log\.aliyuncs\.com.*$
 .*\.mdap\.alipaylog\.com.*$
 .*\.mobaders\.oss-cn-beijing\.aliyuncs\.com.*$
 .*\.nbsdk-baichuan\.alicdn\.com.*$
@@ -859,7 +859,7 @@
 .*\.static\.alimama\.com.*$
 .*\.strip\.alicdn\.com.*$
 .*\.t\.alimama\.com.*$
-.*\.ttjx-online\.cn.*$-hangzhou\.log\.aliyuncs\.com.*$
+.*\.ttjx-online\.cn-hangzhou\.log\.aliyuncs\.com.*$
 .*\.tw\.alimama\.cn.*$
 .*\.xz-development\.oss-cn-beijing\.aliyuncs\.com.*$
 .*\.a\.alimama\.cn.*$
@@ -872,12 +872,12 @@
 .*\.afpmm\.alicdn\.com.*$
 .*\.afpssp\.alimama\.com.*$
 .*\.afptrack\.alimama\.com.*$
-.*\.alicdnv2\.sitemonitor\.cn.*$\.miaozhen\.com.*$
+.*\.alicdnv2\.sitemonitor\.cn\.miaozhen\.com.*$
 .*\.alimama\.alicdn\.com.*$
 .*\.alipay\.dajiadou6\.com.*$
 .*\.alissl\.ucdl\.pp\.uc\.cn.*$
 .*\.alitui\.weibo\.com.*$
-.*\.aliunion\.cn.*$\.yahoo\.com.*$
+.*\.aliunion\.cn\.yahoo\.com.*$
 .*\.appdownload\.alicdn\.com.*$
 .*\.asearch\.alicdn\.com.*$
 .*\.atanx2\.alicdn\.com.*$
@@ -901,7 +901,7 @@
 .*\.img\.alimama\.cn.*$
 .*\.img-dsp\.oss-cn-beijing\.aliyuncs\.com.*$
 .*\.jiayi1\.oss-cn-shanghai\.aliyuncs\.com.*$
-.*\.jsadsdisplay\.cn.*$-beijing\.log\.aliyuncs\.com.*$
+.*\.jsadsdisplay\.cn-beijing\.log\.aliyuncs\.com.*$
 .*\.mdap\.alipaylog\.com.*$
 .*\.mobaders\.oss-cn-beijing\.aliyuncs\.com.*$
 .*\.nbsdk-baichuan\.alicdn\.com.*$
@@ -913,7 +913,7 @@
 .*\.static\.alimama\.com.*$
 .*\.strip\.alicdn\.com.*$
 .*\.t\.alimama\.com.*$
-.*\.ttjx-online\.cn.*$-hangzhou\.log\.aliyuncs\.com.*$
+.*\.ttjx-online\.cn-hangzhou\.log\.aliyuncs\.com.*$
 .*\.tw\.alimama\.cn.*$
 .*\.xz-development\.oss-cn-beijing\.aliyuncs\.com.*$
 [bypass_list]
