@@ -1,6 +1,6 @@
 #*********************************************************$
 #url=https://github\.com/neofelhz/neohosts$
-#version=20180807033818$
+#version=20180826064912$
 #*********************************************************$
 (^|\.)0127\.adsame\.com$
 (^|\.)0aqpqdju\.me$
@@ -1191,6 +1191,7 @@
 (^|\.)fz863\.com$
 (^|\.)g1\.163\.com$
 (^|\.)g\.163\.com$
+(^|\.)g1\.tagtic\.cn$
 (^|\.)g\.adnxs\.com$
 (^|\.)g\.ads\.cn\.miaozhen\.com$
 (^|\.)gafxa\.code\.mytanwan\.com$
@@ -1405,6 +1406,8 @@
 (^|\.)img752\.de92\.com$
 (^|\.)img\.9ads\.net$
 (^|\.)img\.adbox\.sina\.com\.cn$
+(^|\.)img\.adnyg\.com$
+(^|\.)img\.adnyg\.com\.w\.kunlungr\.com$
 (^|\.)img-ad\.oupeng\.com$
 (^|\.)img\.adpush\.cn$
 (^|\.)img\.ad\.zhangyue\.com$
@@ -1632,6 +1635,7 @@
 (^|\.)logs\.newapi\.com$
 (^|\.)log\.spotify\.com$
 (^|\.)log\.stat\.kugou\.com$
+(^|\.)log\.tagtic\.cn$
 (^|\.)log\.tbs\.qq\.com$
 (^|\.)log\.umsns\.com$
 (^|\.)log\.umtrack\.com$
@@ -1988,6 +1992,7 @@
 (^|\.)pfpip\.sina\.com$
 (^|\.)pfp\.sina\.com\.cn$
 (^|\.)pgdt\.gtimg\.cn$
+(^|\.)pgdt\.ugdtimg\.com$
 (^|\.)photobucket\.adnxs\.com$
 (^|\.)phs\.tanx\.com$
 (^|\.)pic\.14bobo\.com$
@@ -2439,6 +2444,7 @@
 (^|\.)sdl\.domob\.cn$
 (^|\.)sdn\.kugou\.com$
 (^|\.)s\.domob\.cn$
+(^|\.)sdownload\.stargame\.com$
 (^|\.)sdsp\.ipinyou\.com$
 (^|\.)sdu\.adwo\.com$
 (^|\.)sea\.napi\.ucweb\.com$
@@ -2852,6 +2858,7 @@
 (^|\.)ulic\.baidu\.com$
 (^|\.)ulink\.cc$
 (^|\.)ulog\.imap\.baidu\.com$
+(^|\.)ulogs\.umeng\.com$
 (^|\.)um2\.eqads\.com$
 (^|\.)uma\.gtags\.net$
 (^|\.)umeng\.com$
@@ -3142,7 +3149,6 @@
 (^|\.)www1\.wooboo\.com\.cn$
 (^|\.)www\.202m\.com$
 (^|\.)www\.268mob\.cn$
-(^|\.)www\.51\.la$
 (^|\.)www\.51link\.com$
 (^|\.)www5\.jkjjkj\.top$
 (^|\.)www6\.smartadserver\.com$
@@ -4534,6 +4540,7 @@
 :: fz863\.com$
 :: g1\.163\.com$
 :: g\.163\.com$
+:: g1\.tagtic\.cn$
 :: g\.adnxs\.com$
 :: g\.ads\.cn\.miaozhen\.com$
 :: gafxa\.code\.mytanwan\.com$
@@ -4748,6 +4755,8 @@
 :: img752\.de92\.com$
 :: img\.9ads\.net$
 :: img\.adbox\.sina\.com\.cn$
+:: img\.adnyg\.com$
+:: img\.adnyg\.com\.w\.kunlungr\.com$
 :: img-ad\.oupeng\.com$
 :: img\.adpush\.cn$
 :: img\.ad\.zhangyue\.com$
@@ -4975,6 +4984,7 @@
 :: logs\.newapi\.com$
 :: log\.spotify\.com$
 :: log\.stat\.kugou\.com$
+:: log\.tagtic\.cn$
 :: log\.tbs\.qq\.com$
 :: log\.umsns\.com$
 :: log\.umtrack\.com$
@@ -5331,6 +5341,7 @@
 :: pfpip\.sina\.com$
 :: pfp\.sina\.com\.cn$
 :: pgdt\.gtimg\.cn$
+:: pgdt\.ugdtimg\.com$
 :: photobucket\.adnxs\.com$
 :: phs\.tanx\.com$
 :: pic\.14bobo\.com$
@@ -5782,6 +5793,7 @@
 :: sdl\.domob\.cn$
 :: sdn\.kugou\.com$
 :: s\.domob\.cn$
+:: sdownload\.stargame\.com$
 :: sdsp\.ipinyou\.com$
 :: sdu\.adwo\.com$
 :: sea\.napi\.ucweb\.com$
@@ -6195,6 +6207,7 @@
 :: ulic\.baidu\.com$
 :: ulink\.cc$
 :: ulog\.imap\.baidu\.com$
+:: ulogs\.umeng\.com$
 :: um2\.eqads\.com$
 :: uma\.gtags\.net$
 :: umeng\.com$
@@ -6485,7 +6498,6 @@
 :: www1\.wooboo\.com\.cn$
 :: www\.202m\.com$
 :: www\.268mob\.cn$
-:: www\.51\.la$
 :: www\.51link\.com$
 :: www5\.jkjjkj\.top$
 :: www6\.smartadserver\.com$
