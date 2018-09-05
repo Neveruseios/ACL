@@ -1,6 +1,6 @@
 #*********************************************************$
 #url=https://github\.com/neofelhz/neohosts$
-#version=20180826064912$
+#version=20180903044739$
 #*********************************************************$
 (^|\.)0127\.adsame\.com$
 (^|\.)0aqpqdju\.me$
@@ -500,6 +500,7 @@
 (^|\.)badad\.googleplex\.com$
 (^|\.)b\.ads1\.msn\.com$
 (^|\.)baichuan\.baidu\.com$
+(^|\.)baidu\.greenxf\.cn$
 (^|\.)baidutv\.baidu\.com$
 (^|\.)banlv\.baidu\.com$
 (^|\.)bannedbook\.org$
@@ -518,7 +519,9 @@
 (^|\.)b\.clkservice\.youdao\.com$
 (^|\.)b\.code\.tanwanyx\.com$
 (^|\.)bd1\.dopa\.com$
+(^|\.)bd1\.pipaw\.com$
 (^|\.)bd2\.dopa\.com$
+(^|\.)bd2\.pipaw\.com$
 (^|\.)bdapi\.ads\.oppomobile\.com$
 (^|\.)bdd\.hainan\.net$
 (^|\.)bdfrm\.bidvertiser\.com$
@@ -1753,6 +1756,7 @@
 (^|\.)mipcache\.bdstatic\.com$
 (^|\.)m\.irs01\.com$
 (^|\.)mis\.g\.mi\.com$
+(^|\.)mivideo\.g\.mi\.com$
 (^|\.)mix\.adsame\.com$
 (^|\.)m\.jackaow\.com$
 (^|\.)m\.jollyspring\.com$
@@ -2581,6 +2585,7 @@
 (^|\.)spe\.atdmt\.com$
 (^|\.)sp\.fastclick\.net$
 (^|\.)s\.pomhz\.com$
+(^|\.)spro\.so\.com$
 (^|\.)s\.qhupdate\.com$
 (^|\.)s\.qqhpg\.com$
 (^|\.)s\.qzkxt\.com$
@@ -2899,6 +2904,7 @@
 (^|\.)utility\.baidu\.com$
 (^|\.)utk\.baidu\.com$
 (^|\.)utop\.umengcloud\.com$
+(^|\.)utp\.ucweb\.com$
 (^|\.)u\.uc123\.com$
 (^|\.)u\.ucfly\.com$
 (^|\.)uuidapi\.yunos\.com$
@@ -2961,7 +2967,11 @@
 (^|\.)vpic\.video\.qq\.com$
 (^|\.)vps\.inte\.sogou\.com$
 (^|\.)vqq\.admaster\.com\.cn$
+(^|\.)vs19\.gzcu\.u3\.ucweb\.com$
 (^|\.)vs2\.gzcu\.u3\.ucweb\.com$
+(^|\.)vs7\.gzcu\.u3\.ucweb\.com$
+(^|\.)vs8\.gzct\.u3\.ucweb\.com$
+(^|\.)vs8\.gzcu\.u3\.ucweb\.com$
 (^|\.)vsohu\.admaster\.com\.cn$
 (^|\.)vtechweb\.adsame\.com$
 (^|\.)vt\.ipinyou\.com$
@@ -3849,6 +3859,7 @@
 :: badad\.googleplex\.com$
 :: b\.ads1\.msn\.com$
 :: baichuan\.baidu\.com$
+:: baidu\.greenxf\.cn$
 :: baidutv\.baidu\.com$
 :: banlv\.baidu\.com$
 :: bannedbook\.org$
@@ -3867,7 +3878,9 @@
 :: b\.clkservice\.youdao\.com$
 :: b\.code\.tanwanyx\.com$
 :: bd1\.dopa\.com$
+:: bd1\.pipaw\.com$
 :: bd2\.dopa\.com$
+:: bd2\.pipaw\.com$
 :: bdapi\.ads\.oppomobile\.com$
 :: bdd\.hainan\.net$
 :: bdfrm\.bidvertiser\.com$
@@ -5102,6 +5115,7 @@
 :: mipcache\.bdstatic\.com$
 :: m\.irs01\.com$
 :: mis\.g\.mi\.com$
+:: mivideo\.g\.mi\.com$
 :: mix\.adsame\.com$
 :: m\.jackaow\.com$
 :: m\.jollyspring\.com$
@@ -5930,6 +5944,7 @@
 :: spe\.atdmt\.com$
 :: sp\.fastclick\.net$
 :: s\.pomhz\.com$
+:: spro\.so\.com$
 :: s\.qhupdate\.com$
 :: s\.qqhpg\.com$
 :: s\.qzkxt\.com$
@@ -6248,6 +6263,7 @@
 :: utility\.baidu\.com$
 :: utk\.baidu\.com$
 :: utop\.umengcloud\.com$
+:: utp\.ucweb\.com$
 :: u\.uc123\.com$
 :: u\.ucfly\.com$
 :: uuidapi\.yunos\.com$
@@ -6310,7 +6326,11 @@
 :: vpic\.video\.qq\.com$
 :: vps\.inte\.sogou\.com$
 :: vqq\.admaster\.com\.cn$
+:: vs19\.gzcu\.u3\.ucweb\.com$
 :: vs2\.gzcu\.u3\.ucweb\.com$
+:: vs7\.gzcu\.u3\.ucweb\.com$
+:: vs8\.gzct\.u3\.ucweb\.com$
+:: vs8\.gzcu\.u3\.ucweb\.com$
 :: vsohu\.admaster\.com\.cn$
 :: vtechweb\.adsame\.com$
 :: vt\.ipinyou\.com$
