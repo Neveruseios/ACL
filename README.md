@@ -1,6 +1,6 @@
 **自用ACl**<br></br>
 
-|                           :-:文件                            | 默认连接方式 |                            :-直连                            |                           屏蔽广告                           |        地址        |
+|                             文件                             | 默认连接方式 |                             直连                             |                           屏蔽广告                           |        地址        |
 | :----------------------------------------------------------: | :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------: |
 | [my.acl](https://raw.githubusercontent.com/Asutorufa/ACL/master/my.acl) |   默认代理   | [ipblocks](http://www.ipdeny.com/ipblocks/),[geoip](http://geolite.maxmind.com/download/geoip/) | [neohosts](https://github.com/neko-dev/neohosts)<br />[StevenBlack/hosts](https://github.com/StevenBlack/hosts)<br />[serverlist](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext)<br />自己抓包<br />**(广告包含较多可能会误杀正常的网站)** | 右键复制文件名地址 |
 | [my-light.acl](https://raw.githubusercontent.com/Asutorufa/ACL/master/my-light.acl) |   默认代理   | [ipblocks](http://www.ipdeny.com/ipblocks/),[geoip](http://geolite.maxmind.com/download/geoip/) | 1.国内广告和侵犯隐私网址(baidu,tencent,ali....)<br />2.自己抓包的<br />3.部分(谷歌,雅虎..)广告 | 右键复制文件名地址 |
