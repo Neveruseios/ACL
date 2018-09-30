@@ -1,6 +1,6 @@
 #*********************************************************$
 #url=https://github\.com/neofelhz/neohosts$
-#version=20180914020853$
+#version=20180924032744$
 #*********************************************************$
 (^|\.)0127\.adsame\.com$
 (^|\.)0aqpqdju\.me$
@@ -533,6 +533,7 @@
 (^|\.)bds\.hainan\.net$
 (^|\.)bd\.soarfi\.cn$
 (^|\.)bdsp\.x\.jd\.com$
+(^|\.)bdtv\.tianlangkm\.com$
 (^|\.)bdv\.bidvertiser\.com$
 (^|\.)beacon\.gtimg\.com$
 (^|\.)beacon\.sina\.com\.cn$
@@ -3909,6 +3910,7 @@
 :: bds\.hainan\.net$
 :: bd\.soarfi\.cn$
 :: bdsp\.x\.jd\.com$
+:: bdtv\.tianlangkm\.com$
 :: bdv\.bidvertiser\.com$
 :: beacon\.gtimg\.com$
 :: beacon\.sina\.com\.cn$
