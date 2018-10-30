@@ -8,6 +8,7 @@ sed -i 's/\./\\\./g' neohosts.acl
 sed -i 's/$/\$/g' neohosts.acl
 sed -i 's/0\\.0\\.0\\.0 /(^|\\.)/' neohosts.acl
 sed -i 's/\:\: /(^|\\.)/' neohosts.acl
+sed -i 's/\n\$/\$/' neohosts.acl
 sed -i '1,14d' neohosts.acl
 
 sed -i '/^ *$/d' stevenhosts.acl
