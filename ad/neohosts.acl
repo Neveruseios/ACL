@@ -1,6 +1,6 @@
 #*********************************************************$
 #url=https://github\.com/neofelhz/neohosts$
-#version=20180924032744$
+#version=20181030063101$
 #*********************************************************$
 (^|\.)0127\.adsame\.com$
 (^|\.)0aqpqdju\.me$
@@ -34,7 +34,9 @@
 (^|\.)312036\.com$
 (^|\.)3dns-2\.adobe\.com$
 (^|\.)3dns-3\.adobe\.com$
+(^|\.)3rd\.t\.sohu\.com$
 (^|\.)4171764\.fls\.doubleclick\.net$
+(^|\.)4336wang\.cn$
 (^|\.)44\.adsina\.allyes\.com$
 (^|\.)45\.adsina\.allyes\.com$
 (^|\.)46sg\.com$
@@ -54,6 +56,7 @@
 (^|\.)818\.dopa\.com$
 (^|\.)818\.ok365\.com$
 (^|\.)846\.move7\.com$
+(^|\.)888\.tv\.sohu\.com$
 (^|\.)8b4pea\.c\.admaster\.com\.cn$
 (^|\.)8b6dfa\.v\.admaster\.com\.cn$
 (^|\.)8chzga\.v\.admaster\.com\.cn$
@@ -110,10 +113,12 @@
 (^|\.)acookie\.linezing\.com$
 (^|\.)acs4baichuan\.m\.taobao\.com$
 (^|\.)act\.commercial\.shouji\.360\.cn$
+(^|\.)action\.logger\.baofeng\.com$
 (^|\.)activate\.adobe\.com$
 (^|\.)activate-sea\.adobe\.com$
 (^|\.)activate-sjc0\.adobe\.com$
 (^|\.)activate\.wip3\.adobe\.com$
+(^|\.)active\.baofeng\.com$
 (^|\.)activeqq\.3g\.qq\.com$
 (^|\.)activity\.yuyiya\.com$
 (^|\.)actsdk\.idreamsky\.com$
@@ -156,11 +161,13 @@
 (^|\.)ad\.cn\.doubleclick\.net$
 (^|\.)adcore\.lenovomm\.com$
 (^|\.)ad-count\.adwo\.com$
+(^|\.)addata\.ku6\.com$
 (^|\.)ad-delivery\.net$
 (^|\.)ad\.dev\.360\.cn$
 (^|\.)ad\.doubleclick\.net$
 (^|\.)ad\.dqwjzm\.com$
 (^|\.)ad\.duapps\.com$
+(^|\.)ade\.googlesyndication\.com$
 (^|\.)adeventtracker\.spotify\.com$
 (^|\.)adfarm\.mediaplex\.com$
 (^|\.)adfill\.adview\.cn$
@@ -183,12 +190,12 @@
 (^|\.)ad\.jsnbrynb\.com$
 (^|\.)adlaunch\.moji\.com$
 (^|\.)adlog\.flurry\.com$
+(^|\.)ad\.mail\.sohu\.com$
 (^|\.)adm\.baidu\.com$
 (^|\.)admd\.yam\.com$
 (^|\.)admeld\.adnxs\.com$
 (^|\.)adm\.icast\.cn$
 (^|\.)admin\.cooguo\.com$
-(^|\.)admin\.wooboo\.com\.cn$
 (^|\.)adm\.leju\.sina\.com\.cn$
 (^|\.)adn\.atdmt\.com$
 (^|\.)ad\.netowl\.jp$
@@ -199,8 +206,8 @@
 (^|\.)adobe-dns\.adobe\.com$
 (^|\.)a\.domob\.cn$
 (^|\.)a\.dounanhuahui\.com$
+(^|\.)adp\.atm\.youku\.com$
 (^|\.)adping\.qq\.com$
-(^|\.)adplace\.adsame\.com$
 (^|\.)ad\.player\.baidu\.com$
 (^|\.)adplexmedia\.adk2\.co$
 (^|\.)adplexmedia\.adk2x\.com$
@@ -217,8 +224,9 @@
 (^|\.)ads2\.msn\.com$
 (^|\.)ads\.979799777\.com$
 (^|\.)ads\.adaptv\.advertising\.com$
-(^|\.)adsame\.com$
+(^|\.)ads-a\.juicyads\.com$
 (^|\.)adsamer\.adsame\.com$
+(^|\.)ads-api\.videojj\.com$
 (^|\.)ads\.bssdl\.kugou\.com$
 (^|\.)adscdn\.baidu\.com$
 (^|\.)adsclick\.qq\.com$
@@ -249,6 +257,7 @@
 (^|\.)adsmogo\.com$
 (^|\.)ads\.msn\.com$
 (^|\.)ads\.ninemsn\.com\.au$
+(^|\.)ad\.sohu\.com$
 (^|\.)adsolution\.imtt\.qq\.com$
 (^|\.)ads\.pubmatic\.com$
 (^|\.)adsp\.xunlei\.com$
@@ -292,8 +301,10 @@
 (^|\.)adx\.ads\.oppomobile\.com$
 (^|\.)adx\.g\.doubleclick\.net$
 (^|\.)adx\.pro\.cn$
+(^|\.)adx-static\.ksosoft\.com$
 (^|\.)ad\.xxguan\.cn$
 (^|\.)adx\.xiaodutv\.com$
+(^|\.)adxxx\.com$
 (^|\.)adzjvnet\.allyes\.com$
 (^|\.)ad\.zuimeitianqi\.com$
 (^|\.)ae\.bdstatic\.com$
@@ -345,6 +356,7 @@
 (^|\.)alpha\.brand\.sogou\.com$
 (^|\.)als\.baidu\.com$
 (^|\.)ama\.adwo\.com$
+(^|\.)a\.mct01\.com$
 (^|\.)amdc\.m\.taobao\.com$
 (^|\.)am\.g\.ireader\.com$
 (^|\.)amps\.yoyi\.com\.cn$
@@ -367,6 +379,7 @@
 (^|\.)analytics\.yam\.com$
 (^|\.)andmlbf\.tj\.ijinshan\.com$
 (^|\.)android\.bugly\.qq\.com$
+(^|\.)androidlog\.shouji\.baofeng\.com$
 (^|\.)android-lrcresource\.wps\.cn$
 (^|\.)android\.push\.126\.net$
 (^|\.)android\.rqd\.qq\.com$
@@ -434,8 +447,8 @@
 (^|\.)api\.tr\.blismedia\.com$
 (^|\.)api\.tuisong\.baidu\.com$
 (^|\.)api\.tw06\.xlmc\.sec\.miui\.com$
+(^|\.)api\.uniplayad\.com$
 (^|\.)api\.viglink\.com$
-(^|\.)api\.wapa\.taobao\.com$
 (^|\.)api\.waptest\.taobao\.com$
 (^|\.)api\.w\.inmobi\.com$
 (^|\.)api\.wsq\.umeng\.com$
@@ -450,6 +463,7 @@
 (^|\.)appc\.baidu\.com$
 (^|\.)appdownload\.alicdn\.com$
 (^|\.)appgift\.sinaapp\.com$
+(^|\.)app\.houyi\.baofeng\.net$
 (^|\.)applog\.uc\.cn$
 (^|\.)apppic\.yingyongbei\.com$
 (^|\.)appsupdate\.sinaapp\.com$
@@ -465,8 +479,10 @@
 (^|\.)aqqgli3vle\.bid$
 (^|\.)ard\.yahoo\.co\.jp$
 (^|\.)aries\.mzres\.com$
+(^|\.)ark\.letv\.com$
 (^|\.)art\.theta\.sogoucdn\.com$
 (^|\.)asearch\.alicdn\.com$
+(^|\.)as\.mgtv\.com$
 (^|\.)asp\.adsame\.com$
 (^|\.)assets\.210189\.com$
 (^|\.)assets\.servedby-buysellads\.com$
@@ -553,6 +569,7 @@
 (^|\.)bigdata\.adups\.com$
 (^|\.)bigdata\.advmob\.cn$
 (^|\.)bite\.theta\.sogoucdn\.com$
+(^|\.)biz5\.kankan\.com$
 (^|\.)biz\.live\.xunlei\.com$
 (^|\.)biz\.vpon\.com$
 (^|\.)biz\.weibo\.com$
@@ -575,10 +592,12 @@
 (^|\.)botuu\.adsame\.com$
 (^|\.)bp\.mobad\.ijinshan\.com$
 (^|\.)brand\.sogou\.com$
+(^|\.)breeze\.olclient\.baofeng\.com$
 (^|\.)bro\.flyme\.cn$
 (^|\.)bsiet\.husky\.sogou\.com$
 (^|\.)bs\.l\.qq\.com$
 (^|\.)bss\.pandora\.xiaomi\.com$
+(^|\.)bsv\.atm\.youku\.com$
 (^|\.)btlaunch\.baidu\.com$
 (^|\.)bttrack\.com$
 (^|\.)bu1\.duba\.com$
@@ -644,6 +663,7 @@
 (^|\.)cdn\.ark\.qq\.com$
 (^|\.)cdnas\.hyperpromote\.com$
 (^|\.)cdn\.bidvertiser\.com$
+(^|\.)cdn\.cmop\.mgtv\.com$
 (^|\.)cdn\.cooguo\.com$
 (^|\.)cdn\.districtm\.io$
 (^|\.)cdn\.dragonstatic\.com$
@@ -681,6 +701,7 @@
 (^|\.)cjhq\.baidu\.com$
 (^|\.)cj\.qidian\.com$
 (^|\.)cjroq\.bealge\.sogou\.com$
+(^|\.)ck\.houyi\.baofeng\.net$
 (^|\.)cleaner\.baidu\.com$
 (^|\.)cl\.he9630\.com$
 (^|\.)click1forhz\.adsmogo\.com$
@@ -692,6 +713,7 @@
 (^|\.)click\.hm\.baidu\.com$
 (^|\.)click\.jebe\.renren\.com$
 (^|\.)clickjs\.cnzz\.com$
+(^|\.)clicklog\.moviebox\.baofeng\.net$
 (^|\.)click\.mz\.simba\.taobao\.com$
 (^|\.)click\.qianqian\.com$
 (^|\.)clicks\.beap\.bc\.yahoo\.com$
@@ -714,7 +736,6 @@
 (^|\.)cloudcdn\.dopa\.com$
 (^|\.)cloudcdn\.dopa\.com\.cn$
 (^|\.)cloudcdn\.yousee\.com$
-(^|\.)cloudservice22\.kingsoft-office-service\.com$
 (^|\.)c\.l\.qq\.com$
 (^|\.)cm066\.getui\.igexin\.com$
 (^|\.)cm\.adgrx\.com$
@@ -731,6 +752,7 @@
 (^|\.)cm\.dmp\.sina\.cn$
 (^|\.)cm\.e\.qq\.com$
 (^|\.)cm\.eyereturn\.com$
+(^|\.)cm\.fancyapi\.com$
 (^|\.)cm\.g\.doubleclick\.net$
 (^|\.)cm\.gtags\.net$
 (^|\.)cm\.he2d\.com$
@@ -738,7 +760,9 @@
 (^|\.)cm\.ipinyou\.com$
 (^|\.)cm\.jd\.com$
 (^|\.)cm\.l\.qq\.com$
+(^|\.)cm\.mct01\.com$
 (^|\.)cm\.netseer\.com$
+(^|\.)cmop\.mgtv\.com$
 (^|\.)cm\.p4p\.cn\.yahoo\.com$
 (^|\.)cm\.pos\.baidu\.com$
 (^|\.)cm\.reachmax\.cn$
@@ -750,17 +774,20 @@
 (^|\.)cms\.quantserve\.com$
 (^|\.)cms\.tanx\.com$
 (^|\.)cm\.vamaker\.com$
+(^|\.)cn\.api\.push\.le\.com$
 (^|\.)cnf\.adbana\.com$
 (^|\.)c-nfa\.jd\.com$
 (^|\.)cnnic\.cn$
 (^|\.)cnnic\.net$
 (^|\.)cnnic\.net\.cn$
 (^|\.)cn\.pub\.vpon\.com$
+(^|\.)cntv\.wrating\.com$
 (^|\.)c\.nz\.gt\.igexin\.com$
 (^|\.)cnzz\.mmstat\.com$
 (^|\.)code11\.onetad\.com$
 (^|\.)code12\.onetad\.com$
 (^|\.)code\.fastclick\.net$
+(^|\.)co\.dtech\.baofeng\.com$
 (^|\.)coed-d\.openx\.net$
 (^|\.)coinblind\.com$
 (^|\.)coinerra\.com$
@@ -776,6 +803,7 @@
 (^|\.)config\.adsage\.cn$
 (^|\.)config\.adsage\.com$
 (^|\.)config\.adview\.cn$
+(^|\.)config\.baofeng\.net$
 (^|\.)config\.inmobi\.com$
 (^|\.)config-ltvp\.inmobi\.com$
 (^|\.)config\.mobisage\.cn$
@@ -786,8 +814,11 @@
 (^|\.)conversion\.pro\.cn$
 (^|\.)conv\.youdao\.com$
 (^|\.)cookiemapping\.wrating\.com$
+(^|\.)coop\.pop\.baofeng\.com$
 (^|\.)corebug\.adsame\.com$
+(^|\.)corner\.houyi\.baofeng\.net$
 (^|\.)coro\.benbaisteel\.com$
+(^|\.)corp\.sohu\.com$
 (^|\.)couchcoaster\.jp$
 (^|\.)count10\.51yes\.com$
 (^|\.)count11\.51yes\.com$
@@ -840,7 +871,10 @@
 (^|\.)count7\.51yes\.com$
 (^|\.)count8\.51yes\.com$
 (^|\.)count9\.51yes\.com$
+(^|\.)count\.atm\.youku\.com$
+(^|\.)count\.cpm\.cm\.kankan\.com$
 (^|\.)counter\.kingsoft\.com$
+(^|\.)counter\.ksosoft\.com$
 (^|\.)counter\.sina\.com\.cn$
 (^|\.)count\.mail\.163\.com$
 (^|\.)countt\.51yes\.com$
@@ -850,6 +884,7 @@
 (^|\.)cpc\.click\.alimama\.com$
 (^|\.)cpc\.haohaowan8\.com$
 (^|\.)cpc\.sogou\.com$
+(^|\.)cpc\.sohu\.com$
 (^|\.)cp\.jiajv\.net$
 (^|\.)cpro2\.baidu\.com$
 (^|\.)cpro2\.baidustatic\.com$
@@ -889,6 +924,8 @@
 (^|\.)cws-cctv\.conviva\.com$
 (^|\.)c\.x\.cn\.miaozhen\.com$
 (^|\.)c\.xhsxgmt\.cn$
+(^|\.)cytroncdn\.videojj\.com$
+(^|\.)cytron\.videojj\.com$
 (^|\.)cz01016102\.ms758\.com$
 (^|\.)d00\.sina\.com\.cn$
 (^|\.)d0\.sina\.com\.cn$
@@ -901,6 +938,7 @@
 (^|\.)d2\.sinaimg\.cn$
 (^|\.)d31qbv1cthcecs\.cloudfront\.net$
 (^|\.)d36eyd5j1kt1m6\.cloudfront\.net$
+(^|\.)d3f\.houyi\.baofeng\.net$
 (^|\.)d3g\.qq\.com$
 (^|\.)d3\.sina\.com\.cn$
 (^|\.)d3\.sinaimg\.cn$
@@ -921,12 +959,14 @@
 (^|\.)d9\.sinaimg\.cn$
 (^|\.)dafahao\.com$
 (^|\.)dafahao\.org$
+(^|\.)dailylog\.storm\.baofeng\.com$
 (^|\.)dajiyuan\.com$
 (^|\.)dajiyuan\.org$
 (^|\.)daohang\.114so\.cn$
 (^|\.)data\.ads\.oppomobile\.com$
 (^|\.)databank\.air\.yoyi\.com\.cn$
 (^|\.)databank\.yoyi\.com\.cn$
+(^|\.)data\.danmu\.baofeng\.com$
 (^|\.)data\.flurry\.com$
 (^|\.)data\.haoma\.sogou\.com$
 (^|\.)data\.mistat\.xiaomi\.com$
@@ -966,6 +1006,7 @@
 (^|\.)display\.ad\.daum\.net$
 (^|\.)display\.adhudong\.com$
 (^|\.)disqusads\.com$
+(^|\.)distf\.stat\.kankan\.com$
 (^|\.)dis\.us\.criteo\.com$
 (^|\.)d\.kugou\.com$
 (^|\.)dl1sw\.baidu\.com$
@@ -988,6 +1029,7 @@
 (^|\.)dl-vip\.pcfaster\.baidu\.co\.th$
 (^|\.)dl\.wan\.sogoucdn\.com$
 (^|\.)dl\.youjia2016\.com$
+(^|\.)dmapp\.youku\.com$
 (^|\.)dm\.bytedance\.com$
 (^|\.)dmp\.adpush\.cn$
 (^|\.)dmpclick\.deliver\.ifeng\.com$
@@ -997,6 +1039,7 @@
 (^|\.)dns1\.oadz\.com$
 (^|\.)dns2\.oadz\.com$
 (^|\.)do69ifsly4\.me$
+(^|\.)doc\.go\.sohu\.com$
 (^|\.)dol\.deliver\.ifeng\.com$
 (^|\.)dolphin1\.adsame\.com$
 (^|\.)dolphin\.adsame\.com$
@@ -1018,7 +1061,6 @@
 (^|\.)download\.mackeeper\.com$
 (^|\.)download\.sd\.baidu\.com$
 (^|\.)download\.sj\.qq\.com$
-(^|\.)download\.wooboo\.com\.cn$
 (^|\.)download\.zhushou\.sogou\.com$
 (^|\.)dp\.559\.cc$
 (^|\.)dp\.g\.doubleclick\.net$
@@ -1029,6 +1071,7 @@
 (^|\.)d\.rexuebi\.com$
 (^|\.)dr\.holaworld\.cn$
 (^|\.)drmcmm\.baidu\.com$
+(^|\.)d\.s11\.cn$
 (^|\.)ds\.jlbksy\.com$
 (^|\.)dsp\.adfarm1\.adition\.com$
 (^|\.)dsp\.brand\.sogou\.com$
@@ -1044,11 +1087,15 @@
 (^|\.)dualstack\.adsame-1421766300\.ap-southeast-1\.elb\.amazonaws\.com$
 (^|\.)d\.union\.ijinshan\.com$
 (^|\.)dup\.baidustatic\.com$
+(^|\.)duration\.logger\.baofeng\.com$
 (^|\.)dvb\.pandora\.xiaomi\.com$
 (^|\.)dvsend\.china\.com$
 (^|\.)dvser02\.china\.com$
 (^|\.)dvser\.china\.com$
 (^|\.)dvx-android\.domob\.cn$
+(^|\.)dw-collect\.ksosoft\.com$
+(^|\.)dw-online\.ksosoft\.com$
+(^|\.)dwtracking\.sdo\.com$
 (^|\.)dwtrack\.qidian\.com$
 (^|\.)dxp\.baidu\.com$
 (^|\.)dxprla\.m\.qxs\.la$
@@ -1129,6 +1176,7 @@
 (^|\.)et\.w\.inmobi\.com$
 (^|\.)event\.ksosoft\.com$
 (^|\.)eventlog\.beacon\.qq\.com$
+(^|\.)eventlog\.hd\.baofeng\.com$
 (^|\.)event\.mackeeper\.com$
 (^|\.)events\.appsflyer\.com$
 (^|\.)events\.pingan\.com$
@@ -1202,9 +1250,11 @@
 (^|\.)fxc\.aiquxs\.com$
 (^|\.)fych\.uranus\.sogou\.com$
 (^|\.)fz863\.com$
+(^|\.)fz\.letv\.com$
 (^|\.)g1\.163\.com$
 (^|\.)g\.163\.com$
 (^|\.)g1\.tagtic\.cn$
+(^|\.)g3\.letv\.com$
 (^|\.)g\.adnxs\.com$
 (^|\.)g\.ads\.cn\.miaozhen\.com$
 (^|\.)gafxa\.code\.mytanwan\.com$
@@ -1268,6 +1318,7 @@
 (^|\.)h5\.holalauncher\.com$
 (^|\.)h5\.mse\.360\.cn$
 (^|\.)haitaoad\.nosdn\.127\.net$
+(^|\.)haiwai-ic\.ksosoft\.com$
 (^|\.)hao549\.com$
 (^|\.)hao\.7654\.com$
 (^|\.)hao\.qquu8\.com$
@@ -1310,9 +1361,11 @@
 (^|\.)hndnserror5\.wo\.com\.cn$
 (^|\.)hndnserror6\.wo\.com\.cn$
 (^|\.)hndnserror7\.wo\.com\.cn$
+(^|\.)hoplink\.ksosoft\.com$
 (^|\.)hot\.browser\.miui\.com$
 (^|\.)hot\.m\.shouji\.360tpcdn\.com$
 (^|\.)houtai\.2345\.com$
+(^|\.)houyi\.logger\.baofeng\.com$
 (^|\.)hpd\.baidu\.com$
 (^|\.)hq\.appsflyer\.com$
 (^|\.)hqs1\.cnzz\.com$
@@ -1321,6 +1374,7 @@
 (^|\.)hqs9\.cnzz\.com$
 (^|\.)h\.sora\.yoyi\.com\.cn$
 (^|\.)hs\.qhupdate\.com$
+(^|\.)html\.atm\.youku\.com$
 (^|\.)httpdns\.push\.oppomobile\.com$
 (^|\.)httpring\.qq\.com$
 (^|\.)ht\.www\.sogou\.com$
@@ -1375,6 +1429,7 @@
 (^|\.)ifengad\.3g\.ifeng\.com$
 (^|\.)ifeng\.adsame\.com$
 (^|\.)i\.flow\.browser\.oppomobile\.com$
+(^|\.)iflow\.minfo\.baofeng\.net$
 (^|\.)iflow\.uczzd\.cn$
 (^|\.)iflow\.uczzd\.com$
 (^|\.)iflow\.uczzd\.com\.cn$
@@ -1384,6 +1439,7 @@
 (^|\.)ifs\.tanx\.com$
 (^|\.)i\.gdt\.qq\.com$
 (^|\.)ig\.nukefans\.net$
+(^|\.)i\.go\.sohu\.com$
 (^|\.)i\.haloapps\.com$
 (^|\.)i\.holalauncher\.com$
 (^|\.)i\.huilixieye\.net$
@@ -1400,6 +1456,7 @@
 (^|\.)image\.haiyunx\.com$
 (^|\.)image\.p4p\.sogou\.com$
 (^|\.)images\.fastclick\.net$
+(^|\.)images\.sohu\.com$
 (^|\.)images\.taboola\.com$
 (^|\.)image\.zzd\.sm\.cn$
 (^|\.)imagzine\.oppomobile\.com$
@@ -1426,6 +1483,8 @@
 (^|\.)img\.adpush\.cn$
 (^|\.)img\.ad\.zhangyue\.com$
 (^|\.)img\.alimama\.cn$
+(^|\.)imgaliyun\.da\.mgtv\.com$
+(^|\.)imgaliyun\.res\.mgtv\.com$
 (^|\.)img\.amp\.ad\.sina\.com\.cn$
 (^|\.)img\.atdmt\.com$
 (^|\.)imgcdn\.de92\.com$
@@ -1445,6 +1504,7 @@
 (^|\.)img\.wan\.sogou\.com$
 (^|\.)img-x\.jd\.com$
 (^|\.)i\.mmcdn\.cn$
+(^|\.)imp\.go\.sohu\.com$
 (^|\.)imp\.optaim\.com$
 (^|\.)impservice2\.youdao\.com$
 (^|\.)impservice\.chnl\.youdao\.com$
@@ -1490,7 +1550,9 @@
 (^|\.)inte\.sogou\.com$
 (^|\.)inte\.theta\.sogoucdn\.com$
 (^|\.)intf\.cnzz\.com$
+(^|\.)iphonelog\.shouji\.baofeng\.com$
 (^|\.)ipinyou\.com$
+(^|\.)ipm\.atm\.youku\.com$
 (^|\.)iqiyi\.m\.cn\.miaozhen\.com$
 (^|\.)ir\.mail\.163\.com$
 (^|\.)irnvf\.lu\.sogou\.com$
@@ -1499,6 +1561,7 @@
 (^|\.)i\.w55c\.net$
 (^|\.)iwan\.sogou\.com$
 (^|\.)i\.w\.inmobi\.com$
+(^|\.)iyes\.youku\.com$
 (^|\.)j\.12365chia\.com$
 (^|\.)j7182\.hfxcsl\.cn$
 (^|\.)j\.appjiagu\.com$
@@ -1512,6 +1575,7 @@
 (^|\.)jellyfish\.pandora\.xiaomi\.com$
 (^|\.)j\.fd7c\.com$
 (^|\.)jfdaily\.adsame\.com$
+(^|\.)jfm4\.pop\.baofeng\.net$
 (^|\.)j\.hongyangpai\.com$
 (^|\.)jiayi1\.oss-cn-shanghai\.aliyuncs\.com$
 (^|\.)jifen\.2345\.com$
@@ -1586,10 +1650,11 @@
 (^|\.)k\.ctsywy\.com$
 (^|\.)k\.domob\.cn$
 (^|\.)keyrun\.cn$
-(^|\.)keystone\.mwbsys\.com$
 (^|\.)kfewaz\.zh1155\.com$
 (^|\.)kgmobilestat\.kugou\.com$
 (^|\.)kho3au7l4z\.me$
+(^|\.)kkpgv2\.kankan\.com$
+(^|\.)kkpgv\.kankan\.com$
 (^|\.)kn\.bjbrtc\.com$
 (^|\.)kn\.zzdahan\.com$
 (^|\.)kob\.adxkj\.com$
@@ -1624,6 +1689,7 @@
 (^|\.)letv\.m\.cn\.miaozhen\.com$
 (^|\.)linkpage\.cn$
 (^|\.)links\.services\.disqus\.com$
+(^|\.)listlog\.baofeng\.net$
 (^|\.)livec\.l\.qq\.com$
 (^|\.)livem\.l\.qq\.com$
 (^|\.)livep\.l\.qq\.com$
@@ -1642,12 +1708,20 @@
 (^|\.)lndnserror5\.wo\.com\.cn$
 (^|\.)lndnserror6\.wo\.com\.cn$
 (^|\.)lndnserror7\.wo\.com\.cn$
+(^|\.)loading\.baofeng5\.baofeng\.net$
 (^|\.)log2\.air\.yoyi\.com\.cn$
 (^|\.)log\.collect\.yinyuetai\.com$
 (^|\.)log\.cs\.pp\.cn$
+(^|\.)log\.da\.hunantv\.com$
+(^|\.)logger\.treexml\.baofeng\.com$
 (^|\.)log\.he2d\.com$
+(^|\.)log\.houyi\.baofeng\.net$
+(^|\.)log\.ltype\.baofeng\.com$
 (^|\.)log\.mix\.sina\.com\.cn$
 (^|\.)log\.music\.baidu\.com$
+(^|\.)log\.nvwa\.baofeng\.com$
+(^|\.)log\.p2p\.hunantv\.com$
+(^|\.)log\.rc\.hunantv\.com$
 (^|\.)logs\.newapi\.com$
 (^|\.)log\.spotify\.com$
 (^|\.)log\.stat\.kugou\.com$
@@ -1656,12 +1730,15 @@
 (^|\.)log\.umsns\.com$
 (^|\.)log\.umtrack\.com$
 (^|\.)logupdate\.avlyun\.sec\.miui\.com$
+(^|\.)log\.v2\.hunantv\.com$
 (^|\.)log\.vcgame\.cn$
+(^|\.)log\.videojj\.com$
 (^|\.)log\.voicecloud\.cn$
 (^|\.)log\.web\.kugou\.com$
 (^|\.)l\.qq\.com$
 (^|\.)ls\.l\.qq\.com$
 (^|\.)lu\.sogou\.com$
+(^|\.)lwq\.wangketuan\.com$
 (^|\.)lxcdn\.dl\.files\.xiaomi\.net$
 (^|\.)lycos-eu\.imrworldwide\.com$
 (^|\.)m\.12365chia\.com$
@@ -1672,6 +1749,7 @@
 (^|\.)m1\.baidu\.com$
 (^|\.)m2374\.oadz\.com$
 (^|\.)m\.28487\.net$
+(^|\.)m2\.da\.mgtv\.com$
 (^|\.)m3bnqqqw\.com$
 (^|\.)m\.7180443\.com$
 (^|\.)m-78\.jp$
@@ -1703,6 +1781,7 @@
 (^|\.)material\.istreamsche\.com$
 (^|\.)material\.jfdaily\.adsame\.com$
 (^|\.)material\.mtty\.xin$
+(^|\.)m\.atm\.youku\.com$
 (^|\.)maw\.wnbfw\.com$
 (^|\.)max\.adsame\.com$
 (^|\.)maxsys\.adsame\.com$
@@ -1741,6 +1820,8 @@
 (^|\.)meitubeauty\.meitudata\.com$
 (^|\.)m\.emgwq\.com$
 (^|\.)metok\.sys\.miui\.com$
+(^|\.)me\.videojj\.com$
+(^|\.)mf\.atm\.youku\.com$
 (^|\.)m\.feifish66\.com$
 (^|\.)m\.fhxsw\.org$
 (^|\.)mfp\.deliver\.ifeng\.com$
@@ -1754,6 +1835,8 @@
 (^|\.)m\.hmzsfmjc\.com$
 (^|\.)mhradio\.org$
 (^|\.)miaozhen\.com$
+(^|\.)mid\.houyi\.baofeng\.net$
+(^|\.)midinfo\.baofeng\.com$
 (^|\.)migc\.g\.mi\.com$
 (^|\.)migcreport\.g\.mi\.com$
 (^|\.)mi\.gdt\.qq\.com$
@@ -1789,10 +1872,15 @@
 (^|\.)mobaders\.oss-cn-beijing\.aliyuncs\.com$
 (^|\.)mobads\.baidu\.com$
 (^|\.)mobads-logs\.baidu\.com$
+(^|\.)mobaliyun\.res\.mgtv\.com$
 (^|\.)mobi\.adsage\.com$
+(^|\.)mobile2\.da\.mgtv\.com$
 (^|\.)mobileads\.google\.com$
 (^|\.)mobileads\.msn\.com$
+(^|\.)mobile\.da\.mgtv\.com$
+(^|\.)mobile\.log\.hunantv\.com$
 (^|\.)mobilelog\.kugou\.com$
+(^|\.)mobilemsg\.youku\.com$
 (^|\.)mo\.haloapps\.cn$
 (^|\.)moka\.inte\.sogoucdn\.com$
 (^|\.)monitor\.uu\.qq\.com$
@@ -1802,6 +1890,7 @@
 (^|\.)motu\.p4p\.sina\.com\.cn$
 (^|\.)mou\.niu\.xunlei\.com$
 (^|\.)moupdate10332052\.wps\.cn$
+(^|\.)mp4\.res\.hunantv\.com$
 (^|\.)m\.panda\.voiceads\.cn$
 (^|\.)mpb1\.iteye\.com$
 (^|\.)mpb2\.iteye\.com$
@@ -1854,7 +1943,9 @@
 (^|\.)my1fc\.m\.b5200\.net$
 (^|\.)my1fimg\.m\.b5200\.net$
 (^|\.)my\.adsmogo\.com$
+(^|\.)m\.yalayi\.com$
 (^|\.)m\.yangjingbang\.net$
+(^|\.)myes\.youku\.com$
 (^|\.)m\.yoyi\.com\.cn$
 (^|\.)n\.3g\.163\.com$
 (^|\.)na1r\.services\.adobe\.com$
@@ -1867,6 +1958,8 @@
 (^|\.)nbsdk-baichuan\.taobao\.com$
 (^|\.)nc004x\.corp\.youdao\.com$
 (^|\.)nc045x\.corp\.youdao\.com$
+(^|\.)nclog\.mars\.baofeng\.net$
+(^|\.)nclog\.pad\.baofeng\.net$
 (^|\.)n\.domob\.cn$
 (^|\.)neirong\.baidu\.com$
 (^|\.)net\.adpush\.cn$
@@ -1877,6 +1970,8 @@
 (^|\.)news\.mpush\.qq\.com$
 (^|\.)news\.push\.126\.net$
 (^|\.)newspush\.sinajs\.cn$
+(^|\.)news\.qhstatic\.com$
+(^|\.)new\.taobc\.com$
 (^|\.)new\.users\.51\.la$
 (^|\.)newvector\.map\.baidu\.com$
 (^|\.)nex\.163\.com$
@@ -1935,6 +2030,7 @@
 (^|\.)o\.minisplat\.cn$
 (^|\.)onetag-sys\.com$
 (^|\.)online\.cnzz\.com$
+(^|\.)onlinetips\.baofeng5\.baofeng\.net$
 (^|\.)opehs\.tanx\.com$
 (^|\.)openapi\.guanjia\.qq\.com$
 (^|\.)openapi-news\.meizu\.com$
@@ -1954,6 +2050,7 @@
 (^|\.)ow\.s1\.shuhuangge\.org$
 (^|\.)ow\.s2\.shuhuangge\.org$
 (^|\.)p2\.l\.qq\.com$
+(^|\.)p2pmid\.baofeng\.com$
 (^|\.)p3\.l\.qq\.com$
 (^|\.)p3p\.mmstat\.com$
 (^|\.)p3p\.sogou\.com$
@@ -1974,12 +2071,14 @@
 (^|\.)pagead\.l\.google\.com$
 (^|\.)pagead-tpc\.l\.google\.com$
 (^|\.)pagechoice\.net$
+(^|\.)pageshow\.dftoutiao\.com$
 (^|\.)pagespeed\.report\.qq\.com$
 (^|\.)p\.alimama\.com$
 (^|\.)palmnews\.sina\.cn$
 (^|\.)panda\.adsame\.com$
 (^|\.)p\.appjiagu\.com$
 (^|\.)parking\.zunmi\.cn$
+(^|\.)parser\.houyi\.baofeng\.net$
 (^|\.)partnerad\.l\.google\.com$
 (^|\.)partnerads\.ysm\.yahoo\.com$
 (^|\.)partner\.googleadservices\.com$
@@ -1992,13 +2091,20 @@
 (^|\.)pb\.sogou\.com$
 (^|\.)pb\.wang502\.com$
 (^|\.)pc\.107788\.com$
+(^|\.)pc1\.da\.mgtv\.com$
 (^|\.)pcbrowser\.dd\.qq\.com$
+(^|\.)pc\.da\.mgtv\.com$
 (^|\.)pcfg\.wps\.cn$
 (^|\.)p\.clkservice\.youdao\.com$
+(^|\.)pcminitj\.dftoutiao\.com$
 (^|\.)pcookie\.cnzz\.com$
 (^|\.)pcookie\.tanx\.com$
 (^|\.)pc\.quansj\.cn$
+(^|\.)pcvideoaliyun\.titan\.mgtv\.com$
 (^|\.)pc\.videoclick\.baidu\.com$
+(^|\.)pcvideoyd\.titan\.mgtv\.com$
+(^|\.)pcweb-v1\.log\.mgtv\.com$
+(^|\.)pcweb\.v1\.mgtv\.com$
 (^|\.)pcxzo\.pluto\.sogou\.com$
 (^|\.)pdc\.micloud\.xiaomi\.net$
 (^|\.)pd\.dopa\.com\.cn$
@@ -2024,8 +2130,6 @@
 (^|\.)pics\.taobaocdn\.com$
 (^|\.)pindao\.huoban\.taobao\.com$
 (^|\.)ping\.acc\.sogou\.com$
-(^|\.)pingfore\.qq\.com$
-(^|\.)pingfore\.tenpay\.com$
 (^|\.)pinghot\.qq\.com$
 (^|\.)pingma\.qq\.com$
 (^|\.)ping\.pinyin\.sogou\.com$
@@ -2039,9 +2143,12 @@
 (^|\.)pixel\.sitescout\.com$
 (^|\.)pixel\.tapad\.com$
 (^|\.)pix\.impdesk\.com$
+(^|\.)pixiu\.shangshufang\.ksosoft\.com$
 (^|\.)pjyu\.golden1\.sogou\.com$
 (^|\.)pkg-cdn\.youmi\.net$
 (^|\.)p\.kjwx8\.com$
+(^|\.)plat\.videojj\.com$
+(^|\.)player\.log\.hunantv\.com$
 (^|\.)playinfo\.gomlab\.com$
 (^|\.)plmkolp\.m\.58xs\.tw$
 (^|\.)p\.l\.qq\.com$
@@ -2055,11 +2162,13 @@
 (^|\.)pop\.sjk\.ijinshan\.com$
 (^|\.)popup\.msn\.com$
 (^|\.)pos\.baidu\.com$
+(^|\.)position\.dftoutiao\.com$
 (^|\.)post\.ra\.icast\.cn$
 (^|\.)pptv\.adx\.admaster\.com\.cn$
 (^|\.)pptv\.cm\.admaster\.com\.cn$
 (^|\.)ppurifier\.game\.xiaomi\.com$
 (^|\.)practivate\.adobe\.com$
+(^|\.)pr\.adxxx\.com$
 (^|\.)pr-bh\.ybp\.yahoo\.com$
 (^|\.)prc\.rjje4\.com$
 (^|\.)pr\.da\.netease\.com$
@@ -2092,13 +2201,17 @@
 (^|\.)push\.5z5zw\.com$
 (^|\.)pushapi\.lenovomm\.com$
 (^|\.)push\.mobile\.kugou\.com$
+(^|\.)push\.m\.youku\.com$
 (^|\.)push\.res\.meizu\.com$
 (^|\.)push\.wandoujia\.com$
 (^|\.)push\.yuedu\.163\.com$
 (^|\.)push\.zhangyue\.com$
 (^|\.)push\.zhanzhang\.baidu\.com$
 (^|\.)pv\.anzhi\.com$
+(^|\.)pvdata\.ku6\.com$
 (^|\.)pv\.focus\.cn$
+(^|\.)pvlog\.hd\.baofeng\.com$
+(^|\.)pvlog\.moviebox\.baofeng\.net$
 (^|\.)pv\.ra\.icast\.cn$
 (^|\.)pv\.sogou\.com$
 (^|\.)pvstat\.html5\.qq\.com$
@@ -2112,6 +2225,7 @@
 (^|\.)px\.owneriq\.net$
 (^|\.)px\.powerlinks\.com$
 (^|\.)py2\.qlogo\.cn$
+(^|\.)py\.da\.mgtv\.com$
 (^|\.)py\.qlogo\.cn$
 (^|\.)q12\.cnzz\.com$
 (^|\.)q14\.cnzz\.com$
@@ -2168,6 +2282,7 @@
 (^|\.)reader\.browser\.miui\.com$
 (^|\.)rec\.g\.163\.com$
 (^|\.)recmd\.html5\.qq\.com$
+(^|\.)rec\.moviebox\.baofeng\.net$
 (^|\.)redirect\.simba\.taobao\.com$
 (^|\.)referrer\.disqus\.com$
 (^|\.)release\.baidu\.com$
@@ -2199,6 +2314,7 @@
 (^|\.)rj\.m\.taobao\.com$
 (^|\.)rl\.go2yd\.com$
 (^|\.)rlogs\.youdao\.com$
+(^|\.)r\.l\.youku\.com$
 (^|\.)rmads\.eu\.msn\.com$
 (^|\.)rmads\.msn\.com$
 (^|\.)r\.mail\.163\.com$
@@ -2389,12 +2505,14 @@
 (^|\.)sa0\.tuisong\.baidu\.com$
 (^|\.)sa1\.tuisong\.baidu\.com$
 (^|\.)sa3\.tuisong\.baidu\.com$
+(^|\.)s\.ads\.sohu\.com$
 (^|\.)s\.aikan6\.com$
 (^|\.)s\.alitui\.weibo\.com$
 (^|\.)s\.amazon-adsystem\.com$
 (^|\.)samba\.adsame\.com$
 (^|\.)sambaclk\.adsame\.com$
 (^|\.)sambasys\.adsame\.com$
+(^|\.)same\.mzy2014\.com$
 (^|\.)sammax\.adsame\.com$
 (^|\.)sammix\.adsame\.com$
 (^|\.)samrt\.adsame\.com$
@@ -2417,6 +2535,7 @@
 (^|\.)sbeacon\.sina\.com\.cn$
 (^|\.)scc\.domob\.cn$
 (^|\.)scdown\.qq\.com$
+(^|\.)scene\.vip\.xunlei\.com$
 (^|\.)sc\.ggdoubi\.com$
 (^|\.)sc\.ggfeng\.com$
 (^|\.)schemas\.android\.com$
@@ -2425,6 +2544,7 @@
 (^|\.)sc\.jxhcyc\.com$
 (^|\.)sclick\.baidu\.com$
 (^|\.)s\.clkservice\.youdao\.com$
+(^|\.)sclog\.moviebox\.baofeng\.com$
 (^|\.)s\.cpro\.baidu\.com$
 (^|\.)script-bd\.baixing\.net$
 (^|\.)sdapprecv\.app\.cntvwb\.cn$
@@ -2442,6 +2562,7 @@
 (^|\.)sdkapp\.uve\.weibo\.com$
 (^|\.)sdk\.cferw\.com$
 (^|\.)sdkclick\.mobile\.sina\.cn$
+(^|\.)sdkconfig\.ad\.intl\.xiaomi\.com$
 (^|\.)sdkconfig\.ad\.xiaomi\.com$
 (^|\.)sdk\.conf\.igexin\.com$
 (^|\.)sdk\.e\.qq\.com$
@@ -2517,6 +2638,7 @@
 (^|\.)server-uk\.imrworldwide\.com$
 (^|\.)server-us\.imrworldwide\.com$
 (^|\.)service\.ad\.adesk\.com$
+(^|\.)service\.danmu\.youku\.com$
 (^|\.)service\.epro\.sogou\.com$
 (^|\.)servicer\.adskeeper\.co\.uk$
 (^|\.)service\.urchin\.com$
@@ -2529,6 +2651,7 @@
 (^|\.)s\.gdt\.qq\.com$
 (^|\.)sg\.keytui\.com$
 (^|\.)s\.go2yd\.com$
+(^|\.)s\.go\.sohu\.com$
 (^|\.)s\.gyeet\.com$
 (^|\.)shadu\.baidu\.com$
 (^|\.)shaft\.jebe\.renren\.com$
@@ -2548,6 +2671,7 @@
 (^|\.)shop\.yinyuetai\.com$
 (^|\.)shouji\.360\.cn$
 (^|\.)shouji\.sougou\.com$
+(^|\.)show\.look\.360\.cn$
 (^|\.)show\.re\.taobao\.com$
 (^|\.)showwxml\.qq\.com$
 (^|\.)s\.hystq\.com$
@@ -2647,16 +2771,21 @@
 (^|\.)static\.adwo\.com$
 (^|\.)static\.alimama\.com$
 (^|\.)static\.criteo\.net$
+(^|\.)static\.danmu\.baofeng\.com$
 (^|\.)static\.doubleclick\.net$
+(^|\.)static\.exosrv\.com$
 (^|\.)static\.flv\.uuzuonline\.com$
 (^|\.)static\.googleadsserving\.cn$
+(^|\.)static\.houyi\.baofeng\.net$
 (^|\.)static\.mackeeper\.com$
+(^|\.)static\.mct01\.com$
 (^|\.)static\.m\.sjzhushou\.com$
 (^|\.)static-one\.ffwap\.com$
 (^|\.)static-two\.ffwap\.com$
 (^|\.)static\.tzyiyuantuan\.com$
 (^|\.)static\.wooboo\.com\.cn$
 (^|\.)static\.youmi\.net$
+(^|\.)statis\.mobile\.youku\.com$
 (^|\.)statis\.push\.netease\.com$
 (^|\.)statisticsv2\.yinyuetai\.com$
 (^|\.)stat\.m\.360\.cn$
@@ -2685,6 +2814,8 @@
 (^|\.)stm-cdn\.cn\.miaozhen\.com$
 (^|\.)stm-collect\.cn\.miaozhen\.com$
 (^|\.)stnn\.adsame\.com$
+(^|\.)store\.videojj\.com$
+(^|\.)storm\.logger\.baofeng\.com$
 (^|\.)strategy\.beacon\.qq\.com$
 (^|\.)strip\.alicdn\.com$
 (^|\.)strip\.taobaocdn\.com$
@@ -2693,11 +2824,13 @@
 (^|\.)st\.zzhyyj\.com$
 (^|\.)su\.bdimg\.com$
 (^|\.)su\.bdstatic\.com$
+(^|\.)subo\.logger\.baofeng\.com$
 (^|\.)subswin\.com$
 (^|\.)s\.union\.360\.cn$
 (^|\.)survey\.miaozhen\.com$
 (^|\.)susapi\.dev\.surepush\.cn$
 (^|\.)susapi\.lenovomm\.com$
+(^|\.)suvset\.sohu\.com$
 (^|\.)sv\.map\.baidu\.com$
 (^|\.)swa\.gtimg\.com$
 (^|\.)sw\.mobile\.sogou\.com$
@@ -2728,6 +2861,7 @@
 (^|\.)sync-tm\.everesttech\.net$
 (^|\.)s\.youmi\.net$
 (^|\.)sys\.zhangyue\.com$
+(^|\.)s\.zampdsp\.com$
 (^|\.)t10\.baidu\.com$
 (^|\.)t11\.baidu\.com$
 (^|\.)t12\.baidu\.com$
@@ -2738,6 +2872,7 @@
 (^|\.)t4\.51maiwanju\.com$
 (^|\.)t5\.51maiwanju\.com$
 (^|\.)t6\.51maiwanju\.com$
+(^|\.)t\.ads\.sohu\.com$
 (^|\.)tags\.bluekai\.com$
 (^|\.)tajs\.qq\.com$
 (^|\.)t\.alimama\.com$
@@ -2773,7 +2908,10 @@
 (^|\.)t-flow\.flyme\.cn$
 (^|\.)t\.gdt\.qq\.com$
 (^|\.)tg\.jifen\.2345\.com$
+(^|\.)t\.go\.sohu\.com$
 (^|\.)theta\.sogoucdn\.com$
+(^|\.)timelog\.moviebox\.baofeng\.com$
+(^|\.)tips\.logger\.baofeng\.com$
 (^|\.)tj\.b\.qq\.com$
 (^|\.)tj\.kugou\.com$
 (^|\.)tjs\.sjs\.sinajs\.cn$
@@ -2823,6 +2961,7 @@
 (^|\.)trafficfactory\.biz$
 (^|\.)trc\.adsage\.com$
 (^|\.)trc\.taboola\.com$
+(^|\.)tree\.logger\.baofeng\.com$
 (^|\.)trends\.mobile\.sina\.cn$
 (^|\.)tsjdgzm\.m\.3dllc\.cc$
 (^|\.)t\.sj\.qq\.com$
@@ -2845,6 +2984,7 @@
 (^|\.)tw\.pub\.vpon\.com$
 (^|\.)twsina\.allyes\.com$
 (^|\.)txtad\.jijiplayer\.com$
+(^|\.)txt\.go\.sohu\.com$
 (^|\.)tyaqy\.m\.cn\.miaozhen\.com$
 (^|\.)t\.youmi\.net$
 (^|\.)tytx\.m\.cn\.miaozhen\.com$
@@ -2864,7 +3004,6 @@
 (^|\.)ucus\.ucweb\.com$
 (^|\.)uc\.xiansuper\.com$
 (^|\.)udash\.umengcloud\.com$
-(^|\.)udc\.msn\.com$
 (^|\.)u\.domob\.cn$
 (^|\.)udpolimenew\.baidu\.com$
 (^|\.)uebawtz7\.me$
@@ -2925,6 +3064,7 @@
 (^|\.)uuidapi\.yunos\.com$
 (^|\.)uusee\.adsame\.com$
 (^|\.)uxip\.meizu\.com$
+(^|\.)u-x\.jd\.com$
 (^|\.)u\.x\.jd\.com$
 (^|\.)v1\.0594529\.com$
 (^|\.)v10\.cnzz\.com$
@@ -2935,10 +3075,20 @@
 (^|\.)v1\.cnzz\.com$
 (^|\.)v1-feed\.idreamsky\.com$
 (^|\.)v1\.log\.moji\.com$
+(^|\.)v1\.play\.log\.hunantv\.com$
+(^|\.)v1-play\.log\.mgtv\.com$
+(^|\.)v1\.res\.log\.hunantv\.com$
 (^|\.)v2\.cnzz\.com$
+(^|\.)v2\.da\.mgtv\.com$
 (^|\.)v2\.fm\.n\.duokanbox\.com$
+(^|\.)v2\.hdd\.log\.hunantv\.com$
+(^|\.)v2\.hd\.log\.hunantv\.com$
+(^|\.)v2html\.atm\.youku\.com$
 (^|\.)v2\.jiathis\.com$
+(^|\.)v2\.log\.hunantv\.com$
+(^|\.)v2\.log\.mgtv\.com$
 (^|\.)v2\.reachmax\.cn$
+(^|\.)v2\.res\.log\.hunantv\.com$
 (^|\.)v3\.cnzz\.com$
 (^|\.)v3\.jiathis\.com$
 (^|\.)v4\.cnzz\.com$
@@ -2949,8 +3099,15 @@
 (^|\.)v9\.cnzz\.com$
 (^|\.)v\.admaster\.com\.cn$
 (^|\.)va\.gxpan\.cn$
+(^|\.)val\.atm\.youku\.com$
+(^|\.)valb\.atm\.youku\.com$
+(^|\.)valc\.atm\.youku\.com$
+(^|\.)valf\.atm\.youku\.com$
+(^|\.)valp\.atm\.youku\.com$
+(^|\.)valt\.atm\.youku\.com$
 (^|\.)vamaker\.cm\.admaster\.com\.cn$
 (^|\.)vatrack\.hinet\.net$
+(^|\.)va\.videojj\.com$
 (^|\.)vbaof\.admaster\.com\.cn$
 (^|\.)vcfs6ip5h6\.bid$
 (^|\.)vdapprecv\.app\.cntvwb\.cn$
@@ -2959,9 +3116,14 @@
 (^|\.)vg02h8z1ul\.me$
 (^|\.)v\.gdt\.qq\.com$
 (^|\.)vhunantv\.admaster\.com\.cn$
+(^|\.)vi0\.mzy2014\.com$
+(^|\.)vi1\.ku6img\.net$
+(^|\.)vi1\.mzy2014\.com$
+(^|\.)vi2\.ku6img\.net$
 (^|\.)vid\.atdmt\.com$
 (^|\.)video-ad-stats\.googlesyndication\.com$
 (^|\.)video\.cooguo\.com$
+(^|\.)videojj\.com$
 (^|\.)videopush\.baidu\.com$
 (^|\.)video\.ureport\.push\.qq\.com$
 (^|\.)video\.wap\.mpush\.qq\.com$
@@ -2992,6 +3154,7 @@
 (^|\.)vtechweb\.adsame\.com$
 (^|\.)vt\.ipinyou\.com$
 (^|\.)vv84\.bj\.bcebos\.com$
+(^|\.)vvlog\.moviebox\.baofeng\.com$
 (^|\.)w3\.yinyuehu\.cn$
 (^|\.)w6061\.move7\.com$
 (^|\.)wa\.gtimg\.com$
@@ -3012,12 +3175,15 @@
 (^|\.)wbclick\.mobile\.sina\.cn$
 (^|\.)wb\.gtimg\.com$
 (^|\.)wbpctips\.mobile\.sina\.cn$
+(^|\.)wbwl\.houyi\.baofeng\.net$
 (^|\.)w\.cnzz\.com$
 (^|\.)w\.domob\.cn$
 (^|\.)wds\.inte\.sogoucdn\.com$
 (^|\.)web1\.51\.la$
 (^|\.)web2\.51\.la$
 (^|\.)web\.51\.la$
+(^|\.)web\.da\.mgtv\.com$
+(^|\.)web\.houyi\.baofeng\.net$
 (^|\.)webmine\.cz$
 (^|\.)web\.sogou\.com$
 (^|\.)webstat\.kuwo\.cn$
@@ -3036,6 +3202,7 @@
 (^|\.)wisemedia\.cm\.admaster\.com\.cn$
 (^|\.)wisepush\.video\.baidu\.com$
 (^|\.)wl\.51taifu\.com$
+(^|\.)wl\.houyi\.baofeng\.net$
 (^|\.)w\.l\.qq\.com$
 (^|\.)wm\.baidu\.com$
 (^|\.)wmedia\.adk2x\.com$
@@ -3169,11 +3336,9 @@
 (^|\.)ww8\.onetad\.com$
 (^|\.)ww9\.onetad\.com$
 (^|\.)wwis-dubc1-vip60\.adobe\.com$
-(^|\.)w\.wooboo\.com\.cn$
 (^|\.)wwv\.onetad\.com$
 (^|\.)www\.114so\.cn$
 (^|\.)www\.1680go\.com$
-(^|\.)www1\.wooboo\.com\.cn$
 (^|\.)www\.202m\.com$
 (^|\.)www\.268mob\.cn$
 (^|\.)www\.51link\.com$
@@ -3268,32 +3433,41 @@
 (^|\.)www\.yoyozz\.net$
 (^|\.)www\.yuanming\.net$
 (^|\.)www\.yueyelive\.com$
+(^|\.)www\.zamplus\.com$
 (^|\.)www\.zhengjian\.org$
 (^|\.)www\.zhengwunet\.org$
 (^|\.)www\.zhuichaguoji\.org$
 (^|\.)ww\.xiaopiaoyou\.com$
 (^|\.)w\.x\.baidu\.com$
+(^|\.)wx\.houyi\.baofeng\.net$
 (^|\.)w\.xiaopiaoyou\.com$
 (^|\.)wx\.xwjqr\.com$
 (^|\.)w\.yinyuehu\.cn$
 (^|\.)w\.ymapp\.com$
+(^|\.)x1\.da\.hunantv\.com$
+(^|\.)x1\.go\.sohu\.com$
 (^|\.)x\.adpro\.cn$
 (^|\.)xcar\.adsame\.com$
 (^|\.)x\.cnxad\.com$
 (^|\.)xco\.qwxcs\.com$
 (^|\.)xdadevelopers\.browsi\.mobi$
+(^|\.)x\.da\.hunantv\.com$
+(^|\.)x\.da\.mgtv\.com$
 (^|\.)xd\.code\.tanwanyx\.com$
 (^|\.)x\.domob\.cn$
 (^|\.)xf\.yellowto\.com$
 (^|\.)xgmc6lu8fs\.me$
+(^|\.)xhtd\.99hg\.wang$
 (^|\.)xiangchaokankan\.m\.cn\.miaozhen\.com$
 (^|\.)xiaomiir\.yaokantv\.com$
 (^|\.)xinhuanet\.adsame\.com$
 (^|\.)xinsheng\.net$
 (^|\.)x\.jd\.com$
 (^|\.)xji\.qwxcs\.com$
+(^|\.)xls\.go\.sohu\.com$
 (^|\.)xs\.1drj\.com$
 (^|\.)xs\.he9630\.com$
+(^|\.)xs\.houyi\.baofeng\.net$
 (^|\.)xtruh\.uranus\.sogou\.com$
 (^|\.)xunlei\.adx\.admaster\.com\.cn$
 (^|\.)x\.vamaker\.com$
@@ -3302,6 +3476,8 @@
 (^|\.)yads\.yahoo\.co\.jp$
 (^|\.)yam\.adsbro\.com$
 (^|\.)yaolan\.adsame\.com$
+(^|\.)y\.da\.hunantv\.com$
+(^|\.)y\.da\.mgtv\.com$
 (^|\.)y\.domob\.cn$
 (^|\.)yee\.js\.cn$
 (^|\.)yellowto\.com$
@@ -3341,6 +3517,7 @@
 (^|\.)zc\.biz\.weibo\.com$
 (^|\.)z\.clickvip\.shop$
 (^|\.)z\.domob\.cn$
+(^|\.)zeus\.ad\.xiaomi\.com$
 (^|\.)zgdfz6h7po\.me$
 (^|\.)zgty365\.com$
 (^|\.)zh-cn\.shenyun\.com$
@@ -3411,7 +3588,9 @@
 :: 312036\.com$
 :: 3dns-2\.adobe\.com$
 :: 3dns-3\.adobe\.com$
+:: 3rd\.t\.sohu\.com$
 :: 4171764\.fls\.doubleclick\.net$
+:: 4336wang\.cn$
 :: 44\.adsina\.allyes\.com$
 :: 45\.adsina\.allyes\.com$
 :: 46sg\.com$
@@ -3431,6 +3610,7 @@
 :: 818\.dopa\.com$
 :: 818\.ok365\.com$
 :: 846\.move7\.com$
+:: 888\.tv\.sohu\.com$
 :: 8b4pea\.c\.admaster\.com\.cn$
 :: 8b6dfa\.v\.admaster\.com\.cn$
 :: 8chzga\.v\.admaster\.com\.cn$
@@ -3487,10 +3667,12 @@
 :: acookie\.linezing\.com$
 :: acs4baichuan\.m\.taobao\.com$
 :: act\.commercial\.shouji\.360\.cn$
+:: action\.logger\.baofeng\.com$
 :: activate\.adobe\.com$
 :: activate-sea\.adobe\.com$
 :: activate-sjc0\.adobe\.com$
 :: activate\.wip3\.adobe\.com$
+:: active\.baofeng\.com$
 :: activeqq\.3g\.qq\.com$
 :: activity\.yuyiya\.com$
 :: actsdk\.idreamsky\.com$
@@ -3533,11 +3715,13 @@
 :: ad\.cn\.doubleclick\.net$
 :: adcore\.lenovomm\.com$
 :: ad-count\.adwo\.com$
+:: addata\.ku6\.com$
 :: ad-delivery\.net$
 :: ad\.dev\.360\.cn$
 :: ad\.doubleclick\.net$
 :: ad\.dqwjzm\.com$
 :: ad\.duapps\.com$
+:: ade\.googlesyndication\.com$
 :: adeventtracker\.spotify\.com$
 :: adfarm\.mediaplex\.com$
 :: adfill\.adview\.cn$
@@ -3560,12 +3744,12 @@
 :: ad\.jsnbrynb\.com$
 :: adlaunch\.moji\.com$
 :: adlog\.flurry\.com$
+:: ad\.mail\.sohu\.com$
 :: adm\.baidu\.com$
 :: admd\.yam\.com$
 :: admeld\.adnxs\.com$
 :: adm\.icast\.cn$
 :: admin\.cooguo\.com$
-:: admin\.wooboo\.com\.cn$
 :: adm\.leju\.sina\.com\.cn$
 :: adn\.atdmt\.com$
 :: ad\.netowl\.jp$
@@ -3576,8 +3760,8 @@
 :: adobe-dns\.adobe\.com$
 :: a\.domob\.cn$
 :: a\.dounanhuahui\.com$
+:: adp\.atm\.youku\.com$
 :: adping\.qq\.com$
-:: adplace\.adsame\.com$
 :: ad\.player\.baidu\.com$
 :: adplexmedia\.adk2\.co$
 :: adplexmedia\.adk2x\.com$
@@ -3594,8 +3778,9 @@
 :: ads2\.msn\.com$
 :: ads\.979799777\.com$
 :: ads\.adaptv\.advertising\.com$
-:: adsame\.com$
+:: ads-a\.juicyads\.com$
 :: adsamer\.adsame\.com$
+:: ads-api\.videojj\.com$
 :: ads\.bssdl\.kugou\.com$
 :: adscdn\.baidu\.com$
 :: adsclick\.qq\.com$
@@ -3626,6 +3811,7 @@
 :: adsmogo\.com$
 :: ads\.msn\.com$
 :: ads\.ninemsn\.com\.au$
+:: ad\.sohu\.com$
 :: adsolution\.imtt\.qq\.com$
 :: ads\.pubmatic\.com$
 :: adsp\.xunlei\.com$
@@ -3669,8 +3855,10 @@
 :: adx\.ads\.oppomobile\.com$
 :: adx\.g\.doubleclick\.net$
 :: adx\.pro\.cn$
+:: adx-static\.ksosoft\.com$
 :: ad\.xxguan\.cn$
 :: adx\.xiaodutv\.com$
+:: adxxx\.com$
 :: adzjvnet\.allyes\.com$
 :: ad\.zuimeitianqi\.com$
 :: ae\.bdstatic\.com$
@@ -3722,6 +3910,7 @@
 :: alpha\.brand\.sogou\.com$
 :: als\.baidu\.com$
 :: ama\.adwo\.com$
+:: a\.mct01\.com$
 :: amdc\.m\.taobao\.com$
 :: am\.g\.ireader\.com$
 :: amps\.yoyi\.com\.cn$
@@ -3744,6 +3933,7 @@
 :: analytics\.yam\.com$
 :: andmlbf\.tj\.ijinshan\.com$
 :: android\.bugly\.qq\.com$
+:: androidlog\.shouji\.baofeng\.com$
 :: android-lrcresource\.wps\.cn$
 :: android\.push\.126\.net$
 :: android\.rqd\.qq\.com$
@@ -3811,8 +4001,8 @@
 :: api\.tr\.blismedia\.com$
 :: api\.tuisong\.baidu\.com$
 :: api\.tw06\.xlmc\.sec\.miui\.com$
+:: api\.uniplayad\.com$
 :: api\.viglink\.com$
-:: api\.wapa\.taobao\.com$
 :: api\.waptest\.taobao\.com$
 :: api\.w\.inmobi\.com$
 :: api\.wsq\.umeng\.com$
@@ -3827,6 +4017,7 @@
 :: appc\.baidu\.com$
 :: appdownload\.alicdn\.com$
 :: appgift\.sinaapp\.com$
+:: app\.houyi\.baofeng\.net$
 :: applog\.uc\.cn$
 :: apppic\.yingyongbei\.com$
 :: appsupdate\.sinaapp\.com$
@@ -3842,8 +4033,10 @@
 :: aqqgli3vle\.bid$
 :: ard\.yahoo\.co\.jp$
 :: aries\.mzres\.com$
+:: ark\.letv\.com$
 :: art\.theta\.sogoucdn\.com$
 :: asearch\.alicdn\.com$
+:: as\.mgtv\.com$
 :: asp\.adsame\.com$
 :: assets\.210189\.com$
 :: assets\.servedby-buysellads\.com$
@@ -3930,6 +4123,7 @@
 :: bigdata\.adups\.com$
 :: bigdata\.advmob\.cn$
 :: bite\.theta\.sogoucdn\.com$
+:: biz5\.kankan\.com$
 :: biz\.live\.xunlei\.com$
 :: biz\.vpon\.com$
 :: biz\.weibo\.com$
@@ -3952,10 +4146,12 @@
 :: botuu\.adsame\.com$
 :: bp\.mobad\.ijinshan\.com$
 :: brand\.sogou\.com$
+:: breeze\.olclient\.baofeng\.com$
 :: bro\.flyme\.cn$
 :: bsiet\.husky\.sogou\.com$
 :: bs\.l\.qq\.com$
 :: bss\.pandora\.xiaomi\.com$
+:: bsv\.atm\.youku\.com$
 :: btlaunch\.baidu\.com$
 :: bttrack\.com$
 :: bu1\.duba\.com$
@@ -4021,6 +4217,7 @@
 :: cdn\.ark\.qq\.com$
 :: cdnas\.hyperpromote\.com$
 :: cdn\.bidvertiser\.com$
+:: cdn\.cmop\.mgtv\.com$
 :: cdn\.cooguo\.com$
 :: cdn\.districtm\.io$
 :: cdn\.dragonstatic\.com$
@@ -4058,6 +4255,7 @@
 :: cjhq\.baidu\.com$
 :: cj\.qidian\.com$
 :: cjroq\.bealge\.sogou\.com$
+:: ck\.houyi\.baofeng\.net$
 :: cleaner\.baidu\.com$
 :: cl\.he9630\.com$
 :: click1forhz\.adsmogo\.com$
@@ -4069,6 +4267,7 @@
 :: click\.hm\.baidu\.com$
 :: click\.jebe\.renren\.com$
 :: clickjs\.cnzz\.com$
+:: clicklog\.moviebox\.baofeng\.net$
 :: click\.mz\.simba\.taobao\.com$
 :: click\.qianqian\.com$
 :: clicks\.beap\.bc\.yahoo\.com$
@@ -4091,7 +4290,6 @@
 :: cloudcdn\.dopa\.com$
 :: cloudcdn\.dopa\.com\.cn$
 :: cloudcdn\.yousee\.com$
-:: cloudservice22\.kingsoft-office-service\.com$
 :: c\.l\.qq\.com$
 :: cm066\.getui\.igexin\.com$
 :: cm\.adgrx\.com$
@@ -4108,6 +4306,7 @@
 :: cm\.dmp\.sina\.cn$
 :: cm\.e\.qq\.com$
 :: cm\.eyereturn\.com$
+:: cm\.fancyapi\.com$
 :: cm\.g\.doubleclick\.net$
 :: cm\.gtags\.net$
 :: cm\.he2d\.com$
@@ -4115,7 +4314,9 @@
 :: cm\.ipinyou\.com$
 :: cm\.jd\.com$
 :: cm\.l\.qq\.com$
+:: cm\.mct01\.com$
 :: cm\.netseer\.com$
+:: cmop\.mgtv\.com$
 :: cm\.p4p\.cn\.yahoo\.com$
 :: cm\.pos\.baidu\.com$
 :: cm\.reachmax\.cn$
@@ -4127,17 +4328,20 @@
 :: cms\.quantserve\.com$
 :: cms\.tanx\.com$
 :: cm\.vamaker\.com$
+:: cn\.api\.push\.le\.com$
 :: cnf\.adbana\.com$
 :: c-nfa\.jd\.com$
 :: cnnic\.cn$
 :: cnnic\.net$
 :: cnnic\.net\.cn$
 :: cn\.pub\.vpon\.com$
+:: cntv\.wrating\.com$
 :: c\.nz\.gt\.igexin\.com$
 :: cnzz\.mmstat\.com$
 :: code11\.onetad\.com$
 :: code12\.onetad\.com$
 :: code\.fastclick\.net$
+:: co\.dtech\.baofeng\.com$
 :: coed-d\.openx\.net$
 :: coinblind\.com$
 :: coinerra\.com$
@@ -4153,6 +4357,7 @@
 :: config\.adsage\.cn$
 :: config\.adsage\.com$
 :: config\.adview\.cn$
+:: config\.baofeng\.net$
 :: config\.inmobi\.com$
 :: config-ltvp\.inmobi\.com$
 :: config\.mobisage\.cn$
@@ -4163,8 +4368,11 @@
 :: conversion\.pro\.cn$
 :: conv\.youdao\.com$
 :: cookiemapping\.wrating\.com$
+:: coop\.pop\.baofeng\.com$
 :: corebug\.adsame\.com$
+:: corner\.houyi\.baofeng\.net$
 :: coro\.benbaisteel\.com$
+:: corp\.sohu\.com$
 :: couchcoaster\.jp$
 :: count10\.51yes\.com$
 :: count11\.51yes\.com$
@@ -4217,7 +4425,10 @@
 :: count7\.51yes\.com$
 :: count8\.51yes\.com$
 :: count9\.51yes\.com$
+:: count\.atm\.youku\.com$
+:: count\.cpm\.cm\.kankan\.com$
 :: counter\.kingsoft\.com$
+:: counter\.ksosoft\.com$
 :: counter\.sina\.com\.cn$
 :: count\.mail\.163\.com$
 :: countt\.51yes\.com$
@@ -4227,6 +4438,7 @@
 :: cpc\.click\.alimama\.com$
 :: cpc\.haohaowan8\.com$
 :: cpc\.sogou\.com$
+:: cpc\.sohu\.com$
 :: cp\.jiajv\.net$
 :: cpro2\.baidu\.com$
 :: cpro2\.baidustatic\.com$
@@ -4266,6 +4478,8 @@
 :: cws-cctv\.conviva\.com$
 :: c\.x\.cn\.miaozhen\.com$
 :: c\.xhsxgmt\.cn$
+:: cytroncdn\.videojj\.com$
+:: cytron\.videojj\.com$
 :: cz01016102\.ms758\.com$
 :: d00\.sina\.com\.cn$
 :: d0\.sina\.com\.cn$
@@ -4278,6 +4492,7 @@
 :: d2\.sinaimg\.cn$
 :: d31qbv1cthcecs\.cloudfront\.net$
 :: d36eyd5j1kt1m6\.cloudfront\.net$
+:: d3f\.houyi\.baofeng\.net$
 :: d3g\.qq\.com$
 :: d3\.sina\.com\.cn$
 :: d3\.sinaimg\.cn$
@@ -4298,12 +4513,14 @@
 :: d9\.sinaimg\.cn$
 :: dafahao\.com$
 :: dafahao\.org$
+:: dailylog\.storm\.baofeng\.com$
 :: dajiyuan\.com$
 :: dajiyuan\.org$
 :: daohang\.114so\.cn$
 :: data\.ads\.oppomobile\.com$
 :: databank\.air\.yoyi\.com\.cn$
 :: databank\.yoyi\.com\.cn$
+:: data\.danmu\.baofeng\.com$
 :: data\.flurry\.com$
 :: data\.haoma\.sogou\.com$
 :: data\.mistat\.xiaomi\.com$
@@ -4343,6 +4560,7 @@
 :: display\.ad\.daum\.net$
 :: display\.adhudong\.com$
 :: disqusads\.com$
+:: distf\.stat\.kankan\.com$
 :: dis\.us\.criteo\.com$
 :: d\.kugou\.com$
 :: dl1sw\.baidu\.com$
@@ -4365,6 +4583,7 @@
 :: dl-vip\.pcfaster\.baidu\.co\.th$
 :: dl\.wan\.sogoucdn\.com$
 :: dl\.youjia2016\.com$
+:: dmapp\.youku\.com$
 :: dm\.bytedance\.com$
 :: dmp\.adpush\.cn$
 :: dmpclick\.deliver\.ifeng\.com$
@@ -4374,6 +4593,7 @@
 :: dns1\.oadz\.com$
 :: dns2\.oadz\.com$
 :: do69ifsly4\.me$
+:: doc\.go\.sohu\.com$
 :: dol\.deliver\.ifeng\.com$
 :: dolphin1\.adsame\.com$
 :: dolphin\.adsame\.com$
@@ -4395,7 +4615,6 @@
 :: download\.mackeeper\.com$
 :: download\.sd\.baidu\.com$
 :: download\.sj\.qq\.com$
-:: download\.wooboo\.com\.cn$
 :: download\.zhushou\.sogou\.com$
 :: dp\.559\.cc$
 :: dp\.g\.doubleclick\.net$
@@ -4406,6 +4625,7 @@
 :: d\.rexuebi\.com$
 :: dr\.holaworld\.cn$
 :: drmcmm\.baidu\.com$
+:: d\.s11\.cn$
 :: ds\.jlbksy\.com$
 :: dsp\.adfarm1\.adition\.com$
 :: dsp\.brand\.sogou\.com$
@@ -4421,11 +4641,15 @@
 :: dualstack\.adsame-1421766300\.ap-southeast-1\.elb\.amazonaws\.com$
 :: d\.union\.ijinshan\.com$
 :: dup\.baidustatic\.com$
+:: duration\.logger\.baofeng\.com$
 :: dvb\.pandora\.xiaomi\.com$
 :: dvsend\.china\.com$
 :: dvser02\.china\.com$
 :: dvser\.china\.com$
 :: dvx-android\.domob\.cn$
+:: dw-collect\.ksosoft\.com$
+:: dw-online\.ksosoft\.com$
+:: dwtracking\.sdo\.com$
 :: dwtrack\.qidian\.com$
 :: dxp\.baidu\.com$
 :: dxprla\.m\.qxs\.la$
@@ -4503,9 +4727,12 @@
 :: etl\.xlmc\.sandai\.net$
 :: etl\.xlmc\.sec\.miui\.com$
 :: et\.tanx\.com$
+eTV(^|\.)api\.push\.le\.com$
+eTV:: api\.push\.le\.com$
 :: et\.w\.inmobi\.com$
 :: event\.ksosoft\.com$
 :: eventlog\.beacon\.qq\.com$
+:: eventlog\.hd\.baofeng\.com$
 :: event\.mackeeper\.com$
 :: events\.appsflyer\.com$
 :: events\.pingan\.com$
@@ -4579,9 +4806,11 @@
 :: fxc\.aiquxs\.com$
 :: fych\.uranus\.sogou\.com$
 :: fz863\.com$
+:: fz\.letv\.com$
 :: g1\.163\.com$
 :: g\.163\.com$
 :: g1\.tagtic\.cn$
+:: g3\.letv\.com$
 :: g\.adnxs\.com$
 :: g\.ads\.cn\.miaozhen\.com$
 :: gafxa\.code\.mytanwan\.com$
@@ -4645,6 +4874,7 @@
 :: h5\.holalauncher\.com$
 :: h5\.mse\.360\.cn$
 :: haitaoad\.nosdn\.127\.net$
+:: haiwai-ic\.ksosoft\.com$
 :: hao549\.com$
 :: hao\.7654\.com$
 :: hao\.qquu8\.com$
@@ -4687,9 +4917,11 @@
 :: hndnserror5\.wo\.com\.cn$
 :: hndnserror6\.wo\.com\.cn$
 :: hndnserror7\.wo\.com\.cn$
+:: hoplink\.ksosoft\.com$
 :: hot\.browser\.miui\.com$
 :: hot\.m\.shouji\.360tpcdn\.com$
 :: houtai\.2345\.com$
+:: houyi\.logger\.baofeng\.com$
 :: hpd\.baidu\.com$
 :: hq\.appsflyer\.com$
 :: hqs1\.cnzz\.com$
@@ -4698,6 +4930,7 @@
 :: hqs9\.cnzz\.com$
 :: h\.sora\.yoyi\.com\.cn$
 :: hs\.qhupdate\.com$
+:: html\.atm\.youku\.com$
 :: httpdns\.push\.oppomobile\.com$
 :: httpring\.qq\.com$
 :: ht\.www\.sogou\.com$
@@ -4752,6 +4985,7 @@
 :: ifengad\.3g\.ifeng\.com$
 :: ifeng\.adsame\.com$
 :: i\.flow\.browser\.oppomobile\.com$
+:: iflow\.minfo\.baofeng\.net$
 :: iflow\.uczzd\.cn$
 :: iflow\.uczzd\.com$
 :: iflow\.uczzd\.com\.cn$
@@ -4761,6 +4995,7 @@
 :: ifs\.tanx\.com$
 :: i\.gdt\.qq\.com$
 :: ig\.nukefans\.net$
+:: i\.go\.sohu\.com$
 :: i\.haloapps\.com$
 :: i\.holalauncher\.com$
 :: i\.huilixieye\.net$
@@ -4777,6 +5012,7 @@
 :: image\.haiyunx\.com$
 :: image\.p4p\.sogou\.com$
 :: images\.fastclick\.net$
+:: images\.sohu\.com$
 :: images\.taboola\.com$
 :: image\.zzd\.sm\.cn$
 :: imagzine\.oppomobile\.com$
@@ -4803,6 +5039,8 @@
 :: img\.adpush\.cn$
 :: img\.ad\.zhangyue\.com$
 :: img\.alimama\.cn$
+:: imgaliyun\.da\.mgtv\.com$
+:: imgaliyun\.res\.mgtv\.com$
 :: img\.amp\.ad\.sina\.com\.cn$
 :: img\.atdmt\.com$
 :: imgcdn\.de92\.com$
@@ -4822,6 +5060,7 @@
 :: img\.wan\.sogou\.com$
 :: img-x\.jd\.com$
 :: i\.mmcdn\.cn$
+:: imp\.go\.sohu\.com$
 :: imp\.optaim\.com$
 :: impservice2\.youdao\.com$
 :: impservice\.chnl\.youdao\.com$
@@ -4867,7 +5106,9 @@
 :: inte\.sogou\.com$
 :: inte\.theta\.sogoucdn\.com$
 :: intf\.cnzz\.com$
+:: iphonelog\.shouji\.baofeng\.com$
 :: ipinyou\.com$
+:: ipm\.atm\.youku\.com$
 :: iqiyi\.m\.cn\.miaozhen\.com$
 :: ir\.mail\.163\.com$
 :: irnvf\.lu\.sogou\.com$
@@ -4876,6 +5117,7 @@
 :: i\.w55c\.net$
 :: iwan\.sogou\.com$
 :: i\.w\.inmobi\.com$
+:: iyes\.youku\.com$
 :: j\.12365chia\.com$
 :: j7182\.hfxcsl\.cn$
 :: j\.appjiagu\.com$
@@ -4889,6 +5131,7 @@
 :: jellyfish\.pandora\.xiaomi\.com$
 :: j\.fd7c\.com$
 :: jfdaily\.adsame\.com$
+:: jfm4\.pop\.baofeng\.net$
 :: j\.hongyangpai\.com$
 :: jiayi1\.oss-cn-shanghai\.aliyuncs\.com$
 :: jifen\.2345\.com$
@@ -4963,10 +5206,11 @@
 :: k\.ctsywy\.com$
 :: k\.domob\.cn$
 :: keyrun\.cn$
-:: keystone\.mwbsys\.com$
 :: kfewaz\.zh1155\.com$
 :: kgmobilestat\.kugou\.com$
 :: kho3au7l4z\.me$
+:: kkpgv2\.kankan\.com$
+:: kkpgv\.kankan\.com$
 :: kn\.bjbrtc\.com$
 :: kn\.zzdahan\.com$
 :: kob\.adxkj\.com$
@@ -5001,6 +5245,7 @@
 :: letv\.m\.cn\.miaozhen\.com$
 :: linkpage\.cn$
 :: links\.services\.disqus\.com$
+:: listlog\.baofeng\.net$
 :: livec\.l\.qq\.com$
 :: livem\.l\.qq\.com$
 :: livep\.l\.qq\.com$
@@ -5019,12 +5264,20 @@
 :: lndnserror5\.wo\.com\.cn$
 :: lndnserror6\.wo\.com\.cn$
 :: lndnserror7\.wo\.com\.cn$
+:: loading\.baofeng5\.baofeng\.net$
 :: log2\.air\.yoyi\.com\.cn$
 :: log\.collect\.yinyuetai\.com$
 :: log\.cs\.pp\.cn$
+:: log\.da\.hunantv\.com$
+:: logger\.treexml\.baofeng\.com$
 :: log\.he2d\.com$
+:: log\.houyi\.baofeng\.net$
+:: log\.ltype\.baofeng\.com$
 :: log\.mix\.sina\.com\.cn$
 :: log\.music\.baidu\.com$
+:: log\.nvwa\.baofeng\.com$
+:: log\.p2p\.hunantv\.com$
+:: log\.rc\.hunantv\.com$
 :: logs\.newapi\.com$
 :: log\.spotify\.com$
 :: log\.stat\.kugou\.com$
@@ -5033,12 +5286,15 @@
 :: log\.umsns\.com$
 :: log\.umtrack\.com$
 :: logupdate\.avlyun\.sec\.miui\.com$
+:: log\.v2\.hunantv\.com$
 :: log\.vcgame\.cn$
+:: log\.videojj\.com$
 :: log\.voicecloud\.cn$
 :: log\.web\.kugou\.com$
 :: l\.qq\.com$
 :: ls\.l\.qq\.com$
 :: lu\.sogou\.com$
+:: lwq\.wangketuan\.com$
 :: lxcdn\.dl\.files\.xiaomi\.net$
 :: lycos-eu\.imrworldwide\.com$
 :: m\.12365chia\.com$
@@ -5049,6 +5305,7 @@
 :: m1\.baidu\.com$
 :: m2374\.oadz\.com$
 :: m\.28487\.net$
+:: m2\.da\.mgtv\.com$
 :: m3bnqqqw\.com$
 :: m\.7180443\.com$
 :: m-78\.jp$
@@ -5080,6 +5337,7 @@
 :: material\.istreamsche\.com$
 :: material\.jfdaily\.adsame\.com$
 :: material\.mtty\.xin$
+:: m\.atm\.youku\.com$
 :: maw\.wnbfw\.com$
 :: max\.adsame\.com$
 :: maxsys\.adsame\.com$
@@ -5118,6 +5376,8 @@
 :: meitubeauty\.meitudata\.com$
 :: m\.emgwq\.com$
 :: metok\.sys\.miui\.com$
+:: me\.videojj\.com$
+:: mf\.atm\.youku\.com$
 :: m\.feifish66\.com$
 :: m\.fhxsw\.org$
 :: mfp\.deliver\.ifeng\.com$
@@ -5131,6 +5391,8 @@
 :: m\.hmzsfmjc\.com$
 :: mhradio\.org$
 :: miaozhen\.com$
+:: mid\.houyi\.baofeng\.net$
+:: midinfo\.baofeng\.com$
 :: migc\.g\.mi\.com$
 :: migcreport\.g\.mi\.com$
 :: mi\.gdt\.qq\.com$
@@ -5166,10 +5428,15 @@
 :: mobaders\.oss-cn-beijing\.aliyuncs\.com$
 :: mobads\.baidu\.com$
 :: mobads-logs\.baidu\.com$
+:: mobaliyun\.res\.mgtv\.com$
 :: mobi\.adsage\.com$
+:: mobile2\.da\.mgtv\.com$
 :: mobileads\.google\.com$
 :: mobileads\.msn\.com$
+:: mobile\.da\.mgtv\.com$
+:: mobile\.log\.hunantv\.com$
 :: mobilelog\.kugou\.com$
+:: mobilemsg\.youku\.com$
 :: mo\.haloapps\.cn$
 :: moka\.inte\.sogoucdn\.com$
 :: monitor\.uu\.qq\.com$
@@ -5179,6 +5446,7 @@
 :: motu\.p4p\.sina\.com\.cn$
 :: mou\.niu\.xunlei\.com$
 :: moupdate10332052\.wps\.cn$
+:: mp4\.res\.hunantv\.com$
 :: m\.panda\.voiceads\.cn$
 :: mpb1\.iteye\.com$
 :: mpb2\.iteye\.com$
@@ -5231,7 +5499,9 @@
 :: my1fc\.m\.b5200\.net$
 :: my1fimg\.m\.b5200\.net$
 :: my\.adsmogo\.com$
+:: m\.yalayi\.com$
 :: m\.yangjingbang\.net$
+:: myes\.youku\.com$
 :: m\.yoyi\.com\.cn$
 :: n\.3g\.163\.com$
 :: na1r\.services\.adobe\.com$
@@ -5244,6 +5514,8 @@
 :: nbsdk-baichuan\.taobao\.com$
 :: nc004x\.corp\.youdao\.com$
 :: nc045x\.corp\.youdao\.com$
+:: nclog\.mars\.baofeng\.net$
+:: nclog\.pad\.baofeng\.net$
 :: n\.domob\.cn$
 :: neirong\.baidu\.com$
 :: net\.adpush\.cn$
@@ -5254,6 +5526,8 @@
 :: news\.mpush\.qq\.com$
 :: news\.push\.126\.net$
 :: newspush\.sinajs\.cn$
+:: news\.qhstatic\.com$
+:: new\.taobc\.com$
 :: new\.users\.51\.la$
 :: newvector\.map\.baidu\.com$
 :: nex\.163\.com$
@@ -5312,6 +5586,7 @@
 :: o\.minisplat\.cn$
 :: onetag-sys\.com$
 :: online\.cnzz\.com$
+:: onlinetips\.baofeng5\.baofeng\.net$
 :: opehs\.tanx\.com$
 :: openapi\.guanjia\.qq\.com$
 :: openapi-news\.meizu\.com$
@@ -5331,6 +5606,7 @@
 :: ow\.s1\.shuhuangge\.org$
 :: ow\.s2\.shuhuangge\.org$
 :: p2\.l\.qq\.com$
+:: p2pmid\.baofeng\.com$
 :: p3\.l\.qq\.com$
 :: p3p\.mmstat\.com$
 :: p3p\.sogou\.com$
@@ -5351,12 +5627,14 @@
 :: pagead\.l\.google\.com$
 :: pagead-tpc\.l\.google\.com$
 :: pagechoice\.net$
+:: pageshow\.dftoutiao\.com$
 :: pagespeed\.report\.qq\.com$
 :: p\.alimama\.com$
 :: palmnews\.sina\.cn$
 :: panda\.adsame\.com$
 :: p\.appjiagu\.com$
 :: parking\.zunmi\.cn$
+:: parser\.houyi\.baofeng\.net$
 :: partnerad\.l\.google\.com$
 :: partnerads\.ysm\.yahoo\.com$
 :: partner\.googleadservices\.com$
@@ -5369,13 +5647,20 @@
 :: pb\.sogou\.com$
 :: pb\.wang502\.com$
 :: pc\.107788\.com$
+:: pc1\.da\.mgtv\.com$
 :: pcbrowser\.dd\.qq\.com$
+:: pc\.da\.mgtv\.com$
 :: pcfg\.wps\.cn$
 :: p\.clkservice\.youdao\.com$
+:: pcminitj\.dftoutiao\.com$
 :: pcookie\.cnzz\.com$
 :: pcookie\.tanx\.com$
 :: pc\.quansj\.cn$
+:: pcvideoaliyun\.titan\.mgtv\.com$
 :: pc\.videoclick\.baidu\.com$
+:: pcvideoyd\.titan\.mgtv\.com$
+:: pcweb-v1\.log\.mgtv\.com$
+:: pcweb\.v1\.mgtv\.com$
 :: pcxzo\.pluto\.sogou\.com$
 :: pdc\.micloud\.xiaomi\.net$
 :: pd\.dopa\.com\.cn$
@@ -5401,8 +5686,6 @@
 :: pics\.taobaocdn\.com$
 :: pindao\.huoban\.taobao\.com$
 :: ping\.acc\.sogou\.com$
-:: pingfore\.qq\.com$
-:: pingfore\.tenpay\.com$
 :: pinghot\.qq\.com$
 :: pingma\.qq\.com$
 :: ping\.pinyin\.sogou\.com$
@@ -5416,9 +5699,12 @@
 :: pixel\.sitescout\.com$
 :: pixel\.tapad\.com$
 :: pix\.impdesk\.com$
+:: pixiu\.shangshufang\.ksosoft\.com$
 :: pjyu\.golden1\.sogou\.com$
 :: pkg-cdn\.youmi\.net$
 :: p\.kjwx8\.com$
+:: plat\.videojj\.com$
+:: player\.log\.hunantv\.com$
 :: playinfo\.gomlab\.com$
 :: plmkolp\.m\.58xs\.tw$
 :: p\.l\.qq\.com$
@@ -5432,11 +5718,13 @@
 :: pop\.sjk\.ijinshan\.com$
 :: popup\.msn\.com$
 :: pos\.baidu\.com$
+:: position\.dftoutiao\.com$
 :: post\.ra\.icast\.cn$
 :: pptv\.adx\.admaster\.com\.cn$
 :: pptv\.cm\.admaster\.com\.cn$
 :: ppurifier\.game\.xiaomi\.com$
 :: practivate\.adobe\.com$
+:: pr\.adxxx\.com$
 :: pr-bh\.ybp\.yahoo\.com$
 :: prc\.rjje4\.com$
 :: pr\.da\.netease\.com$
@@ -5469,13 +5757,17 @@
 :: push\.5z5zw\.com$
 :: pushapi\.lenovomm\.com$
 :: push\.mobile\.kugou\.com$
+:: push\.m\.youku\.com$
 :: push\.res\.meizu\.com$
 :: push\.wandoujia\.com$
 :: push\.yuedu\.163\.com$
 :: push\.zhangyue\.com$
 :: push\.zhanzhang\.baidu\.com$
 :: pv\.anzhi\.com$
+:: pvdata\.ku6\.com$
 :: pv\.focus\.cn$
+:: pvlog\.hd\.baofeng\.com$
+:: pvlog\.moviebox\.baofeng\.net$
 :: pv\.ra\.icast\.cn$
 :: pv\.sogou\.com$
 :: pvstat\.html5\.qq\.com$
@@ -5489,6 +5781,7 @@
 :: px\.owneriq\.net$
 :: px\.powerlinks\.com$
 :: py2\.qlogo\.cn$
+:: py\.da\.mgtv\.com$
 :: py\.qlogo\.cn$
 :: q12\.cnzz\.com$
 :: q14\.cnzz\.com$
@@ -5545,6 +5838,7 @@
 :: reader\.browser\.miui\.com$
 :: rec\.g\.163\.com$
 :: recmd\.html5\.qq\.com$
+:: rec\.moviebox\.baofeng\.net$
 :: redirect\.simba\.taobao\.com$
 :: referrer\.disqus\.com$
 :: release\.baidu\.com$
@@ -5576,6 +5870,7 @@
 :: rj\.m\.taobao\.com$
 :: rl\.go2yd\.com$
 :: rlogs\.youdao\.com$
+:: r\.l\.youku\.com$
 :: rmads\.eu\.msn\.com$
 :: rmads\.msn\.com$
 :: r\.mail\.163\.com$
@@ -5766,12 +6061,14 @@
 :: sa0\.tuisong\.baidu\.com$
 :: sa1\.tuisong\.baidu\.com$
 :: sa3\.tuisong\.baidu\.com$
+:: s\.ads\.sohu\.com$
 :: s\.aikan6\.com$
 :: s\.alitui\.weibo\.com$
 :: s\.amazon-adsystem\.com$
 :: samba\.adsame\.com$
 :: sambaclk\.adsame\.com$
 :: sambasys\.adsame\.com$
+:: same\.mzy2014\.com$
 :: sammax\.adsame\.com$
 :: sammix\.adsame\.com$
 :: samrt\.adsame\.com$
@@ -5794,6 +6091,7 @@
 :: sbeacon\.sina\.com\.cn$
 :: scc\.domob\.cn$
 :: scdown\.qq\.com$
+:: scene\.vip\.xunlei\.com$
 :: sc\.ggdoubi\.com$
 :: sc\.ggfeng\.com$
 :: schemas\.android\.com$
@@ -5802,6 +6100,7 @@
 :: sc\.jxhcyc\.com$
 :: sclick\.baidu\.com$
 :: s\.clkservice\.youdao\.com$
+:: sclog\.moviebox\.baofeng\.com$
 :: s\.cpro\.baidu\.com$
 :: script-bd\.baixing\.net$
 :: sdapprecv\.app\.cntvwb\.cn$
@@ -5819,6 +6118,7 @@
 :: sdkapp\.uve\.weibo\.com$
 :: sdk\.cferw\.com$
 :: sdkclick\.mobile\.sina\.cn$
+:: sdkconfig\.ad\.intl\.xiaomi\.com$
 :: sdkconfig\.ad\.xiaomi\.com$
 :: sdk\.conf\.igexin\.com$
 :: sdk\.e\.qq\.com$
@@ -5894,6 +6194,7 @@
 :: server-uk\.imrworldwide\.com$
 :: server-us\.imrworldwide\.com$
 :: service\.ad\.adesk\.com$
+:: service\.danmu\.youku\.com$
 :: service\.epro\.sogou\.com$
 :: servicer\.adskeeper\.co\.uk$
 :: service\.urchin\.com$
@@ -5906,6 +6207,7 @@
 :: s\.gdt\.qq\.com$
 :: sg\.keytui\.com$
 :: s\.go2yd\.com$
+:: s\.go\.sohu\.com$
 :: s\.gyeet\.com$
 :: shadu\.baidu\.com$
 :: shaft\.jebe\.renren\.com$
@@ -5925,6 +6227,7 @@
 :: shop\.yinyuetai\.com$
 :: shouji\.360\.cn$
 :: shouji\.sougou\.com$
+:: show\.look\.360\.cn$
 :: show\.re\.taobao\.com$
 :: showwxml\.qq\.com$
 :: s\.hystq\.com$
@@ -6024,16 +6327,21 @@
 :: static\.adwo\.com$
 :: static\.alimama\.com$
 :: static\.criteo\.net$
+:: static\.danmu\.baofeng\.com$
 :: static\.doubleclick\.net$
+:: static\.exosrv\.com$
 :: static\.flv\.uuzuonline\.com$
 :: static\.googleadsserving\.cn$
+:: static\.houyi\.baofeng\.net$
 :: static\.mackeeper\.com$
+:: static\.mct01\.com$
 :: static\.m\.sjzhushou\.com$
 :: static-one\.ffwap\.com$
 :: static-two\.ffwap\.com$
 :: static\.tzyiyuantuan\.com$
 :: static\.wooboo\.com\.cn$
 :: static\.youmi\.net$
+:: statis\.mobile\.youku\.com$
 :: statis\.push\.netease\.com$
 :: statisticsv2\.yinyuetai\.com$
 :: stat\.m\.360\.cn$
@@ -6062,6 +6370,8 @@
 :: stm-cdn\.cn\.miaozhen\.com$
 :: stm-collect\.cn\.miaozhen\.com$
 :: stnn\.adsame\.com$
+:: store\.videojj\.com$
+:: storm\.logger\.baofeng\.com$
 :: strategy\.beacon\.qq\.com$
 :: strip\.alicdn\.com$
 :: strip\.taobaocdn\.com$
@@ -6070,11 +6380,13 @@
 :: st\.zzhyyj\.com$
 :: su\.bdimg\.com$
 :: su\.bdstatic\.com$
+:: subo\.logger\.baofeng\.com$
 :: subswin\.com$
 :: s\.union\.360\.cn$
 :: survey\.miaozhen\.com$
 :: susapi\.dev\.surepush\.cn$
 :: susapi\.lenovomm\.com$
+:: suvset\.sohu\.com$
 :: sv\.map\.baidu\.com$
 :: swa\.gtimg\.com$
 :: sw\.mobile\.sogou\.com$
@@ -6105,6 +6417,7 @@
 :: sync-tm\.everesttech\.net$
 :: s\.youmi\.net$
 :: sys\.zhangyue\.com$
+:: s\.zampdsp\.com$
 :: t10\.baidu\.com$
 :: t11\.baidu\.com$
 :: t12\.baidu\.com$
@@ -6115,6 +6428,7 @@
 :: t4\.51maiwanju\.com$
 :: t5\.51maiwanju\.com$
 :: t6\.51maiwanju\.com$
+:: t\.ads\.sohu\.com$
 :: tags\.bluekai\.com$
 :: tajs\.qq\.com$
 :: t\.alimama\.com$
@@ -6150,7 +6464,10 @@
 :: t-flow\.flyme\.cn$
 :: t\.gdt\.qq\.com$
 :: tg\.jifen\.2345\.com$
+:: t\.go\.sohu\.com$
 :: theta\.sogoucdn\.com$
+:: timelog\.moviebox\.baofeng\.com$
+:: tips\.logger\.baofeng\.com$
 :: tj\.b\.qq\.com$
 :: tj\.kugou\.com$
 :: tjs\.sjs\.sinajs\.cn$
@@ -6200,6 +6517,7 @@
 :: trafficfactory\.biz$
 :: trc\.adsage\.com$
 :: trc\.taboola\.com$
+:: tree\.logger\.baofeng\.com$
 :: trends\.mobile\.sina\.cn$
 :: tsjdgzm\.m\.3dllc\.cc$
 :: t\.sj\.qq\.com$
@@ -6222,6 +6540,7 @@
 :: tw\.pub\.vpon\.com$
 :: twsina\.allyes\.com$
 :: txtad\.jijiplayer\.com$
+:: txt\.go\.sohu\.com$
 :: tyaqy\.m\.cn\.miaozhen\.com$
 :: t\.youmi\.net$
 :: tytx\.m\.cn\.miaozhen\.com$
@@ -6241,7 +6560,6 @@
 :: ucus\.ucweb\.com$
 :: uc\.xiansuper\.com$
 :: udash\.umengcloud\.com$
-:: udc\.msn\.com$
 :: u\.domob\.cn$
 :: udpolimenew\.baidu\.com$
 :: uebawtz7\.me$
@@ -6302,6 +6620,7 @@
 :: uuidapi\.yunos\.com$
 :: uusee\.adsame\.com$
 :: uxip\.meizu\.com$
+:: u-x\.jd\.com$
 :: u\.x\.jd\.com$
 :: v1\.0594529\.com$
 :: v10\.cnzz\.com$
@@ -6312,10 +6631,20 @@
 :: v1\.cnzz\.com$
 :: v1-feed\.idreamsky\.com$
 :: v1\.log\.moji\.com$
+:: v1\.play\.log\.hunantv\.com$
+:: v1-play\.log\.mgtv\.com$
+:: v1\.res\.log\.hunantv\.com$
 :: v2\.cnzz\.com$
+:: v2\.da\.mgtv\.com$
 :: v2\.fm\.n\.duokanbox\.com$
+:: v2\.hdd\.log\.hunantv\.com$
+:: v2\.hd\.log\.hunantv\.com$
+:: v2html\.atm\.youku\.com$
 :: v2\.jiathis\.com$
+:: v2\.log\.hunantv\.com$
+:: v2\.log\.mgtv\.com$
 :: v2\.reachmax\.cn$
+:: v2\.res\.log\.hunantv\.com$
 :: v3\.cnzz\.com$
 :: v3\.jiathis\.com$
 :: v4\.cnzz\.com$
@@ -6326,8 +6655,15 @@
 :: v9\.cnzz\.com$
 :: v\.admaster\.com\.cn$
 :: va\.gxpan\.cn$
+:: val\.atm\.youku\.com$
+:: valb\.atm\.youku\.com$
+:: valc\.atm\.youku\.com$
+:: valf\.atm\.youku\.com$
+:: valp\.atm\.youku\.com$
+:: valt\.atm\.youku\.com$
 :: vamaker\.cm\.admaster\.com\.cn$
 :: vatrack\.hinet\.net$
+:: va\.videojj\.com$
 :: vbaof\.admaster\.com\.cn$
 :: vcfs6ip5h6\.bid$
 :: vdapprecv\.app\.cntvwb\.cn$
@@ -6336,9 +6672,14 @@
 :: vg02h8z1ul\.me$
 :: v\.gdt\.qq\.com$
 :: vhunantv\.admaster\.com\.cn$
+:: vi0\.mzy2014\.com$
+:: vi1\.ku6img\.net$
+:: vi1\.mzy2014\.com$
+:: vi2\.ku6img\.net$
 :: vid\.atdmt\.com$
 :: video-ad-stats\.googlesyndication\.com$
 :: video\.cooguo\.com$
+:: videojj\.com$
 :: videopush\.baidu\.com$
 :: video\.ureport\.push\.qq\.com$
 :: video\.wap\.mpush\.qq\.com$
@@ -6369,6 +6710,7 @@
 :: vtechweb\.adsame\.com$
 :: vt\.ipinyou\.com$
 :: vv84\.bj\.bcebos\.com$
+:: vvlog\.moviebox\.baofeng\.com$
 :: w3\.yinyuehu\.cn$
 :: w6061\.move7\.com$
 :: wa\.gtimg\.com$
@@ -6389,12 +6731,15 @@
 :: wbclick\.mobile\.sina\.cn$
 :: wb\.gtimg\.com$
 :: wbpctips\.mobile\.sina\.cn$
+:: wbwl\.houyi\.baofeng\.net$
 :: w\.cnzz\.com$
 :: w\.domob\.cn$
 :: wds\.inte\.sogoucdn\.com$
 :: web1\.51\.la$
 :: web2\.51\.la$
 :: web\.51\.la$
+:: web\.da\.mgtv\.com$
+:: web\.houyi\.baofeng\.net$
 :: webmine\.cz$
 :: web\.sogou\.com$
 :: webstat\.kuwo\.cn$
@@ -6413,6 +6758,7 @@
 :: wisemedia\.cm\.admaster\.com\.cn$
 :: wisepush\.video\.baidu\.com$
 :: wl\.51taifu\.com$
+:: wl\.houyi\.baofeng\.net$
 :: w\.l\.qq\.com$
 :: wm\.baidu\.com$
 :: wmedia\.adk2x\.com$
@@ -6546,11 +6892,9 @@
 :: ww8\.onetad\.com$
 :: ww9\.onetad\.com$
 :: wwis-dubc1-vip60\.adobe\.com$
-:: w\.wooboo\.com\.cn$
 :: wwv\.onetad\.com$
 :: www\.114so\.cn$
 :: www\.1680go\.com$
-:: www1\.wooboo\.com\.cn$
 :: www\.202m\.com$
 :: www\.268mob\.cn$
 :: www\.51link\.com$
@@ -6645,32 +6989,41 @@
 :: www\.yoyozz\.net$
 :: www\.yuanming\.net$
 :: www\.yueyelive\.com$
+:: www\.zamplus\.com$
 :: www\.zhengjian\.org$
 :: www\.zhengwunet\.org$
 :: www\.zhuichaguoji\.org$
 :: ww\.xiaopiaoyou\.com$
 :: w\.x\.baidu\.com$
+:: wx\.houyi\.baofeng\.net$
 :: w\.xiaopiaoyou\.com$
 :: wx\.xwjqr\.com$
 :: w\.yinyuehu\.cn$
 :: w\.ymapp\.com$
+:: x1\.da\.hunantv\.com$
+:: x1\.go\.sohu\.com$
 :: x\.adpro\.cn$
 :: xcar\.adsame\.com$
 :: x\.cnxad\.com$
 :: xco\.qwxcs\.com$
 :: xdadevelopers\.browsi\.mobi$
+:: x\.da\.hunantv\.com$
+:: x\.da\.mgtv\.com$
 :: xd\.code\.tanwanyx\.com$
 :: x\.domob\.cn$
 :: xf\.yellowto\.com$
 :: xgmc6lu8fs\.me$
+:: xhtd\.99hg\.wang$
 :: xiangchaokankan\.m\.cn\.miaozhen\.com$
 :: xiaomiir\.yaokantv\.com$
 :: xinhuanet\.adsame\.com$
 :: xinsheng\.net$
 :: x\.jd\.com$
 :: xji\.qwxcs\.com$
+:: xls\.go\.sohu\.com$
 :: xs\.1drj\.com$
 :: xs\.he9630\.com$
+:: xs\.houyi\.baofeng\.net$
 :: xtruh\.uranus\.sogou\.com$
 :: xunlei\.adx\.admaster\.com\.cn$
 :: x\.vamaker\.com$
@@ -6679,6 +7032,8 @@
 :: yads\.yahoo\.co\.jp$
 :: yam\.adsbro\.com$
 :: yaolan\.adsame\.com$
+:: y\.da\.hunantv\.com$
+:: y\.da\.mgtv\.com$
 :: y\.domob\.cn$
 :: yee\.js\.cn$
 :: yellowto\.com$
@@ -6718,6 +7073,7 @@
 :: zc\.biz\.weibo\.com$
 :: z\.clickvip\.shop$
 :: z\.domob\.cn$
+:: zeus\.ad\.xiaomi\.com$
 :: zgdfz6h7po\.me$
 :: zgty365\.com$
 :: zh-cn\.shenyun\.com$
