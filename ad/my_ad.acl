@@ -8,6 +8,11 @@
 .*\.umeng\.com.*$
 .*\.umeng\.cn.*$
 
+#fan_5ch
+.*bypass\.ad\-stir\.com.*$
+.*\.adingo\.jp.*$
+.*\.aff\-adeals\.com.*$
+
 #flg
 (^|\.)www\.bannedbook\.org.*$
 (^|\.)bannedbook\.org.*$
@@ -105,22 +110,28 @@
 (^|\.)statis\.push\.netease\.com.*$
 (^|\.)m\.analytics\.126\.net.*$
 (^|\.)crashlytics\.163\.com.*$
+
 # Weibo.*$
 (^|\.)click\.uve\.weibo\.com.*$
+
 # MS.*$
 (^|\.)analytics\.live\.com.*$
 (^|\.)digg\.analytics\.live\.com.*$
 (^|\.)analytics\.msn\.com.*$
 (^|\.)analytics\.r\.msn\.com.*$
 (^|\.)ms\.analytics\.live\.com.*$
+
 # 360.*$
 (^|\.)stat\.360safe\.com.*$
 (^|\.)stat\.m\.360\.cn.*$
+
 # Yahoo.*$
 (^|\.)analytics\.query\.yahoo\.com.*$
 (^|\.)analytics\.yahoo\.com.*$
+
 # Bilibili.*$
 (^|\.)cm\.bilibili\.com.*$
+
 # 51LA.*$
 (^|\.)ia\.51\.la.*$
 (^|\.)js\.users\.51\.la.*$
@@ -136,13 +147,16 @@
 (^|\.)web\.51\.la.*$
 (^|\.)web1\.51\.la.*$
 (^|\.)web2\.51\.la.*$
+
 # CSDN.*$
 (^|\.)dc\.csdn\.net.*$
+
 # crashlytics.*$
 (^|\.)e\.crashlytics\.com.*$
 (^|\.)setting\.crashlytics\.com.*$
 (^|\.)settings\.crashlytics\.com.*$
 (^|\.)tracking-server-prod-1\.zenmxapps\.com.*$
+
 # Appsflyer.*$
 (^|\.)api\.appsflyer\.com.*$
 (^|\.)events\.appsflyer\.com.*$
@@ -150,6 +164,7 @@
 (^|\.)stats\.appsflyer\.com.*$
 (^|\.)t\.appsflyer\.com.*$
 (^|\.)track\.appsflyer\.com.*$
+
 # Ali.*$
 (^|\.)dmtracking\.alibaba\.com.*$
 (^|\.)dmtracking2\.alibaba\.com.*$
@@ -158,10 +173,12 @@
 (^|\.)js\.tongji\.linezing\.com.*$
 (^|\.)tongji\.linezing\.com.*$
 (^|\.)www\.linezing\.com.*$
+
 # Qcloud.*$
 (^|\.)report\.vip\.qq\.com.*$
 (^|\.)report\.huatuo\.qq\.com.*$
 (^|\.)report\.qcloud\.com.*$
+
 #analysys\.cn.*$
 (^|\.)ait025\.analysys\.cn.*$
 (^|\.)ait240\.analysys\.cn.*$
@@ -170,14 +187,16 @@
 (^|\.)urd103\.analysys\.cn.*$
 (^|\.)urd240\.analysys\.cn.*$
 (^|\.)urd345\.analysys\.cn.*$
+
 # Google Analytics.*$
 (^|\.)www\.google-analytics\.com.*$
 (^|\.)www\.googletagmanager\.com.*$
 (^|\.)ssl\.google-analytics\.com.*$
-(^|\.)stats\.g\.doubleclick\.net.*$
+
 # Baidu.*$
 (^|\.)hpd\.baidu\.com.*$
 (^|\.)hm\.baidu\.com.*$
+
 # effectivemeasure.*$
 (^|\.)c\.effectivemeasure\.net.*$
 (^|\.)hk-cdn\.effectivemeasure\.net.*$
@@ -185,9 +204,11 @@
 (^|\.)s\.effectivemeasure\.net.*$
 (^|\.)sg-cdn\.effectivemeasure\.net.*$
 (^|\.)www9\.effectivemeasure\.net.*$
+
 # Tencent Bugly.*$
 (^|\.)aexception\.bugly\.qq\.com.*$
 (^|\.)android\.bugly\.qq\.com.*$
+
 # Others.*$
 (^|\.)s\.qhupdate\.com.*$
 (^|\.)hs\.qhupdate\.com.*$
@@ -223,19 +244,6 @@
 (^|\.)www\.xiniuz\.com.*$
 
 
-(^|\.)api0\.tuisong\.baidu\.com$
-(^|\.)api1\.tuisong\.baidu\.com$
-(^|\.)api2\.analysys\.cn$
-(^|\.)api2\.play\.cn$
-(^|\.)api2\.tuisong\.baidu\.com$
-(^|\.)api3\.tuisong\.baidu\.com$
-(^|\.)api4\.tuisong\.baidu\.com$
-(^|\.)api5\.tuisong\.baidu\.com$
-(^|\.)api6\.tuisong\.baidu\.com$
-(^|\.)api721\.analysys\.cn$
-(^|\.)api7\.tuisong\.baidu\.com$
-(^|\.)api8\.tuisong\.baidu\.com$
-(^|\.)api9\.tuisong\.baidu\.com$
 (^|\.)api\.adbana\.com$
 (^|\.)api\.adcome\.cn$
 (^|\.)api\.admob\.com$
