@@ -1,5 +1,4 @@
 #facebook
-.*\.facebook\.com\/ads\/conv\_redirect\/\?d\=.*$
 
 #友盟测试
 .*\.umeng\.com.*$

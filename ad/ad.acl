@@ -2,7 +2,6 @@
 
 [outbound_block_list]
 #facebook
-.*\.facebook\.com\/ads\/conv\_redirect\/\?d\=.*$
 
 #友盟测试
 .*\.umeng\.com.*$
@@ -1170,7 +1169,7 @@
 .*\.ttjx-online\.cn-hangzhou\.log\.aliyuncs\.com.*$
 .*\.tw\.alimama\.cn.*$
 .*\.xz-development\.oss-cn-beijing\.aliyuncs\.com.*$
-# start date:    Tue, 15 Dec 1998 00:00:00$
+# start date:    Wed, 16 Dec 1998 00:00:00$
 (^|\.)101com\.com$
 (^|\.)101order\.com$
 (^|\.)123found\.com$
