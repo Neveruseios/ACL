@@ -5,11 +5,11 @@
 #git branch -d temp
 
 cd cn
-. ./cn/get_cn.sh
+. ./get_cn.sh
 cd ..
 
 cd ad
-. ./ad/ad.sh
+. ./ad.sh
 cd ..
 
 #cp cn/cn.acl cn.acl
