@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 12 Dec 2018 14:20:11 GMT
-# entries:        2928
+# entries:        2924
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -2135,7 +2135,6 @@
 127.0.0.1 pagefair.net
 127.0.0.1 pagerank-ranking.de
 127.0.0.1 pagerank-submitter.de
-127.0.0.1 pagerank-united.de
 127.0.0.1 pagerank4you.com
 127.0.0.1 pageranktop.com
 127.0.0.1 paleleaf.com
@@ -2190,7 +2189,6 @@
 127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixel.condenastdigital.com
 127.0.0.1 pixel.digitru.st
-127.0.0.1 pixel.redditmedia.com
 127.0.0.1 pixel.sojern.com
 127.0.0.1 pixel.watch
 127.0.0.1 play4traffic.com
@@ -2291,7 +2289,6 @@
 127.0.0.1 railwayrainstorm.com
 127.0.0.1 rampidads.com
 127.0.0.1 rank-master.com
-127.0.0.1 rank-master.de
 127.0.0.1 rankchamp.de
 127.0.0.1 ranking-charts.de
 127.0.0.1 ranking-hits.de
@@ -2594,8 +2591,6 @@
 127.0.0.1 surfmusik-adserver.de
 127.0.0.1 swan-swan-goose.com
 127.0.0.1 swimslope.com
-127.0.0.1 switchadhub.com
-127.0.0.1 switchads.com
 127.0.0.1 swordfishdc.com
 127.0.0.1 swordgoose.com
 127.0.0.1 t.insigit.com
@@ -2735,6 +2730,7 @@
 127.0.0.1 traktrafficflow.com
 127.0.0.1 tranquilside.com
 127.0.0.1 travis.bosscasinos.com
+127.0.0.1 trekdata.com
 127.0.0.1 tremendoustime.com
 127.0.0.1 trendcounter.com
 127.0.0.1 trendmd.com

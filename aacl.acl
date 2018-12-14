@@ -3305,7 +3305,6 @@
 (^|\.)pagefair\.net$
 (^|\.)pagerank-ranking\.de$
 (^|\.)pagerank-submitter\.de$
-(^|\.)pagerank-united\.de$
 (^|\.)pagerank4you\.com$
 (^|\.)pageranktop\.com$
 (^|\.)paleleaf\.com$
@@ -3360,7 +3359,6 @@
 (^|\.)pixel\.adsafeprotected\.com$
 (^|\.)pixel\.condenastdigital\.com$
 (^|\.)pixel\.digitru\.st$
-(^|\.)pixel\.redditmedia\.com$
 (^|\.)pixel\.sojern\.com$
 (^|\.)pixel\.watch$
 (^|\.)play4traffic\.com$
@@ -3461,7 +3459,6 @@
 (^|\.)railwayrainstorm\.com$
 (^|\.)rampidads\.com$
 (^|\.)rank-master\.com$
-(^|\.)rank-master\.de$
 (^|\.)rankchamp\.de$
 (^|\.)ranking-charts\.de$
 (^|\.)ranking-hits\.de$
@@ -3764,8 +3761,6 @@
 (^|\.)surfmusik-adserver\.de$
 (^|\.)swan-swan-goose\.com$
 (^|\.)swimslope\.com$
-(^|\.)switchadhub\.com$
-(^|\.)switchads\.com$
 (^|\.)swordfishdc\.com$
 (^|\.)swordgoose\.com$
 (^|\.)t\.insigit\.com$
@@ -3905,6 +3900,7 @@
 (^|\.)traktrafficflow\.com$
 (^|\.)tranquilside\.com$
 (^|\.)travis\.bosscasinos\.com$
+(^|\.)trekdata\.com$
 (^|\.)tremendoustime\.com$
 (^|\.)trendcounter\.com$
 (^|\.)trendmd\.com$
@@ -79220,7 +79216,6 @@ eTV(^|\.)api\.push\.le\.com$
 103.76.72.0/22
 103.76.84.0/22
 103.76.92.0/22
-103.76.104.0/22
 103.76.216.0/22
 103.76.220.0/22
 103.76.224.0/22
@@ -83735,6 +83730,7 @@ eTV(^|\.)api\.push\.le\.com$
 203.86.250.0/24
 203.86.254.0/23
 203.88.32.0/19
+203.88.100.0/22
 203.88.192.0/19
 203.89.0.0/22
 203.89.8.0/21
