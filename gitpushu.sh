@@ -41,7 +41,6 @@ cp my-light.acl ACL/my-light.acl
 cp zlstart.acl ACL/zlstart.acl
 cp my.acl ACL/my.acl
 cp lan.acl ACL/lan.acl
-cp zl.acl ACL/zl.acl
 cp gitpushun.sh ACL/gitpushun.sh
 cp gitpushu.sh ACL/gitpushu.sh
 cp 抓包列表.txt ACL/抓包列表.txt

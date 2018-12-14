@@ -4114,9 +4114,7 @@
 (^|\.)zqtk\.net$
 (^|\.)zy16eoat1w\.com$
 (^|\.)localhost$
-::1 localhost$
-::1 ip6-localhost$
-::1 ip6-loopback$
+
 (^|\.)0127\.adsame\.com$
 (^|\.)0aqpqdju\.me$
 (^|\.)0\.r\.msn\.com$
@@ -11568,10 +11566,7 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)localhost\.localdomain$
 (^|\.)local$
 255\.255\.255\.255 broadcasthost$
-::1 localhost$
-::1 ip6-localhost$
-::1 ip6-loopback$
-fe80::1%lo0 localhost$
+
 ff00::0 ip6-localnet$
 ff00::0 ip6-mcastprefix$
 ff02::1 ip6-allnodes$
