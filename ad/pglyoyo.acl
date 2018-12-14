@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 12 Dec 2018 14:20:11 GMT
-# entries:        2931
+# entries:        2929
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1202,7 +1202,6 @@
 127.0.0.1 ceskydomov.alias.ngs.modry.cz
 127.0.0.1 cetrk.com
 127.0.0.1 cgicounter.puretec.de
-127.0.0.1 ch.questionmarket.com
 127.0.0.1 chairscrack.com
 127.0.0.1 chameleon.ad
 127.0.0.1 channel1vids.com
@@ -1228,7 +1227,6 @@
 127.0.0.1 claria.com
 127.0.0.1 class-act-clicks.com
 127.0.0.1 clearcomb.com
-127.0.0.1 click.absoluteagency.com
 127.0.0.1 click.fool.com
 127.0.0.1 click.kmindex.ru
 127.0.0.1 click2freemoney.com
