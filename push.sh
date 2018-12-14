@@ -17,8 +17,8 @@ cd ..
 #cp ad/my_ad.acl my_ad.acl
 #cp proxy/gfwlist.acl gfwlist.acl
 
-cat common/start.acl ad/ad.acl ad/my_ad.acl common/zlstart.acl common/lan.acl cn/cn.acl proxy/gfwlist.acl > aacl.acl
-cat common/start.acl ad/my_ad.acl common/zlstart.acl common/lan.acl cn/cn.acl proxy/gfwlist.acl > aacl-light.acl
+cat common/start.acl ad/ad.acl common/zlstart.acl common/lan.acl cn/cn.acl proxy/gfwlist.acl > aacl.acl
+cat common/start.acl ad/light_ad.acl common/zlstart.acl common/lan.acl cn/cn.acl proxy/gfwlist.acl > aacl-light.acl
 cat common/start.acl common/zlstart.acl common/lan.acl cn/cn.acl proxy/gfwlist.acl > aacl-none.acl
 
 #rm cn.acl ad.acl my_ad.acl gfwlist.acl

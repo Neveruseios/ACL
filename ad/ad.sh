@@ -1,6 +1,7 @@
-proxychains wget https://hosts.nfz.moe/full/hosts -O neohosts.acl
-proxychains wget https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts -O stevenhosts.acl
-proxychains wget "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext" -O pglyoyo.acl
+wget https://hosts.nfz.moe/full/hosts -O neohosts.acl
+wget https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts -O stevenhosts.acl
+wget "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext" -O pglyoyo.acl
+
 cat pglyoyo.acl neohosts.acl stevenhosts.acl   | sed 's/^\#.*//g' | sed '/^ *$/d' | sed '/^$/d' | \
 sed 's/\./\\\./g' | sed 's/$/\$/g' | sed 's/^\:\:1.*//g' | sed 's/^fe[0-9][0-9]\:\:.*//g' | \
 sed 's/^ff[0-9][0-9]\:\:.*//g' | sed 's/^255\.255\.255\.255.*//g' |sed 's/127\\.0\\.0\\.1 /(^|\\.)/' | \
@@ -32,7 +33,6 @@ sed 's/0\\.0\\.0\\.0 /(^|\\.)/' | sed 's/\:\: /(^|\\.)/' | sed 's/\n\$/\$/' | un
 #sed -i '1,13d' pglyoyo.acl
 
 cat adstart.acl myad.acl  ad_temp.acl > ad.acl
-cat adstart.acl myad.acl > my_ad.acl
-rm ad_temp.acl
-
+cat adstart.acl myad.acl > light_ad.acl
+rm ad_temp.acl pglyoyo.acl stevenhosts.acl neohosts.acl
 
