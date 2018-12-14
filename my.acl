@@ -3,6 +3,7 @@
 
 
 [outbound_block_list]
+#pixiv
 (^|\.)googleadservices\.com.*$
 (^|\.)asset\.adserver\.vrizead\.com.*$
 (^|\.)ad\.adpon\.jp.*$
@@ -10,16 +11,21 @@
 (^|\.)sh\.adingo\.jp.*$
 (^|\.)js\.ad-stir\.com.*$
 (^|\.)adsymptotic\.com.*$
+##测试
 (^|\.)googletagservices\.com.*$
 
+#facebook
 
+#友盟测试
 .*\.umeng\.com.*$
 .*\.umeng\.cn.*$
 
+#fan_5ch
 .*bypass\.ad\-stir\.com.*$
 .*\.adingo\.jp.*$
 .*\.aff\-adeals\.com.*$
 
+#flg
 (^|\.)www\.bannedbook\.org.*$
 (^|\.)bannedbook\.org.*$
 (^|\.)dafahao\.com.*$
@@ -87,6 +93,7 @@
 (^|\.)download\.2345\.com.*$
 (^|\.)g\.wan\.2345\.com.*$
 
+#baidu_location.*$
 (^|\.)api\.map\.baidu\.com.*$
 (^|\.)ps\.map\.baidu\.com.*$
 (^|\.)sv\.map\.baidu\.com.*$
@@ -102,6 +109,8 @@
 (^|\.)ulog\.imap\.baidu\.com.*$
 (^|\.)newloc\.map\.n\.shifen\.com.*$
 
+#analys.*$
+## Netease.*$
 (^|\.)mr\.da\.netease\.com.*$
 (^|\.)pr\.da\.netease\.com.*$
 (^|\.)wr\.da\.netease\.com.*$
@@ -114,22 +123,28 @@
 (^|\.)m\.analytics\.126\.net.*$
 (^|\.)crashlytics\.163\.com.*$
 
+# Weibo.*$
 (^|\.)click\.uve\.weibo\.com.*$
 
+# MS.*$
 (^|\.)analytics\.live\.com.*$
 (^|\.)digg\.analytics\.live\.com.*$
 (^|\.)analytics\.msn\.com.*$
 (^|\.)analytics\.r\.msn\.com.*$
 (^|\.)ms\.analytics\.live\.com.*$
 
+# 360.*$
 (^|\.)stat\.360safe\.com.*$
 (^|\.)stat\.m\.360\.cn.*$
 
+# Yahoo.*$
 (^|\.)analytics\.query\.yahoo\.com.*$
 (^|\.)analytics\.yahoo\.com.*$
 
+# Bilibili.*$
 (^|\.)cm\.bilibili\.com.*$
 
+# 51LA.*$
 (^|\.)ia\.51\.la.*$
 (^|\.)js\.users\.51\.la.*$
 (^|\.)img\.users\.51\.la.*$
@@ -145,13 +160,16 @@
 (^|\.)web1\.51\.la.*$
 (^|\.)web2\.51\.la.*$
 
+# CSDN.*$
 (^|\.)dc\.csdn\.net.*$
 
+# crashlytics.*$
 (^|\.)e\.crashlytics\.com.*$
 (^|\.)setting\.crashlytics\.com.*$
 (^|\.)settings\.crashlytics\.com.*$
 (^|\.)tracking-server-prod-1\.zenmxapps\.com.*$
 
+# Appsflyer.*$
 (^|\.)api\.appsflyer\.com.*$
 (^|\.)events\.appsflyer\.com.*$
 (^|\.)hq\.appsflyer\.com.*$
@@ -159,6 +177,7 @@
 (^|\.)t\.appsflyer\.com.*$
 (^|\.)track\.appsflyer\.com.*$
 
+# Ali.*$
 (^|\.)dmtracking\.alibaba\.com.*$
 (^|\.)dmtracking2\.alibaba\.com.*$
 (^|\.)acookie\.linezing\.com.*$
@@ -167,10 +186,12 @@
 (^|\.)tongji\.linezing\.com.*$
 (^|\.)www\.linezing\.com.*$
 
+# Qcloud.*$
 (^|\.)report\.vip\.qq\.com.*$
 (^|\.)report\.huatuo\.qq\.com.*$
 (^|\.)report\.qcloud\.com.*$
 
+#analysys\.cn.*$
 (^|\.)ait025\.analysys\.cn.*$
 (^|\.)ait240\.analysys\.cn.*$
 (^|\.)api2\.analysys\.cn.*$
@@ -179,13 +200,16 @@
 (^|\.)urd240\.analysys\.cn.*$
 (^|\.)urd345\.analysys\.cn.*$
 
+# Google Analytics.*$
 (^|\.)www\.google-analytics\.com.*$
 (^|\.)www\.googletagmanager\.com.*$
 (^|\.)ssl\.google-analytics\.com.*$
 
+# Baidu.*$
 (^|\.)hpd\.baidu\.com.*$
 (^|\.)hm\.baidu\.com.*$
 
+# effectivemeasure.*$
 (^|\.)c\.effectivemeasure\.net.*$
 (^|\.)hk-cdn\.effectivemeasure\.net.*$
 (^|\.)me-cdn\.effectivemeasure\.net.*$
@@ -193,9 +217,11 @@
 (^|\.)sg-cdn\.effectivemeasure\.net.*$
 (^|\.)www9\.effectivemeasure\.net.*$
 
+# Tencent Bugly.*$
 (^|\.)aexception\.bugly\.qq\.com.*$
 (^|\.)android\.bugly\.qq\.com.*$
 
+# Others.*$
 (^|\.)s\.qhupdate\.com.*$
 (^|\.)hs\.qhupdate\.com.*$
 (^|\.)js\.users\.51\.la.*$
@@ -243,13 +269,17 @@
 (^|\.)ait240\.analysys\.cn$
 (^|\.)jpush\.html5\.qq\.com$
 
+#京东共享第三方大数据公司
 .*\.getui\.com.*$
 115.231.99.203
 
+#极光推送
 .*\.jpush\.cn.*$
 
+#群多多
 .*\.qun\.sh.*$
 
+#币用
 .*\.biyong\.info.*$
 
 .*11h5\.com.*$
@@ -327,6 +357,7 @@
 
 ^youxuan\.baidu\.com.*$
 
+#baidu
 ^a\.baidu\.com.*$
 ^adm\.baidu\.com.*$
 ^ad\.player\.baidu\.com.*$
@@ -646,6 +677,7 @@
 ^w\.x\.baidu\.com.*$
 ^znsv\.baidu\.com.*$
 
+#360
 .*act\.commercial\.shouji\.360\.cn.*$
 .*adapi\.shouji\.360\.cn.*$
 .*ad\.dev\.360\.cn.*$
@@ -721,6 +753,7 @@
 .*update\.360safe\.com.*$
 .*ww360\.onetad\.com.*$
 
+#qq
 .*\.2052\.flash2-http\.qq\.com.*$
 .*\.activeqq\.3g\.qq\.com.*$
 .*\.adfilter\.imtt\.qq\.com.*$
@@ -1040,6 +1073,7 @@
 .*\.ws\.sj\.qq\.com.*$
 .*\.wup\.imtt\.qq\.com.*$
 
+#ali
 .*\.a\.alimama\.cn.*$
 .*\.acjs\.aliyun\.com.*$
 .*\.acookie\.alimama\.com.*$
@@ -4081,6 +4115,10 @@
 (^|\.)zmedia\.com$
 (^|\.)zqtk\.net$
 (^|\.)zy16eoat1w\.com$
+(^|\.)localhost$
+::1 localhost$
+::1 ip6-localhost$
+::1 ip6-loopback$
 (^|\.)0127\.adsame\.com$
 (^|\.)0aqpqdju\.me$
 (^|\.)0\.r\.msn\.com$
@@ -8998,7 +9036,6 @@
 (^|\.)etl\.xlmc\.sec\.miui\.com$
 (^|\.)et\.tanx\.com$
 eTV(^|\.)api\.push\.le\.com$
-eTV(^|\.)api\.push\.le\.com$
 (^|\.)et\.w\.inmobi\.com$
 (^|\.)event\.ksosoft\.com$
 (^|\.)eventlog\.beacon\.qq\.com$
@@ -11529,6 +11566,20 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)zz\.bdstatic\.com$
 (^|\.)zzimg\.51\.la$
 (^|\.)zzy1\.quyaoya\.com$
+(^|\.)localhost$
+(^|\.)localhost\.localdomain$
+(^|\.)local$
+255\.255\.255\.255 broadcasthost$
+::1 localhost$
+::1 ip6-localhost$
+::1 ip6-loopback$
+fe80::1%lo0 localhost$
+ff00::0 ip6-localnet$
+ff00::0 ip6-mcastprefix$
+ff02::1 ip6-allnodes$
+ff02::2 ip6-allrouters$
+ff02::3 ip6-allhosts$
+(^|\.)0\.0\.0\.0$
 (^|\.)1493361689\.rsc\.cdn77\.org$
 (^|\.)30-day-change\.com$
 (^|\.)2468\.go2cloud\.org$
@@ -74826,7 +74877,6 @@ eTV(^|\.)api\.push\.le\.com$
 198.51.100.0/24
 203.0.113.0/24
 224.0.0.0/3
-
 100.1.1.12/31
 100.1.1.1/32
 100.1.1.2/31
@@ -86105,7 +86155,14 @@ eTV(^|\.)api\.push\.le\.com$
 98.126.221.0/24
 98.126.222.0/24
 98.158.235.0/24
+
+
+
+# GFW list from https://github.com/gfwlist/gfwlist/blob/master/gfwlist.txt
+# updated on 2018-03-30
+
 [proxy_list]
+# Telegram IPs$
 91.108.4.0/22
 91.108.8.0/21
 91.108.16.0/21
