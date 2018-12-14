@@ -7,9 +7,9 @@
 (^|\.)googleadservices\.com.*$
 (^|\.)asset\.adserver\.vrizead\.com.*$
 (^|\.)ad\.adpon\.jp.*$
-(^|\.)pixon\.ads\-pixiv\.net.*$
+(^|\.)pixon\.ads-pixiv\.net.*$
 (^|\.)sh\.adingo\.jp.*$
-(^|\.)js\.ad\-stir\.com.*$
+(^|\.)js\.ad-stir\.com.*$
 (^|\.)adsymptotic\.com.*$
 
 #facebook
