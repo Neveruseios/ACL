@@ -3,6 +3,13 @@
 
 
 [outbound_block_list]
+#pixiv
+(^|\.)googleadservices\.com.*$
+(^|\.)asset\.adserver\.vrizead\.com.*$
+(^|\.)ad\.adpon\.jp.*$
+(^|\.)pixon\.ads\-pixiv\.net.*$
+(^|\.)sh\.adingo\.jp.*$
+
 #facebook
 
 #友盟测试
@@ -1655,6 +1662,7 @@
 103.126.132.0/22
 103.126.16.0/22
 103.126.208.0/22
+103.126.241.0/24
 103.126.44.0/22
 103.12.68.0/22
 103.129.148.0/22

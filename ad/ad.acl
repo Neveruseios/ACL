@@ -1,6 +1,13 @@
 
 
 [outbound_block_list]
+#pixiv
+(^|\.)googleadservices\.com.*$
+(^|\.)asset\.adserver\.vrizead\.com.*$
+(^|\.)ad\.adpon\.jp.*$
+(^|\.)pixon\.ads\-pixiv\.net.*$
+(^|\.)sh\.adingo\.jp.*$
+
 #facebook
 
 #友盟测试
@@ -1169,7 +1176,7 @@
 .*\.ttjx-online\.cn-hangzhou\.log\.aliyuncs\.com.*$
 .*\.tw\.alimama\.cn.*$
 .*\.xz-development\.oss-cn-beijing\.aliyuncs\.com.*$
-# start date:    Thu, 17 Dec 1998 00:00:00$
+# start date:    Sat, 19 Dec 1998 00:00:00$
 (^|\.)101com\.com$
 (^|\.)101order\.com$
 (^|\.)123found\.com$
@@ -2459,7 +2466,6 @@
 (^|\.)connextra\.com$
 (^|\.)consciouscabbage\.com$
 (^|\.)consciouschairs\.com$
-(^|\.)consensu\.org$
 (^|\.)contadores\.miarroba\.com$
 (^|\.)contaxe\.de$
 (^|\.)content\.acc-hd\.de$

@@ -3,6 +3,12 @@
 
 
 [outbound_block_list]
+(^|\.)googleadservices\.com.*$
+(^|\.)asset\.adserver\.vrizead\.com.*$
+(^|\.)ad\.adpon\.jp.*$
+(^|\.)pixon\.ads\-pixiv\.net.*$
+(^|\.)sh\.adingo\.jp.*$
+
 
 .*\.umeng\.com.*$
 .*\.umeng\.cn.*$
@@ -2428,7 +2434,6 @@
 (^|\.)connextra\.com$
 (^|\.)consciouscabbage\.com$
 (^|\.)consciouschairs\.com$
-(^|\.)consensu\.org$
 (^|\.)contadores\.miarroba\.com$
 (^|\.)contaxe\.de$
 (^|\.)content\.acc-hd\.de$
@@ -75260,6 +75265,7 @@ eTV(^|\.)api\.push\.le\.com$
 103.126.132.0/22
 103.126.16.0/22
 103.126.208.0/22
+103.126.241.0/24
 103.126.44.0/22
 103.12.68.0/22
 103.129.148.0/22

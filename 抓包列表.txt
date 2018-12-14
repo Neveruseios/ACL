@@ -1,4 +1,4 @@
-代理:
+﻿代理:
 http://omotenashi.cygames.jp:443
 http://omotenashi.cygames.jp:443
 http://graph.facebook.com:443
@@ -81,6 +81,12 @@ https://yads.c.yimg.jp/js/yads.js
 https://yads.yjtag.yahoo.co.jp/
 (^|\.)y\.one\.impact-ad\.jp$
 https://m.one.impact-ad.jp/
+https://www.googleadservices.com/pagead/conversion_async.js
+https://yads.c.yimg.jp/js/yads.js
+https://asset.adserver.vrizead.com/tag/fif_pixiv.js
+ad.adpon.jp
+pixon.ads-pixiv.net
+https://cdn-fluct.sh.adingo.jp/f.js?G=1000064544
 
 https://yj-a.p.adnxs.com/
 https://z.moatads.com/essencegoogleapacv2119254446581/moatad.js
