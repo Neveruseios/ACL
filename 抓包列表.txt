@@ -87,6 +87,8 @@ https://asset.adserver.vrizead.com/tag/fif_pixiv.js
 ad.adpon.jp
 pixon.ads-pixiv.net
 https://cdn-fluct.sh.adingo.jp/f.js?G=1000064544
+https://js.ad-stir.com/js/adstir.js
+https://p.adsymptotic.com/d/px/?_pid=14876&_psign=fc437049395c6e2c5fb54a326a54d1ca&_puuid=f4b6a94acbded08d444e24c23422c241&_rand=-1606879792
 
 https://yj-a.p.adnxs.com/
 https://z.moatads.com/essencegoogleapacv2119254446581/moatad.js
