@@ -10,6 +10,7 @@
 (^|\.)sh\.adingo\.jp.*$
 (^|\.)js\.ad-stir\.com.*$
 (^|\.)adsymptotic\.com.*$
+(^|\.)googletagservices\.com.*$
 
 
 .*\.umeng\.com.*$

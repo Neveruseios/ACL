@@ -11,6 +11,8 @@
 (^|\.)sh\.adingo\.jp.*$
 (^|\.)js\.ad-stir\.com.*$
 (^|\.)adsymptotic\.com.*$
+##测试
+(^|\.)googletagservices\.com.*$
 
 #facebook
 

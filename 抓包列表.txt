@@ -87,6 +87,7 @@ pixon.ads-pixiv.net
 https://cdn-fluct.sh.adingo.jp/
 https://js.ad-stir.com/
 https://p.adsymptotic.com/
+https://www.googletagservices.com/
 
 https://yj-a.p.adnxs.com/
 https://z.moatads.com/
