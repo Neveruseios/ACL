@@ -3,6 +3,17 @@
 
 
 [outbound_block_list]
+#5ch
+(^|\.)nend\.net.*$
+#civillink
+#test
+(^|\.)pagead2\.googlesyndication\.com.*$
+
+#apkmirror
+(^|\.)pagefair\.net.*$
+(^|\.)quantserve\.com.*$
+(^|\.)adservice\.google\.com.*
+
 #pixiv
 (^|\.)googleadservices\.com.*$
 (^|\.)asset\.adserver\.vrizead\.com.*$
@@ -11,6 +22,7 @@
 (^|\.)sh\.adingo\.jp.*$
 (^|\.)js\.ad-stir\.com.*$
 (^|\.)adsymptotic\.com.*$
+(^|\.)cdn\.onesignal\.com.*$
 ##测试
 (^|\.)googletagservices\.com.*$
 
@@ -21,9 +33,9 @@
 .*\.umeng\.cn.*$
 
 #fan_5ch
-.*bypass\.ad\-stir\.com.*$
+.*bypass\.ad-stir\.com.*$
 .*\.adingo\.jp.*$
-.*\.aff\-adeals\.com.*$
+.*\.aff-adeals\.com.*$
 
 #flg
 (^|\.)www\.bannedbook\.org.*$
@@ -349,7 +361,6 @@
 .*\.wlmonitor\..*$
 .*\.yads\..*$
 .*\.zjtoolbar\..*$
-.*pixiv\.org\/click\?ad.*$
 .*yads\.c\.yimg\.jp.*$
 .*\.cnzz\..*$
 .*\.adsina\..*$
@@ -1251,6 +1262,7 @@
 (^|\.)ad-balancer\.at$
 (^|\.)ad-balancer\.net$
 (^|\.)ad-center\.com$
+(^|\.)ad-delivery\.net$
 (^|\.)ad-miner\.com$
 (^|\.)ad-pay\.de$
 (^|\.)ad-rotator\.com$
@@ -1364,6 +1376,7 @@
 (^|\.)ad4mat\.net$
 (^|\.)adaction\.de$
 (^|\.)adadvisor\.net$
+(^|\.)adalliance\.io$
 (^|\.)adap\.tv$
 (^|\.)adapt\.tv$
 (^|\.)adbard\.net$
@@ -2073,6 +2086,8 @@
 (^|\.)affiliatetracking\.net$
 (^|\.)affiliatewindow\.com$
 (^|\.)affiliation-france\.com$
+(^|\.)affrh2014\.com$
+(^|\.)affrh2022\.com$
 (^|\.)afftracking\.justanswer\.com$
 (^|\.)afterview\.ru$
 (^|\.)agreeableprice\.com$
@@ -2089,6 +2104,7 @@
 (^|\.)alclick\.com$
 (^|\.)alenty\.com$
 (^|\.)alexa-sitestats\.s3\.amazonaws\.com$
+(^|\.)alexametrics\.com$
 (^|\.)alipromo\.com$
 (^|\.)all4spy\.com$
 (^|\.)alladvantage\.com$
@@ -2109,6 +2125,7 @@
 (^|\.)analytics\.yahoo\.com$
 (^|\.)anm\.intelli-direct\.com$
 (^|\.)annonser\.dagbladet\.no$
+(^|\.)anrdoezrs\.net$
 (^|\.)anxiousapples\.com$
 (^|\.)apathetictheory\.com$
 (^|\.)api\.intensifier\.de$
@@ -2287,6 +2304,7 @@
 (^|\.)bizrate\.com$
 (^|\.)blast4traffic\.com$
 (^|\.)blingbucks\.com$
+(^|\.)blockadblock\.com$
 (^|\.)blogads\.com$
 (^|\.)blogcounter\.de$
 (^|\.)blogherads\.com$
@@ -2427,6 +2445,7 @@
 (^|\.)clicktrack\.ziyu\.net$
 (^|\.)clicktracks\.com$
 (^|\.)clicktrade\.com$
+(^|\.)clickwith\.bid$
 (^|\.)clickxchange\.com$
 (^|\.)clickz\.com$
 (^|\.)clicmanager\.fr$
@@ -2435,7 +2454,11 @@
 (^|\.)clikerz\.net$
 (^|\.)cliksolution\.com$
 (^|\.)clixgalore\.com$
+(^|\.)clk1005\.com$
+(^|\.)clk1011\.com$
+(^|\.)clk1015\.com$
 (^|\.)clkrev\.com$
+(^|\.)clksite\.com$
 (^|\.)cloisteredhydrant\.com$
 (^|\.)cloudcoins\.biz$
 (^|\.)clrstm\.com$
@@ -2467,6 +2490,7 @@
 (^|\.)connextra\.com$
 (^|\.)consciouscabbage\.com$
 (^|\.)consciouschairs\.com$
+(^|\.)consensad\.com$
 (^|\.)contadores\.miarroba\.com$
 (^|\.)contaxe\.de$
 (^|\.)content\.acc-hd\.de$
@@ -2636,6 +2660,8 @@
 (^|\.)ebuzzing\.com$
 (^|\.)ecircle-ag\.com$
 (^|\.)eclick\.vn$
+(^|\.)eclkmpbn\.com$
+(^|\.)eclkspbn\.com$
 (^|\.)economicpizzas\.com$
 (^|\.)ecoupons\.com$
 (^|\.)edaa\.eu$
@@ -2656,6 +2682,7 @@
 (^|\.)emediate\.dk$
 (^|\.)emediate\.eu$
 (^|\.)emerse\.com$
+(^|\.)emetriq\.de$
 (^|\.)encouragingwilderness\.com$
 (^|\.)endurableshop\.com$
 (^|\.)engine\.espace\.netavenir\.com$
@@ -2919,6 +2946,7 @@
 (^|\.)inaccused\.com$
 (^|\.)inboxdollars\.com$
 (^|\.)incentaclick\.com$
+(^|\.)inclk\.com$
 (^|\.)incognitosearches\.com$
 (^|\.)incrediblesugar\.com$
 (^|\.)indexstats\.com$
@@ -3085,6 +3113,7 @@
 (^|\.)mathtag\.com$
 (^|\.)max\.i12\.de$
 (^|\.)maximumcash\.com$
+(^|\.)maxonclick\.com$
 (^|\.)mbs\.megaroticlive\.com$
 (^|\.)mbuyu\.nl$
 (^|\.)mdotm\.com$
@@ -3169,6 +3198,7 @@
 (^|\.)musiccounter\.ru$
 (^|\.)muwmedia\.com$
 (^|\.)myaffiliateprogram\.com$
+(^|\.)mybestmv\.com$
 (^|\.)mybloglog\.com$
 (^|\.)mybuys\.com$
 (^|\.)mycounter\.ua$
@@ -3232,6 +3262,7 @@
 (^|\.)ns1p\.net$
 (^|\.)ntv\.io$
 (^|\.)ntvk1\.ru$
+(^|\.)nugg\.ad$
 (^|\.)nuggad\.net$
 (^|\.)numax\.nu-1\.com$
 (^|\.)nuseek\.com$
@@ -3289,6 +3320,7 @@
 (^|\.)optimost\.com$
 (^|\.)optmd\.com$
 (^|\.)optmstr\.com$
+(^|\.)optnmstr\.com$
 (^|\.)ordingly\.com$
 (^|\.)ota\.cartrawler\.com$
 (^|\.)otto-images\.developershed\.com$
@@ -3520,6 +3552,7 @@
 (^|\.)revcontent\.com$
 (^|\.)revenue\.net$
 (^|\.)revenuedirect\.com$
+(^|\.)revenuehits\.com$
 (^|\.)revsci\.net$
 (^|\.)revstats\.com$
 (^|\.)richmails\.com$
@@ -3637,6 +3670,7 @@
 (^|\.)sixscissors\.com$
 (^|\.)sixsigmatraffic\.com$
 (^|\.)sizesidewalk\.com$
+(^|\.)sizmek\.com$
 (^|\.)skimresources\.com$
 (^|\.)skylink\.vn$
 (^|\.)sleepcartoon\.com$
@@ -3980,6 +4014,7 @@
 (^|\.)vpon\.com$
 (^|\.)vrs\.cz$
 (^|\.)vs\.tucows\.com$
+(^|\.)vtracy\.de$
 (^|\.)vungle\.com$
 (^|\.)wa\.and\.co\.uk$
 (^|\.)wantmobi\.bid$
@@ -5381,8 +5416,6 @@
 (^|\.)fych\.uranus\.sogou\.com$
 (^|\.)fz863\.com$
 (^|\.)fz\.letv\.com$
-(^|\.)g1\.163\.com$
-(^|\.)g\.163\.com$
 (^|\.)g1\.tagtic\.cn$
 (^|\.)g3\.letv\.com$
 (^|\.)g\.adnxs\.com$
@@ -6339,7 +6372,6 @@
 (^|\.)pro\.cn$
 (^|\.)prom\.gome\.com\.cn$
 (^|\.)promote\.biz\.weibo\.cn$
-(^|\.)promotion\.aliyun\.com$
 (^|\.)promotion\.gomlab\.com$
 (^|\.)proton\.flurry\.com$
 (^|\.)proxy\.sec\.miui\.com$
@@ -9105,8 +9137,6 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)fych\.uranus\.sogou\.com$
 (^|\.)fz863\.com$
 (^|\.)fz\.letv\.com$
-(^|\.)g1\.163\.com$
-(^|\.)g\.163\.com$
 (^|\.)g1\.tagtic\.cn$
 (^|\.)g3\.letv\.com$
 (^|\.)g\.adnxs\.com$
@@ -10063,7 +10093,6 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)pro\.cn$
 (^|\.)prom\.gome\.com\.cn$
 (^|\.)promote\.biz\.weibo\.cn$
-(^|\.)promotion\.aliyun\.com$
 (^|\.)promotion\.gomlab\.com$
 (^|\.)proton\.flurry\.com$
 (^|\.)proxy\.sec\.miui\.com$
@@ -38122,6 +38151,7 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)3lift\.com$
 (^|\.)4affiliate\.net$
 (^|\.)4d5\.net$
+(^|\.)4info\.com$
 (^|\.)4jnzhl0d0\.com$
 (^|\.)50websads\.com$
 (^|\.)518ad\.com$
@@ -38141,7 +38171,6 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)a\.sakh\.com$
 (^|\.)a\.ucoz\.ru$
 (^|\.)a135\.wftv\.com$
-(^|\.)a32\.g\.a\.yimg\.com$
 (^|\.)aaddzz\.com$
 (^|\.)abacho\.net$
 (^|\.)abackchain\.com$
@@ -38248,6 +38277,7 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)adform\.net$
 (^|\.)adformdsp\.net$
 (^|\.)adgoto\.com$
+(^|\.)adhaven\.com$
 (^|\.)adhoc4\.net$
 (^|\.)adimage\.guardian\.co\.uk$
 (^|\.)adimages\.been\.com$
@@ -38623,6 +38653,7 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)anxiousapples\.com$
 (^|\.)apathetictheory\.com$
 (^|\.)api\.intensifier\.de$
+(^|\.)apolloprogram\.io$
 (^|\.)app\.pendo\.io$
 (^|\.)appsflyer\.com$
 (^|\.)aps\.hearstnp\.com$
@@ -38741,6 +38772,7 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)bizrate\.com$
 (^|\.)blast4traffic\.com$
 (^|\.)blingbucks\.com$
+(^|\.)blockadblock\.com$
 (^|\.)blogcounter\.de$
 (^|\.)blogherads\.com$
 (^|\.)blogrush\.com$
@@ -38806,7 +38838,6 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)cdn\.onesignal\.com$
 (^|\.)centerpointmedia\.com$
 (^|\.)ceskydomov\.alias\.ngs\.modry\.cz$
-(^|\.)ch\.questionmarket\.com$
 (^|\.)chairscrack\.com$
 (^|\.)chameleon\.ad$
 (^|\.)channel1vids\.com$
@@ -38830,7 +38861,6 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)claria\.com$
 (^|\.)class-act-clicks\.com$
 (^|\.)clearcomb\.com$
-(^|\.)click\.absoluteagency\.com$
 (^|\.)click\.fool\.com$
 (^|\.)click2freemoney\.com$
 (^|\.)clickability\.com$
@@ -38850,6 +38880,7 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)clicktag\.de$
 (^|\.)clicktrack\.ziyu\.net$
 (^|\.)clicktrade\.com$
+(^|\.)clickwith\.bid$
 (^|\.)clickxchange\.com$
 (^|\.)clickz\.com$
 (^|\.)clicmanager\.fr$
@@ -38865,6 +38896,7 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)cml\.sad\.ukrd\.com$
 (^|\.)cnt\.spbland\.ru$
 (^|\.)code-server\.biz$
+(^|\.)cognitiv\.ai$
 (^|\.)cointraffic\.io$
 (^|\.)colonize\.com$
 (^|\.)comclick\.com$
@@ -38882,15 +38914,16 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)connextra\.com$
 (^|\.)consciouscabbage\.com$
 (^|\.)consciouschairs\.com$
-(^|\.)consensu\.org$
 (^|\.)contadores\.miarroba\.com$
 (^|\.)contaxe\.de$
 (^|\.)content\.acc-hd\.de$
 (^|\.)content\.ad$
 (^|\.)converge-digital\.com$
+(^|\.)conversionbet\.com$
 (^|\.)conversionruler\.com$
 (^|\.)convrse\.media$
 (^|\.)coordinatedcub\.com$
+(^|\.)cooster\.ru$
 (^|\.)copperchickens\.com$
 (^|\.)copycarpenter\.com$
 (^|\.)copyrightaccesscontrols\.com$
@@ -38986,6 +39019,7 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)drumcash\.com$
 (^|\.)drydrum\.com$
 (^|\.)dsp\.io$
+(^|\.)dstillery\.com$
 (^|\.)dyntrk\.com$
 (^|\.)e-adimages\.scrippsnetworks\.com$
 (^|\.)e-bannerx\.com$
@@ -39037,7 +39071,6 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)eu-adcenter\.net$
 (^|\.)eu1\.madsone\.com$
 (^|\.)eurekster\.com$
-(^|\.)euroclick\.com$
 (^|\.)euros4click\.de$
 (^|\.)eusta\.de$
 (^|\.)eventbeacon\.ca$
@@ -39269,6 +39302,7 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)ip193\.cn$
 (^|\.)iperceptions\.com$
 (^|\.)ipro\.com$
+(^|\.)iqm\.com$
 (^|\.)ireklama\.cz$
 (^|\.)itfarm\.com$
 (^|\.)itop\.cz$
@@ -39366,6 +39400,7 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)marketing\.nyi\.net$
 (^|\.)marketing\.osijek031\.com$
 (^|\.)marketingsolutions\.yahoo\.com$
+(^|\.)marketo\.com$
 (^|\.)mas\.sector\.sk$
 (^|\.)matchcraft\.com$
 (^|\.)matheranalytics\.com$
@@ -39543,7 +39578,6 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)pagefair\.net$
 (^|\.)pagerank-ranking\.de$
 (^|\.)pagerank-submitter\.de$
-(^|\.)pagerank-united\.de$
 (^|\.)pagerank4you\.com$
 (^|\.)pageranktop\.com$
 (^|\.)paleleaf\.com$
@@ -39672,7 +39706,6 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)railwayrainstorm\.com$
 (^|\.)rampidads\.com$
 (^|\.)rank-master\.com$
-(^|\.)rank-master\.de$
 (^|\.)rankchamp\.de$
 (^|\.)ranking-charts\.de$
 (^|\.)ranking-id\.de$
@@ -39823,6 +39856,7 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)sitemeter\.com$
 (^|\.)sixscissors\.com$
 (^|\.)sizesidewalk\.com$
+(^|\.)sizmek\.com$
 (^|\.)skimresources\.com$
 (^|\.)skylink\.vn$
 (^|\.)sleepcartoon\.com$
@@ -39921,8 +39955,6 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)surfmusik-adserver\.de$
 (^|\.)swan-swan-goose\.com$
 (^|\.)swimslope\.com$
-(^|\.)switchadhub\.com$
-(^|\.)switchads\.com$
 (^|\.)swordfishdc\.com$
 (^|\.)swordgoose\.com$
 (^|\.)t\.insigit\.com$
@@ -39970,6 +40002,7 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)thirstytwig\.com$
 (^|\.)threechurch\.com$
 (^|\.)throattrees\.com$
+(^|\.)throtle\.io$
 (^|\.)tia\.timeinc\.net$
 (^|\.)ticklesign\.com$
 (^|\.)tidaltv\.com$
@@ -40039,6 +40072,7 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)traktrafficflow\.com$
 (^|\.)tranquilside\.com$
 (^|\.)travis\.bosscasinos\.com$
+(^|\.)trekdata\.com$
 (^|\.)tremendoustime\.com$
 (^|\.)trendcounter\.com$
 (^|\.)trendmd\.com$
@@ -40088,6 +40122,7 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)verblife-3\.co$
 (^|\.)vericlick\.com$
 (^|\.)vertadnet\.com$
+(^|\.)verticalmass\.com$
 (^|\.)veruta\.com$
 (^|\.)vervewireless\.com$
 (^|\.)videoadex\.com$
@@ -40122,6 +40157,7 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)webmaster-partnerprogramme24\.de$
 (^|\.)webmasterplan\.com$
 (^|\.)webmasterplan\.de$
+(^|\.)weborama\.com$
 (^|\.)weborama\.fr$
 (^|\.)webpower\.com$
 (^|\.)webreseau\.com$
@@ -44075,7 +44111,6 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)clgserv\.pro$
 (^|\.)clickandbuy\.review$
 (^|\.)clickandbuy\.win$
-(^|\.)clickwith\.bid$
 (^|\.)clickwith\.date$
 (^|\.)cliggi\.download$
 (^|\.)clod\.pw$
@@ -54437,6 +54472,7 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)hindsight\.getrockerbox\.com$
 (^|\.)metrics\.getrockerbox\.com$
 (^|\.)www\.getrockerbox\.com$
+(^|\.)cdn\.getshogun\.com$
 (^|\.)getsitecontrol\.com$
 (^|\.)app\.getsitecontrol\.com$
 (^|\.)demo\.getsitecontrol\.com$
@@ -56302,7 +56338,6 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)w2\.marinsm\.com$
 (^|\.)www\.marinsm\.com$
 (^|\.)x22tracker\.marinsm\.com$
-(^|\.)marketo\.com$
 (^|\.)abrtp1\.marketo\.com$
 (^|\.)abrtp1-cdn\.marketo\.com$
 (^|\.)alteryx\.marketo\.com$
@@ -58226,7 +58261,6 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)ntellicast\.com$
 (^|\.)mx7\.ntellicast\.com$
 (^|\.)ww9\.ntellicast\.com$
-(^|\.)pixel\.nymag\.com$
 (^|\.)peoplegraph\.firstpartyapps\.oaspapps\.com$
 (^|\.)omnitagjs\.com$
 (^|\.)adyoulike-api\.omnitagjs\.com$
@@ -60805,7 +60839,6 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)transfer8\.silverpop\.com$
 (^|\.)visitorinsight\.silverpop\.com$
 (^|\.)www\.silverpop\.com$
-(^|\.)sizmek\.com$
 (^|\.)adapi\.sizmek\.com$
 (^|\.)www\.adapi\.sizmek\.com$
 (^|\.)adreview\.sizmek\.com$
@@ -68813,6 +68846,7 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)24hourfitness\.com\.ssl\.sc\.omtrdc\.net$
 (^|\.)cbsi\.com\.ssl\.sc\.omtrdc\.net$
 (^|\.)hbonow\.com\.ssl\.sc\.omtrdc\.net$
+(^|\.)shutterfly\.com\.ssl\.sc\.omtrdc\.net$
 (^|\.)thebiglead\.com\.ssl\.sc\.omtrdc\.net$
 (^|\.)valuecityfurniture\.com\.ssl\.sc\.omtrdc\.net$
 (^|\.)windowssecrets\.com\.ssl\.sc\.omtrdc\.net$
@@ -70231,6 +70265,7 @@ eTV(^|\.)api\.push\.le\.com$
 (^|\.)view\.adsrvr\.org$
 (^|\.)lpweb\.altervista\.org$
 (^|\.)www\.lpweb\.altervista\.org$
+(^|\.)consensu\.org$
 (^|\.)mgr\.consensu\.org$
 (^|\.)admiral\.mgr\.consensu\.org$
 (^|\.)www\.admiral\.mgr\.consensu\.org$

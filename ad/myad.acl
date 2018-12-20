@@ -1,3 +1,14 @@
+#5ch
+(^|\.)nend\.net.*$
+#civillink
+#test
+(^|\.)pagead2\.googlesyndication\.com.*$
+
+#apkmirror
+(^|\.)pagefair\.net.*$
+(^|\.)quantserve\.com.*$
+(^|\.)adservice\.google\.com.*
+
 #pixiv
 (^|\.)googleadservices\.com.*$
 (^|\.)asset\.adserver\.vrizead\.com.*$
@@ -6,6 +17,7 @@
 (^|\.)sh\.adingo\.jp.*$
 (^|\.)js\.ad-stir\.com.*$
 (^|\.)adsymptotic\.com.*$
+(^|\.)cdn\.onesignal\.com.*$
 ##测试
 (^|\.)googletagservices\.com.*$
 
@@ -16,9 +28,9 @@
 .*\.umeng\.cn.*$
 
 #fan_5ch
-.*bypass\.ad\-stir\.com.*$
+.*bypass\.ad-stir\.com.*$
 .*\.adingo\.jp.*$
-.*\.aff\-adeals\.com.*$
+.*\.aff-adeals\.com.*$
 
 #flg
 (^|\.)www\.bannedbook\.org.*$
@@ -344,7 +356,6 @@
 .*\.wlmonitor\..*$
 .*\.yads\..*$
 .*\.zjtoolbar\..*$
-.*pixiv\.org\/click\?ad.*$
 .*yads\.c\.yimg\.jp.*$
 .*\.cnzz\..*$
 .*\.adsina\..*$

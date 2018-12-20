@@ -55,6 +55,7 @@ https://cdn-fluct.sh.adingo.jp/
 https://js.ad-stir.com/
 https://p.adsymptotic.com/
 https://www.googletagservices.com/
+https://cdn.onesignal.com/sdks/OneSignalSDK.js
 
 https://yj-a.p.adnxs.com/
 https://z.moatads.com/
@@ -66,3 +67,15 @@ https://static.adroute.focas.jp/
 https://sh.adingo.jp/
 ---------------------------------------
 (^|\.)amazon-adsystem\.com$
+---------------------------------------
+
+civillink
+http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+
+5ch
+http://nend.net/
+
+apkmirror
+https://asset.pagefair.net/ads.min.js
+https://secure.quantserve.com/quant.js
+https://adservice.google.com/adsid/integrator.js?domain=www.apkmirror.com
