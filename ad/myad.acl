@@ -18,7 +18,9 @@
 (^|\.)js\.ad-stir\.com.*$
 (^|\.)adsymptotic\.com.*$
 (^|\.)cdn\.onesignal\.com.*$
+.*\.amanad\.adtdp\.com.*$
 ##测试
+(^|\.)js\.gsspcln\.jp.*$
 (^|\.)googletagservices\.com.*$
 
 #facebook
