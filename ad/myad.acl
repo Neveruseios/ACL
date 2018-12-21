@@ -3,6 +3,8 @@
 (^|\.)dc\.csdn\.net.*$
 (^|\.)img-ads\.csdn\.net.*$
 (^|\.)beacon\.tingyun\.com.*$
+#测试
+(^|\.)www\.nda3456\.com.*$
 
 #5ch
 (^|\.)nend\.net.*$
