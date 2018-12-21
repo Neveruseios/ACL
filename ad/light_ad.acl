@@ -17,8 +17,11 @@
 
 #apkmirror
 (^|\.)pagefair\.net.*$
+(^|\.)pagefair\.com.*$
 (^|\.)quantserve\.com.*$
-(^|\.)adservice\.google\.com.*
+(^|\.)adservice\.google\.com.*$
+(^|\.)ado\.pro-market\.net.*$
+(^|\.)referrer\.disqus\.com.*$
 
 #pixiv
 (^|\.)googleadservices\.com.*$
@@ -30,6 +33,7 @@
 (^|\.)adsymptotic\.com.*$
 (^|\.)cdn\.onesignal\.com.*$
 .*\.amanad\.adtdp\.com.*$
+(^|\.)j\.amoad\.com.*$
 ##测试
 (^|\.)js\.gsspcln\.jp.*$
 (^|\.)googletagservices\.com.*$
