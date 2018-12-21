@@ -19,6 +19,8 @@
 (^|\.)adservice\.google\.com.*$
 (^|\.)ado\.pro-market\.net.*$
 (^|\.)referrer\.disqus\.com.*$
+#test
+(^|\.)widgets\.outbrain\.com.*$
 
 #pixiv
 (^|\.)googleadservices\.com.*$
