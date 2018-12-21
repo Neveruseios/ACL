@@ -3,6 +3,12 @@
 
 
 [outbound_block_list]
+#csdn
+(^|\.)rabc1\.iteye\.com.*$
+(^|\.)dc\.csdn\.net.*$
+(^|\.)img-ads\.csdn\.net.*$
+(^|\.)beacon\.tingyun\.com.*$
+
 #5ch
 (^|\.)nend\.net.*$
 #civillink
@@ -174,8 +180,6 @@
 (^|\.)web1\.51\.la.*$
 (^|\.)web2\.51\.la.*$
 
-# CSDN.*$
-(^|\.)dc\.csdn\.net.*$
 
 # crashlytics.*$
 (^|\.)e\.crashlytics\.com.*$
