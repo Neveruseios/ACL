@@ -5,7 +5,8 @@ wget "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0
 cat pglyoyo.acl neohosts.acl stevenhosts.acl   | sed 's/^\#.*//g' | sed '/^ *$/d' | sed '/^$/d' | \
 sed 's/\./\\\./g' | sed 's/$/\$/g' | sed 's/^\:\:1.*//g' | sed 's/^fe[0-9][0-9]\:\:.*//g' | \
 sed 's/^ff[0-9][0-9]\:\:.*//g' | sed 's/^255\.255\.255\.255.*//g' |sed 's/127\\.0\\.0\\.1 /(^|\\.)/' | \
-sed 's/0\\.0\\.0\\.0 /(^|\\.)/' | sed 's/\:\: /(^|\\.)/' | sed 's/\n\$/\$/' | uniq  > ad_temp.acl
+sed 's/0\\.0\\.0\\.0 /(^|\\.)/' | sed 's/\:\: /(^|\\.)/' | sed 's/\n\$/\$/' | \
+sed 's///g' | uniq  > ad_temp.acl
 
 #sort ad_temp.acl | uniq  | sed 's/^\#.*//g' | sed '/^ *$/d' | sed '/^$/d' | \
 #sed 's/\./\\\./g' | sed 's/$/\$/g' | sed 's/0\\.0\\.0\\.0 /(^|\\.)/' | \
