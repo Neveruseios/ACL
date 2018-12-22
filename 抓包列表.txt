@@ -94,4 +94,11 @@ https://img-ads.csdn.net/2016/201608021757063065.png
 https://beacon.tingyun.com/spe?pvid=
 https://www.nda3456.com/csdn/js/csdn.js
 
+yahoo
+b8.yahoo.co.jp
+ybx.yahoo.co.jp
+ib.adnxs.com
+rdsig.yahoo.co.jp
+yjtag.yahoo.co.jp
+b.hatena.ne.jp
 
