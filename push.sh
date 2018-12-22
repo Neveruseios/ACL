@@ -18,11 +18,17 @@ cd ..
 #cp proxy/gfwlist.acl gfwlist.acl
 
 cat common/start.acl ad/ad.acl common/zlstart.acl common/lan.acl cn/cn.acl \
-    proxy/gfwlist.acl | sed 's/^M//g' > aacl.acl
+    proxy/gfwlist.acl > aacl-temp.acl
 cat common/start.acl ad/light_ad.acl common/zlstart.acl common/lan.acl \
-    cn/cn.acl proxy/gfwlist.acl | sed 's/^M//g' > aacl-light.acl
+    cn/cn.acl proxy/gfwlist.acl > aacl-light-temp.acl
 cat common/start.acl common/zlstart.acl common/lan.acl cn/cn.acl \
-    proxy/gfwlist.acl | sed 's/^M//g' > aacl-none.acl
+    proxy/gfwlist.acl > aacl-none-temp.acl
+cat aacl-temp.acl | sed 's///g' > aacl.acl
+cat aacl-light-temp.acl | sed 's///g' > aacl-light.acl
+cat aacl-none-temp.acl | sed 's///g' > aacl-none.acl
+rm aacl-temp.acl aacl-light-temp.acl aacl-none-temp.acl
+
+
 #rm cn.acl ad.acl my_ad.acl gfwlist.acl
 
 #sed -i -r '/^#/d'  my.acl
