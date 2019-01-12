@@ -102,3 +102,12 @@ rdsig.yahoo.co.jp
 yjtag.yahoo.co.jp
 b.hatena.ne.jp
 
+cnblogs
+http://a1.cnblogs.com/group/C1-C2-T2
+
+jianshu
+https://gorgon.youdao.com/gorgon/request.s?udid=&id=
+http://adx.agrantsem.com/CookieMapping/WinaCM?wuid=d391689aabff4ce88498cedf772ebfd5
+
+sina
+https://rs.sinajs.cn/ht.gif?tids=
