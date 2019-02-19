@@ -33,8 +33,7 @@ uniq  > ad_temp.acl
 #sed -i 's/127\\.0\\.0\\.1 /(^|\\.)/' pglyoyo.acl
 #sed -i '1,13d' pglyoyo.acl
 
-cat adstart.acl myad.acl  ad_temp.acl | sed 's/
-//g' | sort -u | uniq > ad.acl
+cat adstart.acl myad.acl  ad_temp.acl | sort -u | uniq > ad.acl
 cat adstart.acl myad.acl | sort -u | uniq> light_ad.acl
 rm ad_temp.acl pglyoyo.acl stevenhosts.acl neohosts.acl
 
