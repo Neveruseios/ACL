@@ -23,9 +23,9 @@ cat common/start.acl ad/light_ad.acl common/zlstart.acl common/lan.acl \
     cn/cn.acl proxy/gfwlist.acl > aacl-light-temp.acl
 cat common/start.acl common/zlstart.acl cn/cn_site.acl common/lan.acl cn/cn.acl \
     proxy/gfwlist.acl > aacl-none-temp.acl
-#cat aacl-temp.acl | sed 's///g' > aacl.acl
-#cat aacl-light-temp.acl | sed 's///g' > aacl-light.acl
-#cat aacl-none-temp.acl | sed 's///g' > aacl-none.acl
+cat aacl-temp.acl > aacl.acl
+cat aacl-light-temp.acl > aacl-light.acl
+cat aacl-none-temp.acl > aacl-none.acl
 rm aacl-temp.acl aacl-light-temp.acl aacl-none-temp.acl
 
 
