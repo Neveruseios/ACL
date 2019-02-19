@@ -7,6 +7,7 @@ cat GeoLite2-Country-Blocks-IPv4.csv | grep 1814991 | cut -d ',' '-f1' > ../geoi
 cd ..
 #cat apnic.txt  | cut -d '|' -f2,4,5 | grep CN | cut -d '|' -f2,3 | sed "s/|/\//g" | sed "/^[0-9]*\/[0-9]*/d" > apnic_cn.txt
 cat delegated-apnic-latest | awk -F '|' '/CN/&&/ipv4/ {print $4 "/" 32-log($5)/log(2)}' > apnic_cn.txt
+cat delegated-apnic-latest | awk -F '|' '/CN/&&/ipv6/ {print $4 "/" $5}' >> apnic_cn.txt
 cat cnic.txt geoipCN.txt apnic_cn.txt|uniq > cn.acl
 rm geoipCN.txt GeoIPCountryCSV.zip cnic.txt apnic.txt apnic_cn.txt
 rm -r GeoLite2-Country-CSV*
