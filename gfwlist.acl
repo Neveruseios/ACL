@@ -5,6 +5,42 @@
 
 [bypass_all]
 
+
+[outbound_block_list]
+#MY
+(^|\.)\w*tapone\w*\.\w*$
+(^|\.)\w*umeng\w*\.\w*$
+(^|\.)\w*jpush\w*\.\w*$
+(^|\.)\w*umengcloud\w*\.\w*$
+(^|\.)\w*nxliyuan\w*\.\w*$
+(^|\.)\w*rd\.ane\.yahoo\w*\.\w*$
+(^|\.)rd\.ane\.yahoo\w*\.\w*$
+(^|\.)rd\.yahoo\w*\.\w*$
+(^|\.)geo\.query\.yahoo\w*\.\w*$
+(^|\.)ybp\.yahoo\w*\.\w*$
+(^|\.)ybx\.yahoo\w*\.\w*$
+(^|\.)yeas\.yahoo\w*\.\w*$
+(^|\.)yjaxc\.yahoo\w*\.\w*$
+(^|\.)\w*yads\w*\..*$
+(^|\.)\w*adservice\w*\..*$
+(^|\.)\w*ads\w*\..*$
+(^|\.)\w*adyun\w*\..*$
+(^|\.)pdgt\.gtimg\.cn\/get\/0\..*$
+(^|\.)11h5\.com$
+(^|\.)googleads\.g\.doubleclick\..*$
+(^|\.)googleads\.g\.doubleclick\.net\..*$
+(^|\.)\w*zybang\.com\/napi\/stat\/checkappupdate\..*$
+(^|\.)\w*zybang\.com\/napi\/stat\/checkappinfo\w*\..*$
+(^|\.)\w*zybang\.com\/course\/student\/pullmessage\..*$
+(^|\.)\w*uregister\.zybang\.com\/uregister\/api\/pulloffmsg\..*$
+(^|\.)\w*checkappupdate\w*\..*$
+(^|\.)\w*checkappinfo\w*\..*$
+(^|\.)\w*pullmessage\w*\..*$
+(^|\.)\w*pulloffmsg\w*\..*$
+(^|\.)\w*h5\.m\.taobao\.com\/applink\..*$
+(^|\.)\w*h5api\.m\.taobao\.com\..*$
+(^|\.)\w*wgo\.mmstat\.com\..*$
+
 [proxy_list]
 # Telegram IPs$
 91.108.4.0/22
