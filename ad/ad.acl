@@ -23639,7 +23639,7 @@
 (^|\.)pix\.impdesk\.com$
 #pixiv
 (^|\.)pix\.lfstmedia\.com$
-(^|\.)pixon\.ads-pixiv\.net.*$
+.*pixon\.ads-pixiv\.net.*$
 (^|\.)pix\.pulsemgr\.com$
 (^|\.)pix\.revsci\.net$
 (^|\.)pix\.silverpush\.co$

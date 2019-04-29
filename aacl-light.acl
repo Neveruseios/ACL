@@ -505,7 +505,7 @@
 .*\.pingma\.qq\.com.*$
 (^|\.)pixel\.quantserve\.com.*$
 #pixiv
-(^|\.)pixon\.ads-pixiv\.net.*$
+.*pixon\.ads-pixiv\.net.*$
 .*\.p\.l\.qq\.com.*$
 .*\.pmir\.3g\.qq\.com.*$
 .*\.pms\.mb\.qq\.com.*$
