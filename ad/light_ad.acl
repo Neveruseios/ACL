@@ -1,4 +1,7 @@
 
+
+[outbound_block_list]
+
 115.231.99.203
 .*11h5\.com.*$
 .*\.2052\.flash2-http\.qq\.com.*$
@@ -60,6 +63,7 @@
 .*\.adslvseed\.qq\.com.*$
 .*\.adsmogo\..*$
 .*\.adsolution\.imtt\.qq\.com.*$
+.*\.ads-pixiv\.net.*$
 .*\.adsqqclick\.qq\.com.*$
 .*\.adsrich\.qq\.com.*$
 .*\.adsrvmedia\..*$
@@ -485,7 +489,6 @@
 .*\.oth\.eve\.mdt\.qq\.com.*$
 .*\.oth\.str\.mdt\.qq\.com.*$
 .*\.oth\.update\.mdt\.qq\.com.*$
-[outbound_block_list]
 .*\.p2\.l\.qq\.com.*$
 .*\.p3\.l\.qq\.com.*$
 .*\.p4psearch\.china\.alibaba\.com.*$
@@ -503,7 +506,6 @@
 .*\.pingma\.qq\.com.*$
 (^|\.)pixel\.quantserve\.com.*$
 #pixiv
-.*pixon\.ads-pixiv\.net.*$
 .*\.p\.l\.qq\.com.*$
 .*\.pmir\.3g\.qq\.com.*$
 .*\.pms\.mb\.qq\.com.*$
@@ -565,6 +567,7 @@
 ^s\.baidu\.com.*$
 .*\.scdown\.qq\.com.*$
 ^sclick\.baidu\.com.*$
+(^|\.)scorecardresearch\.com.*$
 ^s\.cpro\.baidu\.com.*$
 .*\.sdk\.e\.qq\.com.*$
 .*sdk\.look\.360\.cn.*$
