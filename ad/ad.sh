@@ -37,5 +37,5 @@ cat myad.acl  ad_temp.acl | sort -u | uniq > ad_tmp.acl
 cat myad.acl | sort -u | uniq> light_ad_tmp.acl
 cat adstart.acl ad_temp.acl > ad.acl
 cat adstart.acl light_ad_tmp.acl > light_ad.acl
-rm ad_temp.acl pglyoyo.acl stevenhosts.acl ad_temp.acl light_ad_tmp.acl
+rm ad_temp.acl pglyoyo.acl stevenhosts.acl ad_tmp.acl light_ad_tmp.acl
 
