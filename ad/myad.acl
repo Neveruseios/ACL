@@ -1,3 +1,7 @@
+#shindanmaker
+##test
+.*\.taboola\.com.*$
+
 #sina
 (^|\.)rs\.sinajs\.cn.*
 
@@ -6,6 +10,9 @@
 #百度推广联盟
 (^|\.)zzy1\.quyaoya\.com.*
 (^|\.)hdb\.maxli\.cn.*
+#百度网盟推广
+.*\.wshufa\.com.*$
+
 #新浪新闻流
 (^|\.)cre\.dp\.sina\.cn.*
 #百度营销

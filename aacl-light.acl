@@ -588,6 +588,7 @@
 (^|\.)shenyun\.org.*$
 (^|\.)shenyunperformingarts\.org.*$
 (^|\.)shenzhoufilm\.com.*$
+#shindanmaker
 .*shouji\.360\.cn.*$
 .*\.showwxml\.qq\.com.*$
 #sina
@@ -628,6 +629,7 @@
 ^t10\.baidu\.com.*$
 ^t11\.baidu\.com.*$
 ^t12\.baidu\.com.*$
+.*\.taboola\.com.*$
 .*\.tajs\.qq\.com.*$
 .*\.t\.alimama\.com.*$
 .*\.tapone\..*$
@@ -636,6 +638,7 @@
 (^|\.)tc\.51la\.net.*$
 .*\.tcss\.qq\.com.*$
 # Tencent Bugly.*$
+##test
 #test
 .*\.t\.gdt\.qq\.com.*$
 .*\.tj\.b\.qq\.com.*$
@@ -719,6 +722,7 @@
 ^wm\.baidu\.com.*$
 ^wn\.pos\.baidu\.com.*$
 (^|\.)wr\.da\.netease\.com.*$
+.*\.wshufa\.com.*$
 .*\.ws\.sj\.qq\.com.*$
 (^|\.)wujieliulan\.com.*$
 .*\.wup\.imtt\.qq\.com.*$
@@ -774,6 +778,7 @@
 (^|\.)zzimg\.51\.la.*$
 (^|\.)zzy1\.quyaoya\.com.*
 #百度推广联盟
+#百度网盟推广
 #百度营销
 #币用
 ##测试
